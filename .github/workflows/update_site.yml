@@ -1,0 +1,120 @@
+name: Update GitHub Trends Dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      snapshot_label:
+        description: Manual snapshot label (YYYY-MM-DD)
+        required: false
+        type: string
+      skip_deploy:
+        description: Generate preview only without publishing
+        required: false
+        default: false
+        type: boolean
+  push:
+    branches:
+      - main
+  schedule:
+    # GitHub Actions cron uses UTC. 16:00 UTC on Sunday equals 00:00 on Monday in Asia/Shanghai.
+    - cron: "0 16 * * 0"
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      REPORT_EMAIL_SMTP_HOST: ${{ secrets.REPORT_EMAIL_SMTP_HOST }}
+      REPORT_EMAIL_SMTP_PORT: ${{ secrets.REPORT_EMAIL_SMTP_PORT }}
+      REPORT_EMAIL_USERNAME: ${{ secrets.REPORT_EMAIL_USERNAME }}
+      REPORT_EMAIL_PASSWORD: ${{ secrets.REPORT_EMAIL_PASSWORD }}
+      REPORT_EMAIL_FROM: ${{ secrets.REPORT_EMAIL_FROM }}
+      REPORT_EMAIL_TO: ${{ secrets.REPORT_EMAIL_TO }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore cache directory
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: github-trends-cache-${{ runner.os }}-${{ github.ref_name }}
+          restore-keys: |
+            github-trends-cache-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore previous snapshots from gh-pages
+        shell: bash
+        run: |
+          mkdir -p dist/data/history/snapshots
+          git fetch origin gh-pages || true
+          if git show origin/gh-pages:data/history/latest.json > data/history/latest.json 2>/dev/null; then
+            echo "Restored latest snapshot."
+          fi
+          for file in $(git ls-tree -r --name-only origin/gh-pages data/history/snapshots 2>/dev/null || true); do
+            mkdir -p "$(dirname "$file")"
+            output_file="${file/data\/history\/snapshots/dist\/data\/history\/snapshots}"
+            mkdir -p "$(dirname "$output_file")"
+            git show "origin/gh-pages:$file" > "$output_file"
+          done
+
+      - name: Generate static dashboard
+        run: |
+          python scripts/generate_dashboard.py \
+            --config config/topics.yaml \
+            --template templates/index.html.j2 \
+            --cache-dir data/cache \
+            --history-input data/history/latest.json \
+            --history-output dist/data/history/latest.json \
+            --history-archive-dir dist/data/history/snapshots \
+            --output-html dist/index.html \
+            --output-json dist/dashboard.json \
+            --output-report dist/weekly-report.md \
+            --snapshot-label "${{ github.event.inputs.snapshot_label }}" \
+            --strict \
+            --deliver-subscriptions
+          touch dist/.nojekyll
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-trends-dashboard-preview
+          path: dist
+          retention-days: 14
+
+      - name: Deploy to gh-pages
+        if: ${{ github.event.inputs.skip_deploy != 'true' }}
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          force_orphan: false
+          commit_message: "chore: update GitHub industry trends dashboard"
+
+      - name: Send failure notice
+        if: failure()
+        run: |
+          python scripts/send_notification.py \
+            --status failure \
+            --message "GitHub Trends dashboard workflow failed for ${{ github.repository }} @ ${{ github.run_id }}"

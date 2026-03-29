@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>__TITLE__</title>
+    <script>
+      tailwind = {
+        config: {
+          darkMode: "class",
+          theme: {
+            extend: {
+              fontFamily: {
+                sans: ["Manrope", "ui-sans-serif", "system-ui"],
+                display: ["Space Grotesk", "ui-sans-serif", "system-ui"],
+              },
+              colors: {
+                ink: { 950: "#07111f", 900: "#0d1729", 800: "#152238" },
+                mint: { 300: "#8df3c8", 400: "#53d7aa", 500: "#1bb783" },
+                coral: { 300: "#f9a689", 400: "#f27c57" },
+              },
+              boxShadow: {
+                glow: "0 24px 70px rgba(17, 183, 131, 0.16)",
+              },
+            },
+          },
+        },
+      };
+      const preferredTheme = localStorage.getItem("dashboard-theme");
+      const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      if ((preferredTheme && preferredTheme === "dark") || (!preferredTheme && systemDark)) {
+        document.documentElement.classList.add("dark");
+      }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      .scrollbar-hide::-webkit-scrollbar { display: none; }
+      .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+  </head>
+  <body class="min-h-full bg-slate-100 text-slate-900 antialiased transition-colors dark:bg-ink-950 dark:text-slate-100">
+    <div class="relative min-h-full overflow-hidden">
+      <div class="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(27,183,131,0.25),_transparent_30%),radial-gradient(circle_at_bottom_right,_rgba(242,124,87,0.16),_transparent_26%)] dark:bg-[radial-gradient(circle_at_top_left,_rgba(83,215,170,0.18),_transparent_32%),radial-gradient(circle_at_bottom_right,_rgba(242,124,87,0.12),_transparent_24%)]"></div>
+      <main class="relative mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+        <section class="overflow-hidden rounded-[2rem] border border-white/60 bg-white/85 p-6 shadow-glow backdrop-blur dark:border-white/10 dark:bg-white/5">
+          <div class="flex flex-col gap-6 xl:flex-row xl:items-start xl:justify-between">
+            <div class="max-w-4xl">
+              <div class="flex flex-wrap items-center gap-3">
+                <div class="flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-950 text-lg font-bold text-white dark:bg-white dark:text-slate-950">GT</div>
+                <div>
+                  <p class="text-xs font-semibold uppercase tracking-[0.25em] text-mint-500 dark:text-mint-300">GitHub Industry Intelligence</p>
+                  <h1 class="font-display text-4xl font-bold tracking-tight sm:text-5xl">__TITLE__</h1>
+                </div>
+              </div>
+              <p class="mt-4 max-w-3xl text-sm leading-7 text-slate-600 dark:text-slate-300">
+                一个具备多周历史、热度评分、异常检测、自动解读、问答入口和订阅能力的开源趋势智能体。它不只展示排行榜，还会解释为什么这些项目值得关注。
+              </p>
+              <div class="mt-4 flex flex-wrap gap-3 text-xs font-medium text-slate-500 dark:text-slate-400">
+                <span class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 dark:border-white/10 dark:bg-white/5">数据源: GitHub Search API + Repository API</span>
+                <span class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 dark:border-white/10 dark:bg-white/5" id="generatedAtBadge"></span>
+                <span class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 dark:border-white/10 dark:bg-white/5" id="trackedBadge"></span>
+              </div>
+            </div>
+            <div class="flex flex-wrap gap-3">
+              <a href="./dashboard.json" class="inline-flex items-center rounded-2xl border border-slate-200 bg-white/90 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-mint-400 hover:text-mint-600 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">查看 JSON</a>
+              <a href="./weekly-report.md" class="inline-flex items-center rounded-2xl border border-slate-200 bg-white/90 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-coral-300 hover:text-coral-400 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">查看周报</a>
+              <button id="notesToggle" type="button" class="inline-flex items-center rounded-2xl border border-slate-200 bg-white/90 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-400 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">数据说明</button>
+              <button id="themeToggle" type="button" class="inline-flex items-center rounded-2xl border border-slate-200 bg-white/90 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-slate-400 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">切换主题</button>
+            </div>
+          </div>
+          <div id="summaryCards" class="mt-8 grid gap-4 md:grid-cols-2 xl:grid-cols-4"></div>
+        </section>
+
+        <section class="mt-6 grid gap-6 xl:grid-cols-[1.3fr_0.7fr]">
+          <div class="rounded-[2rem] border border-white/60 bg-white/85 p-5 backdrop-blur dark:border-white/10 dark:bg-white/5">
+            <div class="flex flex-col gap-4">
+              <div class="w-full rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+                <p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">执行摘要</p>
+                <div id="executiveSummary" class="mt-3 space-y-2 text-sm leading-7 text-slate-600 dark:text-slate-300"></div>
+              </div>
+              <div class="flex flex-wrap gap-3" id="primaryTabs"></div>
+              <div class="scrollbar-hide -mx-1 overflow-x-auto px-1">
+                <div class="flex min-w-max gap-3" id="secondaryTabs"></div>
+              </div>
+              <div class="grid gap-3 lg:grid-cols-[1.3fr_repeat(3,minmax(0,1fr))]">
+                <label class="rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 text-sm dark:border-white/10 dark:bg-white/5">
+                  <span class="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">搜索</span>
+                  <input id="searchInput" type="search" placeholder="项目、描述、语言、Topic" class="w-full bg-transparent text-sm outline-none placeholder:text-slate-400" />
+                </label>
+                <label class="rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 text-sm dark:border-white/10 dark:bg-white/5">
+                  <span class="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">排序</span>
+                  <select id="sortSelect" class="w-full bg-transparent text-sm outline-none"></select>
+                </label>
+                <label class="rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 text-sm dark:border-white/10 dark:bg-white/5">
+                  <span class="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">语言</span>
+                  <select id="languageSelect" class="w-full bg-transparent text-sm outline-none"></select>
+                </label>
+                <label class="rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 text-sm dark:border-white/10 dark:bg-white/5">
+                  <span class="mb-2 block text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">Topic</span>
+                  <select id="topicSelect" class="w-full bg-transparent text-sm outline-none"></select>
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-[2rem] border border-white/60 bg-white/85 p-5 backdrop-blur dark:border-white/10 dark:bg-white/5">
+            <p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">问答式智能体入口</p>
+            <h2 class="mt-2 font-display text-2xl font-bold">直接问趋势问题</h2>
+            <p class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300">例如“本周 AI 赛道最值得关注的 5 个项目是什么？”或“哪些仓库在持续上榜？”</p>
+            <div class="mt-4 flex flex-wrap gap-2" id="qaExamples"></div>
+            <label class="mt-4 block rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 dark:border-white/10 dark:bg-white/5">
+              <textarea id="qaInput" rows="4" class="w-full resize-none bg-transparent text-sm leading-7 outline-none placeholder:text-slate-400" placeholder="输入你的问题..."></textarea>
+            </label>
+            <div class="mt-3 flex justify-end">
+              <button id="qaSubmit" type="button" class="inline-flex items-center rounded-2xl bg-slate-950 px-4 py-3 text-sm font-semibold text-white dark:bg-white dark:text-slate-950">获取回答</button>
+            </div>
+            <div id="qaAnswer" class="mt-4 rounded-2xl border border-slate-200 bg-slate-50/80 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"></div>
+          </div>
+        </section>
+
+        <section class="mt-6 rounded-[2rem] border border-white/60 bg-white/85 p-5 backdrop-blur dark:border-white/10 dark:bg-white/5">
+          <div class="flex flex-col gap-4 border-b border-slate-200/80 pb-5 dark:border-white/10 lg:flex-row lg:items-end lg:justify-between">
+            <div>
+              <p id="sectionEyebrow" class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400"></p>
+              <h2 id="sectionTitle" class="mt-2 font-display text-3xl font-bold"></h2>
+              <p id="sectionDescription" class="mt-2 max-w-4xl text-sm leading-7 text-slate-600 dark:text-slate-300"></p>
+              <div id="sectionTopics" class="mt-3 flex flex-wrap gap-2"></div>
+            </div>
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/80 px-4 py-3 text-sm dark:border-white/10 dark:bg-white/5">当前可见结果: <span id="resultCount" class="font-semibold text-slate-950 dark:text-white">0</span></div>
+          </div>
+          <div class="mt-5 grid gap-4 xl:grid-cols-[1.1fr_0.9fr]">
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">行业观察结论</p>
+              <div id="sectionInsights" class="mt-3 space-y-2 text-sm leading-7 text-slate-600 dark:text-slate-300"></div>
+            </div>
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">本周变化报告</p>
+              <div id="changeReport" class="mt-3 grid gap-3 sm:grid-cols-3"></div>
+            </div>
+          </div>
+          <div class="mt-5 overflow-x-auto rounded-2xl border border-slate-200 bg-white/70 dark:border-white/10 dark:bg-white/5">
+            <table class="hidden min-w-full divide-y divide-slate-200 text-left lg:table dark:divide-white/10">
+              <thead>
+                <tr class="text-xs uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">
+                  <th class="px-4 py-3">项目</th><th class="px-4 py-3">趋势</th><th class="px-4 py-3">本周增长</th><th class="px-4 py-3">总 Star</th><th class="px-4 py-3">热度</th><th class="px-4 py-3">主要语言</th><th class="px-4 py-3">详情</th>
+                </tr>
+              </thead>
+              <tbody id="tableBody" class="divide-y divide-slate-200 dark:divide-white/10"></tbody>
+            </table>
+            <div id="mobileCards" class="grid gap-4 p-4 lg:hidden"></div>
+          </div>
+          <div id="emptyState" class="hidden py-10 text-center text-sm text-slate-500 dark:text-slate-400">当前筛选条件下没有匹配结果。</div>
+        </section>
+      </main>
+    </div>
+
+    <aside id="notesDrawer" class="fixed inset-y-0 right-0 z-40 hidden w-full max-w-xl border-l border-slate-200 bg-white p-6 shadow-2xl dark:border-white/10 dark:bg-ink-900">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">数据说明</p>
+          <h3 class="mt-2 font-display text-2xl font-bold">排名逻辑与限制</h3>
+        </div>
+        <button id="notesClose" type="button" class="rounded-full border border-slate-200 px-3 py-1 text-sm dark:border-white/10">关闭</button>
+      </div>
+      <div id="dataNotes" class="mt-6 space-y-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></div>
+    </aside>
+
+    <div id="modalOverlay" class="fixed inset-0 z-50 hidden bg-slate-950/50 p-4 backdrop-blur-sm">
+      <div class="mx-auto mt-4 max-w-4xl rounded-[2rem] border border-white/10 bg-white p-6 shadow-2xl dark:bg-ink-900">
+        <div class="flex items-start justify-between gap-4">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">项目详情</p>
+            <h3 id="modalTitle" class="mt-2 font-display text-3xl font-bold"></h3>
+            <p id="modalMeta" class="mt-2 text-sm text-slate-500 dark:text-slate-400"></p>
+          </div>
+          <button id="modalClose" type="button" class="rounded-full border border-slate-200 px-3 py-1 text-sm dark:border-white/10">关闭</button>
+        </div>
+        <div class="mt-5 grid gap-4 lg:grid-cols-[1.1fr_0.9fr]">
+          <div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">README 摘要</p>
+            <p id="modalReadme" class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></p>
+          </div>
+          <div class="grid gap-4">
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">Star 历史</p>
+              <div id="modalSparkline" class="mt-3"></div>
+            </div>
+            <div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">相关项目</p>
+              <div id="modalRelated" class="mt-3 space-y-2"></div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-4 rounded-2xl border border-slate-200 bg-slate-50/80 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"><div class="flex flex-wrap gap-2" id="modalTopics"></div></div>
+      </div>
+    </div>
+
+    <script>
+      const dashboard = __DASHBOARD_JSON__;
+      const state = { primaryTab: dashboard.primary_tabs[0].key, secondaryTab: dashboard.primary_tabs[0].secondary[0], query: "", sortBy: "heat_score", language: "all", topic: "all" };
+      const elements = {
+        generatedAtBadge: document.getElementById("generatedAtBadge"),
+        trackedBadge: document.getElementById("trackedBadge"),
+        summaryCards: document.getElementById("summaryCards"),
+        executiveSummary: document.getElementById("executiveSummary"),
+        primaryTabs: document.getElementById("primaryTabs"),
+        secondaryTabs: document.getElementById("secondaryTabs"),
+        searchInput: document.getElementById("searchInput"),
+        sortSelect: document.getElementById("sortSelect"),
+        languageSelect: document.getElementById("languageSelect"),
+        topicSelect: document.getElementById("topicSelect"),
+        sectionEyebrow: document.getElementById("sectionEyebrow"),
+        sectionTitle: document.getElementById("sectionTitle"),
+        sectionDescription: document.getElementById("sectionDescription"),
+        sectionTopics: document.getElementById("sectionTopics"),
+        sectionInsights: document.getElementById("sectionInsights"),
+        changeReport: document.getElementById("changeReport"),
+        resultCount: document.getElementById("resultCount"),
+        tableBody: document.getElementById("tableBody"),
+        mobileCards: document.getElementById("mobileCards"),
+        emptyState: document.getElementById("emptyState"),
+        qaExamples: document.getElementById("qaExamples"),
+        qaInput: document.getElementById("qaInput"),
+        qaSubmit: document.getElementById("qaSubmit"),
+        qaAnswer: document.getElementById("qaAnswer"),
+        notesToggle: document.getElementById("notesToggle"),
+        notesDrawer: document.getElementById("notesDrawer"),
+        notesClose: document.getElementById("notesClose"),
+        dataNotes: document.getElementById("dataNotes"),
+        modalOverlay: document.getElementById("modalOverlay"),
+        modalTitle: document.getElementById("modalTitle"),
+        modalMeta: document.getElementById("modalMeta"),
+        modalReadme: document.getElementById("modalReadme"),
+        modalSparkline: document.getElementById("modalSparkline"),
+        modalRelated: document.getElementById("modalRelated"),
+        modalTopics: document.getElementById("modalTopics"),
+        modalClose: document.getElementById("modalClose"),
+        themeToggle: document.getElementById("themeToggle")
+      };
+
+      function formatNumber(value) {
+        return new Intl.NumberFormat("zh-CN").format(value || 0);
+      }
+
+      function escapeHtml(value) {
+        return String(value ?? "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#39;");
+      }
+
+      function signed(value) {
+        const number = Number(value || 0);
+        return number > 0 ? `+${formatNumber(number)}` : `${formatNumber(number)}`;
+      }
+
+      function toneClasses(tone) {
+        if (tone === "mint") return "border-mint-400/20 bg-mint-400/10 text-mint-600 dark:text-mint-300";
+        if (tone === "coral") return "border-coral-400/20 bg-coral-400/10 text-coral-400";
+        if (tone === "sky") return "border-sky-400/20 bg-sky-400/10 text-sky-600 dark:text-sky-300";
+        return "border-slate-200 bg-slate-50 text-slate-700 dark:border-white/10 dark:bg-white/5 dark:text-slate-200";
+      }
+
+      function growthPill(repo) {
+        if (repo.anomaly) return "bg-coral-400/15 text-coral-400";
+        if (repo.newcomer) return "bg-amber-400/15 text-amber-500";
+        if (repo.weekly_stars > 0) return "bg-mint-400/15 text-mint-500 dark:text-mint-300";
+        return "bg-slate-200 text-slate-500 dark:bg-white/10 dark:text-slate-400";
+      }
+
+      function getCurrentSection() {
+        return dashboard.sections[state.secondaryTab];
+      }
+
+      function sortValue(repo, sortBy) {
+        if (sortBy === "language") return repo.language || "";
+        if (sortBy === "pushed_at") return repo.pushed_at || "";
+        return repo[sortBy] ?? 0;
+      }
+
+      function computeFilteredRepos(section) {
+        const query = state.query.trim().toLowerCase();
+        const filtered = section.repos.filter((repo) => {
+          const matchesQuery = !query || [
+            repo.full_name,
+            repo.description,
+            repo.language,
+            ...(repo.all_topics || []),
+          ].join(" ").toLowerCase().includes(query);
+          const matchesLanguage = state.language === "all" || repo.language === state.language;
+          const matchesTopic = state.topic === "all" || (repo.all_topics || []).includes(state.topic);
+          return matchesQuery && matchesLanguage && matchesTopic;
+        });
+
+        return filtered.sort((left, right) => {
+          const leftValue = sortValue(left, state.sortBy);
+          const rightValue = sortValue(right, state.sortBy);
+          if (typeof leftValue === "string") {
+            return String(leftValue).localeCompare(String(rightValue), "zh-CN");
+          }
+          return Number(rightValue) - Number(leftValue);
+        });
+      }
+
+      function sparklineSvg(values, width = 120, height = 34) {
+        if (!values?.length) return "";
+        const min = Math.min(...values);
+        const max = Math.max(...values);
+        const spread = Math.max(max - min, 1);
+        const points = values.map((value, index) => {
+          const x = (index / Math.max(values.length - 1, 1)) * width;
+          const y = height - ((value - min) / spread) * (height - 4) - 2;
+          return `${x},${y}`;
+        });
+        return `<svg viewBox="0 0 ${width} ${height}" class="h-9 w-32"><polyline fill="none" stroke="currentColor" stroke-width="2.5" points="${points.join(" ")}" /></svg>`;
+      }
+
+      function repoBadges(repo) {
+        const items = [];
+        if (repo.newcomer) items.push('<span class="rounded-full bg-amber-400/15 px-2.5 py-1 text-xs font-semibold text-amber-500">新秀</span>');
+        if (repo.anomaly) items.push('<span class="rounded-full bg-coral-400/15 px-2.5 py-1 text-xs font-semibold text-coral-400">异常增长</span>');
+        if (repo.section_streak > 1) items.push(`<span class="rounded-full bg-slate-900/10 px-2.5 py-1 text-xs font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">连续上榜 ${repo.section_streak} 周</span>`);
+        return items.join("");
+      }
+
+      function renderSummary() {
+        elements.generatedAtBadge.textContent = `生成时间: ${dashboard.generated_at}`;
+        elements.trackedBadge.textContent = `监控仓库: ${dashboard.tracked_repo_count}`;
+        elements.summaryCards.innerHTML = dashboard.summary_cards.map((card) => `
+          <div class="rounded-3xl border ${toneClasses(card.tone)} p-4">
+            <p class="text-xs font-semibold uppercase tracking-[0.22em] opacity-70">${escapeHtml(card.label)}</p>
+            <p class="mt-3 text-2xl font-bold">${escapeHtml(card.value)}</p>
+            <p class="mt-2 text-sm opacity-80">${escapeHtml(card.description)}</p>
+          </div>
+        `).join("");
+        elements.executiveSummary.innerHTML = dashboard.executive_summary.map((item) => `<p>• ${escapeHtml(item)}</p>`).join("");
+      }
+
+      function renderTabs() {
+        elements.primaryTabs.innerHTML = dashboard.primary_tabs.map((tab) => {
+          const active = tab.key === state.primaryTab;
+          return `<button type="button" data-primary="${tab.key}" class="${active ? "bg-slate-950 text-white dark:bg-white dark:text-slate-950" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold transition dark:border-white/10">${escapeHtml(tab.label)}</button>`;
+        }).join("");
+
+        const currentPrimary = dashboard.primary_tabs.find((tab) => tab.key === state.primaryTab);
+        elements.secondaryTabs.innerHTML = currentPrimary.secondary.map((sectionKey) => {
+          const section = dashboard.sections[sectionKey];
+          const active = state.secondaryTab === sectionKey;
+          return `<button type="button" data-secondary="${sectionKey}" class="${active ? "bg-mint-500 text-white" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-2xl border border-slate-200 px-4 py-2 text-sm font-semibold transition dark:border-white/10">${escapeHtml(section.label)}</button>`;
+        }).join("");
+      }
+
+      function renderSelectOptions(section) {
+        elements.sortSelect.innerHTML = section.sort_options.map((option) => `<option value="${option.value}" ${option.value === state.sortBy ? "selected" : ""}>${escapeHtml(option.label)}</option>`).join("");
+        const languages = [...new Set(section.repos.map((repo) => repo.language).filter(Boolean))].sort((a, b) => a.localeCompare(b, "zh-CN"));
+        elements.languageSelect.innerHTML = ['<option value="all">全部语言</option>'].concat(languages.map((language) => `<option value="${escapeHtml(language)}" ${state.language === language ? "selected" : ""}>${escapeHtml(language)}</option>`)).join("");
+        const topics = [...new Set(section.repos.flatMap((repo) => repo.all_topics || []))].sort((a, b) => a.localeCompare(b, "zh-CN"));
+        elements.topicSelect.innerHTML = ['<option value="all">全部 Topic</option>'].concat(topics.map((topic) => `<option value="${escapeHtml(topic)}" ${state.topic === topic ? "selected" : ""}>${escapeHtml(topic)}</option>`)).join("");
+      }
+
+      function renderChangeReport(report) {
+        const cards = [
+          { label: "新上榜", items: report.new_entries.map((item) => `${item.full_name} (#${item.rank})`) },
+          { label: "掉榜", items: report.dropped_entries.map((item) => `${item.full_name} (原 #${item.previous_rank})`) },
+          { label: "排名变化", items: report.rank_movers.map((item) => `${item.full_name} (${item.previous_rank}→${item.current_rank})`) },
+        ];
+        elements.changeReport.innerHTML = cards.map((card) => `
+          <div class="rounded-2xl border border-slate-200 bg-white/80 p-3 dark:border-white/10 dark:bg-white/5">
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">${escapeHtml(card.label)}</p>
+            <div class="mt-3 space-y-2 text-sm text-slate-600 dark:text-slate-300">${card.items.length ? card.items.map((item) => `<p>${escapeHtml(item)}</p>`).join("") : '<p>暂无</p>'}</div>
+          </div>
+        `).join("");
+      }
+
+      function openModal(repo) {
+        elements.modalTitle.textContent = repo.full_name;
+        elements.modalMeta.textContent = `总 Star ${formatNumber(repo.stars_total)} · 周增 ${signed(repo.weekly_stars)} · 热度 ${repo.heat_score}`;
+        elements.modalReadme.textContent = repo.readme_excerpt || repo.description;
+        elements.modalSparkline.innerHTML = `<div class="text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 280, 80)}</div>`;
+        elements.modalTopics.innerHTML = (repo.all_topics || []).map((topic) => `<span class="rounded-full bg-slate-900/10 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">${escapeHtml(topic)}</span>`).join("");
+        elements.modalRelated.innerHTML = (repo.related_repos || []).map((item) => `
+          <a href="${item.html_url}" target="_blank" rel="noreferrer" class="block rounded-xl border border-slate-200 px-3 py-2 text-sm transition hover:border-mint-400 dark:border-white/10">
+            <div class="font-semibold">${escapeHtml(item.full_name)}</div>
+            <div class="text-xs text-slate-500 dark:text-slate-400">热度 ${item.heat_score}</div>
+          </a>
+        `).join("") || '<p class="text-sm text-slate-500 dark:text-slate-400">暂无高相关项目。</p>';
+        elements.modalOverlay.classList.remove("hidden");
+      }
+
+      function renderRepos() {
+        const section = getCurrentSection();
+        const repos = computeFilteredRepos(section);
+        elements.resultCount.textContent = String(repos.length);
+        elements.emptyState.classList.toggle("hidden", repos.length !== 0);
+        elements.tableBody.innerHTML = repos.map((repo) => `
+          <tr class="align-top transition hover:bg-slate-50 dark:hover:bg-white/5">
+            <td class="px-4 py-4">
+              <div class="min-w-[18rem]">
+                <a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-base font-semibold text-slate-950 underline decoration-transparent underline-offset-4 hover:decoration-mint-400 dark:text-white">${escapeHtml(repo.full_name)}</a>
+                <p class="mt-1 text-sm text-slate-500 dark:text-slate-400">${escapeHtml(repo.description)}</p>
+                <div class="mt-3 flex flex-wrap gap-2">${repoBadges(repo)}</div>
+              </div>
+            </td>
+            <td class="px-4 py-4"><div class="text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline)}</div></td>
+            <td class="px-4 py-4"><span class="${growthPill(repo)} inline-flex rounded-full px-3 py-1 text-sm font-semibold">${signed(repo.weekly_stars)}</span></td>
+            <td class="px-4 py-4 text-sm font-semibold">${formatNumber(repo.stars_total)}</td>
+            <td class="px-4 py-4 text-sm font-semibold">${repo.heat_score}</td>
+            <td class="px-4 py-4 text-sm">${escapeHtml(repo.language)}</td>
+            <td class="px-4 py-4"><button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-xl border border-slate-200 px-3 py-2 text-sm font-semibold transition hover:border-mint-400 dark:border-white/10">查看详情</button></td>
+          </tr>
+        `).join("");
+
+        elements.mobileCards.innerHTML = repos.map((repo) => `
+          <article class="rounded-3xl border border-slate-200 bg-white/80 p-4 dark:border-white/10 dark:bg-white/5">
+            <div class="flex items-start justify-between gap-3">
+              <div>
+                <a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-base font-semibold text-slate-950 dark:text-white">${escapeHtml(repo.full_name)}</a>
+                <p class="mt-2 text-sm leading-6 text-slate-600 dark:text-slate-300">${escapeHtml(repo.description)}</p>
+              </div>
+              <button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-xl border border-slate-200 px-3 py-2 text-xs font-semibold dark:border-white/10">详情</button>
+            </div>
+            <div class="mt-4 flex flex-wrap gap-2">${repoBadges(repo)}</div>
+            <div class="mt-4 flex items-center justify-between text-sm">
+              <span class="${growthPill(repo)} rounded-full px-3 py-1 font-semibold">${signed(repo.weekly_stars)}</span>
+              <span>Star ${formatNumber(repo.stars_total)}</span>
+              <span>热度 ${repo.heat_score}</span>
+            </div>
+            <div class="mt-4 text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 180, 42)}</div>
+          </article>
+        `).join("");
+
+        document.querySelectorAll("[data-detail]").forEach((button) => {
+          button.addEventListener("click", () => {
+            const target = repos.find((repo) => repo.full_name === button.dataset.detail);
+            if (target) openModal(target);
+          });
+        });
+      }
+
+      function renderSection() {
+        const section = getCurrentSection();
+        if (!section) return;
+        if (!section.sort_options.find((item) => item.value === state.sortBy)) state.sortBy = section.sort_options[0].value;
+        elements.sectionEyebrow.textContent = section.group === "industries" ? "Industry Matrix" : "Leaderboard";
+        elements.sectionTitle.textContent = section.title;
+        elements.sectionDescription.textContent = section.description;
+        elements.sectionTopics.innerHTML = (section.topics || []).map((topic) => `<span class="rounded-full border border-mint-400/20 bg-mint-400/10 px-3 py-1 text-xs font-semibold text-mint-600 dark:text-mint-300">topic:${escapeHtml(topic)}</span>`).join("");
+        elements.sectionInsights.innerHTML = section.insights.map((item) => `<p>• ${escapeHtml(item)}</p>`).join("");
+        renderChangeReport(section.change_report);
+        renderSelectOptions(section);
+        renderRepos();
+      }
+
+      function answerQuestion(question) {
+        if (!question.trim()) return "先输入一个问题，我再基于当前榜单和历史数据回答。";
+        const normalized = question.toLowerCase();
+        let section = dashboard.sections.weekly;
+        let count = Number((question.match(/\d+/) || [5])[0]);
+        count = Math.max(1, Math.min(count, 10));
+        if (question.includes("新秀")) section = dashboard.sections.newcomers;
+        else if (question.includes("热度")) section = dashboard.sections.heat;
+        else if (question.includes("全球")) section = dashboard.sections.global;
+        else Object.values(dashboard.sections).forEach((item) => {
+          if (item.group === "industries" && (question.includes(item.label) || question.includes(item.title))) section = item;
+        });
+
+        let repos = [...section.repos];
+        if (normalized.includes("持续上榜")) repos = repos.sort((a, b) => b.section_streak - a.section_streak || b.heat_score - a.heat_score);
+        else if (normalized.includes("异常")) repos = repos.filter((repo) => repo.anomaly).sort((a, b) => b.weekly_stars - a.weekly_stars);
+        else if (normalized.includes("新")) repos = repos.sort((a, b) => Number(b.newcomer) - Number(a.newcomer) || b.heat_score - a.heat_score);
+        else repos = repos.sort((a, b) => b.heat_score - a.heat_score || b.weekly_stars - a.weekly_stars);
+
+        const selected = repos.slice(0, count);
+        if (!selected.length) return "当前没有找到匹配条件的项目。";
+        return [`${section.title}里当前最值得关注的 ${selected.length} 个项目：`, ...selected.map((repo) => `- ${repo.full_name}：周增 ${signed(repo.weekly_stars)}，热度 ${repo.heat_score}，${repo.qa_reason}`)].join("\n");
+      }
+
+      function renderQAExamples() {
+        elements.qaExamples.innerHTML = dashboard.qa_examples.map((item) => `<button type="button" class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-semibold text-slate-600 transition hover:border-mint-400 hover:text-mint-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300" data-question="${escapeHtml(item)}">${escapeHtml(item)}</button>`).join("");
+        elements.qaExamples.querySelectorAll("[data-question]").forEach((button) => {
+          button.addEventListener("click", () => {
+            elements.qaInput.value = button.dataset.question;
+            elements.qaAnswer.textContent = answerQuestion(button.dataset.question);
+          });
+        });
+      }
+
+      function renderDataNotes() {
+        elements.dataNotes.innerHTML = dashboard.data_notes.map((item) => `<div class="rounded-2xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">${escapeHtml(item)}</div>`).join("");
+      }
+
+      function bindEvents() {
+        elements.primaryTabs.addEventListener("click", (event) => {
+          const button = event.target.closest("[data-primary]");
+          if (!button) return;
+          state.primaryTab = button.dataset.primary;
+          const primary = dashboard.primary_tabs.find((tab) => tab.key === state.primaryTab);
+          state.secondaryTab = primary.secondary[0];
+          state.language = "all";
+          state.topic = "all";
+          renderTabs();
+          renderSection();
+        });
+        elements.secondaryTabs.addEventListener("click", (event) => {
+          const button = event.target.closest("[data-secondary]");
+          if (!button) return;
+          state.secondaryTab = button.dataset.secondary;
+          state.language = "all";
+          state.topic = "all";
+          renderTabs();
+          renderSection();
+        });
+        elements.searchInput.addEventListener("input", (event) => { state.query = event.target.value; renderRepos(); });
+        elements.sortSelect.addEventListener("change", (event) => { state.sortBy = event.target.value; renderRepos(); });
+        elements.languageSelect.addEventListener("change", (event) => { state.language = event.target.value; renderRepos(); });
+        elements.topicSelect.addEventListener("change", (event) => { state.topic = event.target.value; renderRepos(); });
+        elements.qaSubmit.addEventListener("click", () => { elements.qaAnswer.textContent = answerQuestion(elements.qaInput.value); });
+        elements.notesToggle.addEventListener("click", () => elements.notesDrawer.classList.remove("hidden"));
+        elements.notesClose.addEventListener("click", () => elements.notesDrawer.classList.add("hidden"));
+        elements.modalClose.addEventListener("click", () => elements.modalOverlay.classList.add("hidden"));
+        elements.modalOverlay.addEventListener("click", (event) => { if (event.target === elements.modalOverlay) elements.modalOverlay.classList.add("hidden"); });
+        elements.themeToggle.addEventListener("click", () => {
+          const isDark = document.documentElement.classList.toggle("dark");
+          localStorage.setItem("dashboard-theme", isDark ? "dark" : "light");
+        });
+      }
+
+      renderSummary();
+      renderTabs();
+      renderSection();
+      renderQAExamples();
+      renderDataNotes();
+      bindEvents();
+      elements.qaAnswer.textContent = answerQuestion(dashboard.qa_examples[0]);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "industries": {
+    "education": {
+      "label": "教育",
+      "description": "围绕教育科技、教学平台和数字化学习场景的热门仓库。",
+      "topics": ["edtech", "learning-management-system", "education"],
+      "keywords": ["ai tutoring", "lms", "learning", "classroom", "course"]
+    },
+    "medicine": {
+      "label": "医学",
+      "description": "覆盖医疗健康、医学影像和生物信息学方向。",
+      "topics": ["healthcare", "medical-imaging", "bioinformatics"],
+      "keywords": ["imaging", "genomics", "ehr", "clinical", "bio"]
+    },
+    "finance": {
+      "label": "财经",
+      "description": "聚合金融科技、量化交易与区块链领域项目。",
+      "topics": ["fintech", "quant-trading", "blockchain"],
+      "keywords": ["payments", "wallet", "trading", "defi", "ledger"]
+    },
+    "technology": {
+      "label": "科技",
+      "description": "聚焦 AI、机器人与网络安全三大技术板块。",
+      "topics": ["artificial-intelligence", "robotics", "cybersecurity"],
+      "keywords": ["agent", "llm", "autonomy", "robot", "security"]
+    }
+  }
+}
+
