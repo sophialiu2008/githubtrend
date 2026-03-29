@@ -1,27 +1,27 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 17:22:04 CST",
+  "generated_at": "2026-03-29 17:49:10 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
   "global_repo_count": 100,
-  "weekly_repo_count": 5,
+  "weekly_repo_count": 0,
   "summary_cards": [
     {
       "label": "本周最热行业",
-      "value": "财经",
+      "value": "教育",
       "description": "按前 10 名累计周增长计算",
       "tone": "mint"
     },
     {
       "label": "增长最快项目",
-      "value": "public-apis/public-apis",
-      "description": "周增 1 Star",
+      "value": "暂无",
+      "description": "历史不足",
       "tone": "coral"
     },
     {
       "label": "新上榜数量",
-      "value": "6",
+      "value": "2",
       "description": "统计所有榜单中的新进入项目",
       "tone": "sky"
     },
@@ -126,7 +126,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 48.8,
+          "heat_score": 48.7,
           "created_at": "2018-05-09T12:03:18Z",
           "updated_at": "2026-03-29T08:37:23Z",
           "pushed_at": "2026-02-21T09:34:54Z",
@@ -154,12 +154,12 @@
           ],
           "readme_excerpt": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner) This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * [3D Renderer](#build-your-own-3d-renderer) * [AI Model](#ai-model) * [Augmented Reality](#bui",
           "sparkline": [
-            484188
+            484183
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 484188
+              "stars_total": 484183
             }
           ],
           "newcomer": false,
@@ -184,7 +184,7 @@
           ],
           "owner_login": "codecrafters-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/58904235?v=4",
-          "qa_reason": "最近 35 天有代码推送"
+          "qa_reason": "最近 36 天有代码推送"
         },
         {
           "full_name": "sindresorhus/awesome",
@@ -223,12 +223,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <img width=\"500\" height=\"350\" src=\"media/logo.svg\" alt=\"Awesome\"> <br> <br> <br> <br> <div> <sub>Check out my macOS app</sub> <br> <h2> <a href=\"https://sindresorhus.com/supercharge\">Supercharge</a> <br> <sup>Elevate your Mac experience</sup> </h2> </div> <br> <br> <br> <br> <hr> <p> <sup> <a href=\"https://github.com/sponsors/sindresorhus\">My open source work is supported by the community</a> </s",
           "sparkline": [
-            449745
+            449743
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 449745
+              "stars_total": 449743
             }
           ],
           "newcomer": false,
@@ -314,12 +314,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438971
+            438969
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438971
+              "stars_total": 438969
             }
           ],
           "newcomer": false,
@@ -353,11 +353,11 @@
           "description": "A collective list of free APIs",
           "language": "Python",
           "stars_total": 417142,
-          "weekly_stars": 1,
+          "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 81.4,
+          "heat_score": 51.4,
           "created_at": "2016-03-20T23:49:42Z",
           "updated_at": "2026-03-29T08:36:39Z",
           "pushed_at": "2026-03-18T16:28:22Z",
@@ -399,12 +399,12 @@
           ],
           "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
           "sparkline": [
-            417141
+            417142
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 417141
+              "stars_total": 417142
             }
           ],
           "newcomer": false,
@@ -429,7 +429,7 @@
           ],
           "owner_login": "public-apis",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 1 Star、最近 10 天有代码推送"
+          "qa_reason": "最近 10 天有代码推送"
         },
         {
           "full_name": "EbookFoundation/free-programming-books",
@@ -470,12 +470,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384683
+            384682
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384683
+              "stars_total": 384682
             }
           ],
           "newcomer": false,
@@ -588,9 +588,9 @@
               "heat_score": 46.1
             },
             {
-              "full_name": "papers-we-love/papers-we-love",
-              "html_url": "https://github.com/papers-we-love/papers-we-love",
-              "heat_score": 45.1
+              "full_name": "Developer-Y/cs-video-courses",
+              "html_url": "https://github.com/Developer-Y/cs-video-courses",
+              "heat_score": 44.8
             }
           ],
           "owner_login": "kamranahmedse",
@@ -723,12 +723,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"",
           "sparkline": [
-            339835
+            339834
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 339835
+              "stars_total": 339834
             }
           ],
           "newcomer": false,
@@ -877,12 +877,12 @@
           ],
           "readme_excerpt": "An opinionated list of Python frameworks, libraries, tools, and resources. > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md). **AI & ML** - [AI and Agents](#ai-and-agents) - [Deep Learning](#deep-learning) - [Machine Learning](#machine-learning) - [Natural Language Processing](#natural-language-processing) - [Computer Vision](#computer-vision",
           "sparkline": [
-            289508
+            289505
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 289508
+              "stars_total": 289505
             }
           ],
           "newcomer": false,
@@ -952,12 +952,12 @@
           ],
           "readme_excerpt": "[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome",
           "sparkline": [
-            282648
+            282644
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 282648
+              "stars_total": 282644
             }
           ],
           "newcomer": false,
@@ -1024,7 +1024,7 @@
             {
               "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
               "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-              "heat_score": 81.6
+              "heat_score": 51.6
             },
             {
               "full_name": "sindresorhus/awesome",
@@ -1398,12 +1398,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/trimstray/the-book-of-secret-knowledge\"> <img src=\"https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png\" alt=\"Master\"> </a> </p> <p align=\"center\">\"<i>Knowledge is powerful, be careful how you use it!</i>\"</p> <h4 align=\"center\">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-li",
           "sparkline": [
-            212109
+            212107
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 212109
+              "stars_total": 212107
             }
           ],
           "newcomer": false,
@@ -1771,12 +1771,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img src=\"https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png\" alt=\"Oh My Zsh\"></p> Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration. Sounds boring. Let's try again. **Oh My Zsh will not make you a 10x developer...but you may feel like one.** Once installed, your terminal shell will become the talk of the town _or your money back!_",
           "sparkline": [
-            185707
+            185706
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 185707
+              "stars_total": 185706
             }
           ],
           "newcomer": false,
@@ -1933,12 +1933,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <a href=\"https://www.cyc2018.xyz\"> <img src=\"https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1\"></a> <a href=\"https://gitstar-ranking.com/repositories\"> <img src=\"https://badgen.net/badge/Rank/13?icon=github&color=4ab8a1\"></a> <a href=\"https://github.com/CyC2018/CS-Notes\"> <img src=\"https://badgen.net/github/stars/CyC2018/CS-Notes?icon=github&color=4a",
           "sparkline": [
-            184054
+            184053
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 184054
+              "stars_total": 184053
             }
           ],
           "newcomer": false,
@@ -1963,7 +1963,7 @@
           ],
           "owner_login": "CyC2018",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/36260787?v=4",
-          "qa_reason": "最近 584 天有代码推送"
+          "qa_reason": "最近 585 天有代码推送"
         },
         {
           "full_name": "microsoft/vscode",
@@ -2002,12 +2002,12 @@
           ],
           "readme_excerpt": "[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug) [![Gitter](https://img.shields.io/badge/chat-o",
           "sparkline": [
-            183159
+            183158
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 183159
+              "stars_total": 183158
             }
           ],
           "newcomer": false,
@@ -2184,12 +2184,12 @@
           ],
           "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments. ![n8n.io",
           "sparkline": [
-            181542
+            181540
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 181542
+              "stars_total": 181540
             }
           ],
           "newcomer": false,
@@ -2280,11 +2280,11 @@
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
           "stars_total": 175753,
-          "weekly_stars": 1,
+          "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 82.3,
+          "heat_score": 52.3,
           "created_at": "2015-03-06T22:54:58Z",
           "updated_at": "2026-03-29T08:19:03Z",
           "pushed_at": "2026-03-29T04:18:11Z",
@@ -2338,12 +2338,12 @@
           ],
           "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
           "sparkline": [
-            175752
+            175753
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 175752
+              "stars_total": 175753
             }
           ],
           "newcomer": false,
@@ -2368,7 +2368,7 @@
           ],
           "owner_login": "flutter",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
+          "qa_reason": "最近 0 天有代码推送"
         },
         {
           "full_name": "twbs/bootstrap",
@@ -2494,7 +2494,7 @@
             {
               "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
               "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-              "heat_score": 81.6
+              "heat_score": 51.6
             },
             {
               "full_name": "sindresorhus/awesome",
@@ -2583,14 +2583,14 @@
               "heat_score": 51.5
             },
             {
-              "full_name": "flutter/flutter",
-              "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
-            },
-            {
               "full_name": "microsoft/vscode",
               "html_url": "https://github.com/microsoft/vscode",
               "heat_score": 52.4
+            },
+            {
+              "full_name": "flutter/flutter",
+              "html_url": "https://github.com/flutter/flutter",
+              "heat_score": 52.3
             }
           ],
           "owner_login": "massgravel",
@@ -2636,12 +2636,12 @@
           ],
           "readme_excerpt": "<a href=\"https://awesome-go.com/\"><img align=\"right\" src=\"https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png\" alt=\"awesome-go\" title=\"awesome-go\" /></a> [![Build Status](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom",
           "sparkline": [
-            168523
+            168520
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 168523
+              "stars_total": 168520
             }
           ],
           "newcomer": false,
@@ -3072,12 +3072,12 @@
             {
               "full_name": "public-apis/public-apis",
               "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
+              "heat_score": 51.4
             },
             {
               "full_name": "codecrafters-io/build-your-own-x",
               "html_url": "https://github.com/codecrafters-io/build-your-own-x",
-              "heat_score": 48.8
+              "heat_score": 48.7
             },
             {
               "full_name": "justjavac/free-programming-books-zh_CN",
@@ -3154,12 +3154,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt lib",
           "sparkline": [
-            154528
+            154527
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 154528
+              "stars_total": 154527
             }
           ],
           "newcomer": false,
@@ -3310,12 +3310,12 @@
           ],
           "readme_excerpt": "<!-- MANPAGE: BEGIN EXCLUDED SECTION --> <div align=\"center\"> [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme) [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation \"Installation\") [![PyPI](https://img.shields.io/badge/-PyPI-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](",
           "sparkline": [
-            153775
+            153774
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 153775
+              "stars_total": 153774
             }
           ],
           "newcomer": false,
@@ -3464,12 +3464,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif\"/> <br>中文 | <a href=\"README_en.md\">English</a> | <a href=\"README_ja.md\">日本語</a> <br>分享 GitHub 上有趣、入门级的开源项目。 <br>兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！ </p> <p align=\"center\"> <a href=\"https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70\" target=\"_blank\"><img src=\"https://abroad.hellogithub.com/v1/widget",
           "sparkline": [
-            147830
+            147828
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 147830
+              "stars_total": 147828
             }
           ],
           "newcomer": false,
@@ -3574,11 +3574,11 @@
           "description": "Command-line program to download videos from YouTube.com and other video sites",
           "language": "Python",
           "stars_total": 139961,
-          "weekly_stars": 1,
+          "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 75.3,
+          "heat_score": 45.3,
           "created_at": "2010-10-31T14:35:07Z",
           "updated_at": "2026-03-29T08:20:44Z",
           "pushed_at": "2026-02-19T16:45:25Z",
@@ -3592,23 +3592,18 @@
           "all_topics": [],
           "readme_excerpt": "[![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI) youtube-dl - download videos from youtube.com or other video platforms - [INSTALLATION](#installation) - [DESCRIPTION](#description) - [OPTIONS](#options) - [CONFIGURATION](#configuration) - [OUTPUT TEMPLATE](#output-template) - [FORMAT SELECTION](#format-selection) - [V",
           "sparkline": [
-            139960
+            139961
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 139960
+              "stars_total": 139961
             }
           ],
           "newcomer": false,
           "anomaly": false,
           "section_streak": 2,
           "related_repos": [
-            {
-              "full_name": "public-apis/public-apis",
-              "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
-            },
             {
               "full_name": "TheAlgorithms/Python",
               "html_url": "https://github.com/TheAlgorithms/Python",
@@ -3618,11 +3613,16 @@
               "full_name": "Significant-Gravitas/AutoGPT",
               "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
               "heat_score": 52.4
+            },
+            {
+              "full_name": "huggingface/transformers",
+              "html_url": "https://github.com/huggingface/transformers",
+              "heat_score": 52.0
             }
           ],
           "owner_login": "ytdl-org",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/48381040?v=4",
-          "qa_reason": "周增 1 Star、最近 37 天有代码推送"
+          "qa_reason": "最近 37 天有代码推送"
         },
         {
           "full_name": "vercel/next.js",
@@ -3932,12 +3932,12 @@
           ],
           "readme_excerpt": "![cover-v5-optimized](./images/GitHub_README_if.png) <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center\"> <a href=\"https://dify.ai\" target=\"_blank\"> <img alt=\"Static Badge\" src=\"https:",
           "sparkline": [
-            134863
+            134862
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 134863
+              "stars_total": 134862
             }
           ],
           "newcomer": false,
@@ -3971,11 +3971,11 @@
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "language": "Unknown",
           "stars_total": 133573,
-          "weekly_stars": 1,
+          "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 81.6,
+          "heat_score": 51.6,
           "created_at": "2025-03-05T16:38:29Z",
           "updated_at": "2026-03-29T08:19:24Z",
           "pushed_at": "2026-03-28T16:58:37Z",
@@ -4031,12 +4031,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXSc",
           "sparkline": [
-            133572
+            133573
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 133572
+              "stars_total": 133573
             }
           ],
           "newcomer": false,
@@ -4061,7 +4061,7 @@
           ],
           "owner_login": "x1xhlol",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
+          "qa_reason": "最近 0 天有代码推送"
         },
         {
           "full_name": "golang/go",
@@ -4230,12 +4230,12 @@
           "all_topics": [],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI c",
           "sparkline": [
-            132092
+            132088
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 132092
+              "stars_total": 132088
             }
           ],
           "newcomer": false,
@@ -4327,12 +4327,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <a href=\"https://docs.langchain.com/oss/python/langchain/overview\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\"> <img alt=\"LangChain Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\"> </picture> </a> </div> <div align=\"center\"> <h3>The agent engineering platfor",
           "sparkline": [
-            131445
+            131444
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 131445
+              "stars_total": 131444
             }
           ],
           "newcomer": false,
@@ -4430,7 +4430,7 @@
             {
               "full_name": "flutter/flutter",
               "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
+              "heat_score": 52.3
             },
             {
               "full_name": "2dust/v2rayN",
@@ -4499,12 +4499,12 @@
           ],
           "readme_excerpt": "![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui) ![GitHub language count](https://img.shields.io/github/languages/co",
           "sparkline": [
-            129122
+            129121
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 129122
+              "stars_total": 129121
             }
           ],
           "newcomer": false,
@@ -4676,7 +4676,7 @@
             {
               "full_name": "flutter/flutter",
               "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
+              "heat_score": 52.3
             },
             {
               "full_name": "justjavac/free-programming-books-zh_CN",
@@ -4801,12 +4801,12 @@
           "all_topics": [],
           "readme_excerpt": "Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. O",
           "sparkline": [
-            121494
+            121479
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 121494
+              "stars_total": 121479
             }
           ],
           "newcomer": false,
@@ -4821,7 +4821,7 @@
             {
               "full_name": "papers-we-love/papers-we-love",
               "html_url": "https://github.com/papers-we-love/papers-we-love",
-              "heat_score": 45.1
+              "heat_score": 44.7
             },
             {
               "full_name": "bioconda/bioconda-recipes",
@@ -4886,14 +4886,14 @@
               "heat_score": 33.8
             },
             {
-              "full_name": "ethereum/go-ethereum",
-              "html_url": "https://github.com/ethereum/go-ethereum",
-              "heat_score": 79.0
-            },
-            {
               "full_name": "ollama/ollama",
               "html_url": "https://github.com/ollama/ollama",
               "heat_score": 52.1
+            },
+            {
+              "full_name": "golang/go",
+              "html_url": "https://github.com/golang/go",
+              "heat_score": 51.5
             }
           ],
           "owner_login": "kubernetes",
@@ -5081,12 +5081,12 @@
           ],
           "readme_excerpt": "<a href=\"https://excalidraw.com/\" target=\"_blank\" rel=\"noopener\"> <picture> <source media=\"(prefers-color-scheme: dark)\" alt=\"Excalidraw\" srcset=\"https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2_dark.png\" /> <img alt=\"Excalidraw\" src=\"https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2.png\" /> </picture> </a> <h4 align=\"center\"> <a href=\"https://excal",
           "sparkline": [
-            119727
+            119726
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 119727
+              "stars_total": 119726
             }
           ],
           "newcomer": false,
@@ -5320,12 +5320,12 @@
           ],
           "readme_excerpt": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) [![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/affaan",
           "sparkline": [
-            115362
+            115351
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 115362
+              "stars_total": 115351
             }
           ],
           "newcomer": true,
@@ -5568,7 +5568,7 @@
             {
               "full_name": "axios/axios",
               "html_url": "https://github.com/axios/axios",
-              "heat_score": 51.0
+              "heat_score": 50.5
             }
           ],
           "owner_login": "mrdoob",
@@ -5801,7 +5801,7 @@
             {
               "full_name": "flutter/flutter",
               "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
+              "heat_score": 52.3
             },
             {
               "full_name": "nodejs/node",
@@ -5863,12 +5863,12 @@
           ],
           "readme_excerpt": "![Awesome Hacking](awesome_hacking.jpg) **A collection of awesome lists for hackers, pentesters & security researchers.** Your [contributions](contributing.md) are always welcome ! Repository | Description ---- | ---- [Android Security](https://github.com/ashishb/android-security-awesome) \t\t\t| Collection of Android security related resources [AppSec](https://github.com/paragonie/awesome-appsec)\t\t\t\t\t\t\t\t| Resources for",
           "sparkline": [
-            109264
+            109263
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 109264
+              "stars_total": 109263
             }
           ],
           "newcomer": false,
@@ -5906,7 +5906,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 51.0,
+          "heat_score": 50.5,
           "created_at": "2014-08-18T22:30:27Z",
           "updated_at": "2026-03-29T06:17:21Z",
           "pushed_at": "2026-03-28T09:33:10Z",
@@ -5962,7 +5962,7 @@
           ],
           "owner_login": "axios",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/32372333?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "microsoft/generative-ai-for-beginners",
@@ -6429,12 +6429,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <img src=\"./src-tauri/icons/icon.png\" alt=\"Clash\" width=\"128\" /> <br> Continuation of <a href=\"https://github.com/zzzgydi/clash-verge\">Clash Verge</a> <br> </h1> <h3 align=\"center\"> A Clash Meta GUI based on <a href=\"https://github.com/tauri-apps/tauri\">Tauri</a>. </h3> <p align=\"center\"> Languages: <a href=\"./README.md\">简体中文</a> · <a href=\"./docs/README_en.md\">English</a> · <a href=\"./docs/README",
           "sparkline": [
-            106093
+            106091
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 106093
+              "stars_total": 106091
             }
           ],
           "newcomer": false,
@@ -6523,7 +6523,7 @@
             {
               "full_name": "ethereum/go-ethereum",
               "html_url": "https://github.com/ethereum/go-ethereum",
-              "heat_score": 79.0
+              "heat_score": 49.0
             },
             {
               "full_name": "ollama/ollama",
@@ -6569,12 +6569,12 @@
           ],
           "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents",
           "sparkline": [
-            105309
+            105302
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 105309
+              "stars_total": 105302
             }
           ],
           "newcomer": false,
@@ -6592,9 +6592,9 @@
               "heat_score": 34.1
             },
             {
-              "full_name": "public-apis/public-apis",
-              "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
+              "full_name": "TheAlgorithms/Python",
+              "html_url": "https://github.com/TheAlgorithms/Python",
+              "heat_score": 52.4
             }
           ],
           "owner_login": "anthropics",
@@ -6780,7 +6780,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 45.1,
+          "heat_score": 44.7,
           "created_at": "2013-12-15T14:31:41Z",
           "updated_at": "2026-03-29T07:25:20Z",
           "pushed_at": "2026-03-26T09:31:12Z",
@@ -6810,12 +6810,12 @@
           ],
           "readme_excerpt": "﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg) [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV) **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find",
           "sparkline": [
-            104596
+            104595
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 104596
+              "stars_total": 104595
             }
           ],
           "newcomer": false,
@@ -6840,7 +6840,7 @@
           ],
           "owner_login": "papers-we-love",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6187757?v=4",
-          "qa_reason": "最近 2 天有代码推送"
+          "qa_reason": "最近 3 天有代码推送"
         },
         {
           "full_name": "Shubhamsaboo/awesome-llm-apps",
@@ -6877,12 +6877,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter",
           "sparkline": [
-            103888
+            103887
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 103888
+              "stars_total": 103887
             }
           ],
           "newcomer": false,
@@ -7093,19 +7093,19 @@
           "section_streak": 2,
           "related_repos": [
             {
-              "full_name": "public-apis/public-apis",
-              "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
-            },
-            {
-              "full_name": "ytdl-org/youtube-dl",
-              "html_url": "https://github.com/ytdl-org/youtube-dl",
-              "heat_score": 75.3
-            },
-            {
               "full_name": "TheAlgorithms/Python",
               "html_url": "https://github.com/TheAlgorithms/Python",
               "heat_score": 52.4
+            },
+            {
+              "full_name": "Significant-Gravitas/AutoGPT",
+              "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+              "heat_score": 52.4
+            },
+            {
+              "full_name": "huggingface/transformers",
+              "html_url": "https://github.com/huggingface/transformers",
+              "heat_score": 52.0
             }
           ],
           "owner_login": "deepseek-ai",
@@ -7177,12 +7177,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://screensage.pro/\"> <img alt=\"ScreenSage Pro\" width=\"400\" src=\"https://jaywcjlove.github.io/sponsor/screensage.png\"> </a> <br> <a href=\"https://screensage.pro/\">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a> <br><br> <a href=\"https://ip.im/\"> <img alt=\"IP.IM\" width=\"400\" src=\"https://jaywcjlove.github.",
           "sparkline": [
-            101056
+            101055
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 101056
+              "stars_total": 101055
             }
           ],
           "newcomer": false,
@@ -7274,12 +7274,12 @@
           ],
           "readme_excerpt": "<h3 align=\"center\"> <a name=\"readme-top\"></a> <img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\" height=\"200\" > </h3> <div align=\"center\"> <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\"> </a> <a href=\"https://pepy.tech/project/firecrawl-py\"> <img src=\"https://static.pepy.te",
           "sparkline": [
-            100131
+            100128
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 100131
+              "stars_total": 100128
             }
           ],
           "newcomer": false,
@@ -7428,12 +7428,12 @@
           ],
           "readme_excerpt": "A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayN)](https://github.com/2dust/v2rayN/commits/master) [![CodeFactor](https://www.codefactor.io/repository/github/2d",
           "sparkline": [
-            100047
+            100045
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 100047
+              "stars_total": 100045
             }
           ],
           "newcomer": false,
@@ -7448,7 +7448,7 @@
             {
               "full_name": "flutter/flutter",
               "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
+              "heat_score": 52.3
             },
             {
               "full_name": "nodejs/node",
@@ -7489,12 +7489,12 @@
           ],
           "readme_excerpt": "![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/ggml-org/llama.cpp)](https://github.com/ggml-org/llama.cpp/releases) [![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml/badg",
           "sparkline": [
-            99794
+            99793
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 99794
+              "stars_total": 99793
             }
           ],
           "newcomer": false,
@@ -7837,8 +7837,8 @@
         }
       ],
       "insights": [
-        "本周最热行业是 财经，前 10 名累计新增 1 Star。",
-        "增长最快的项目是 public-apis/public-apis，本周新增 1 Star。",
+        "本周最热行业是 教育，前 10 名累计新增 0 Star。",
+        "本周没有检测到有效的周增长数据。",
         "本周共有 0 个近 90 天新项目进入新秀候选池，其中 0 个热度表现突出。"
       ],
       "change_report": {
@@ -7876,471 +7876,37 @@
           "label": "最近更新"
         }
       ],
-      "repos": [
-        {
-          "full_name": "public-apis/public-apis",
-          "name": "public-apis",
-          "html_url": "https://github.com/public-apis/public-apis",
-          "description": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 417142,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 81.4,
-          "created_at": "2016-03-20T23:49:42Z",
-          "updated_at": "2026-03-29T08:36:39Z",
-          "pushed_at": "2026-03-18T16:28:22Z",
-          "open_issues_count": 1118,
-          "watchers_total": 4576,
-          "forks_total": 45274,
-          "license_name": "MIT",
-          "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
-          "matched_topics": [],
-          "topics": [
-            "api",
-            "apis",
-            "dataset",
-            "development",
-            "free",
-            "list",
-            "lists",
-            "open-source",
-            "public",
-            "public-api",
-            "public-apis",
-            "resources",
-            "software"
-          ],
-          "all_topics": [
-            "api",
-            "apis",
-            "dataset",
-            "development",
-            "free",
-            "list",
-            "lists",
-            "open-source",
-            "public",
-            "public-api",
-            "public-apis",
-            "resources",
-            "software"
-          ],
-          "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
-          "sparkline": [
-            417141
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 417141
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 2,
-          "related_repos": [
-            {
-              "full_name": "linsa-io/books",
-              "html_url": "https://github.com/linsa-io/books",
-              "heat_score": 34.1
-            },
-            {
-              "full_name": "n8n-io/n8n",
-              "html_url": "https://github.com/n8n-io/n8n",
-              "heat_score": 52.4
-            },
-            {
-              "full_name": "jaywcjlove/awesome-mac",
-              "html_url": "https://github.com/jaywcjlove/awesome-mac",
-              "heat_score": 50.4
-            }
-          ],
-          "owner_login": "public-apis",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 1 Star、最近 10 天有代码推送"
-        },
-        {
-          "full_name": "flutter/flutter",
-          "name": "flutter",
-          "html_url": "https://github.com/flutter/flutter",
-          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 175753,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 82.3,
-          "created_at": "2015-03-06T22:54:58Z",
-          "updated_at": "2026-03-29T08:19:03Z",
-          "pushed_at": "2026-03-29T04:18:11Z",
-          "open_issues_count": 12514,
-          "watchers_total": 3463,
-          "forks_total": 30184,
-          "license_name": "BSD-3-Clause",
-          "homepage": "https://flutter.dev",
-          "matched_topics": [],
-          "topics": [
-            "android",
-            "app-framework",
-            "cross-platform",
-            "dart",
-            "dart-platform",
-            "desktop",
-            "flutter",
-            "flutter-package",
-            "fuchsia",
-            "ios",
-            "linux-desktop",
-            "macos",
-            "material-design",
-            "mobile",
-            "mobile-development",
-            "skia",
-            "web",
-            "web-framework",
-            "windows"
-          ],
-          "all_topics": [
-            "android",
-            "app-framework",
-            "cross-platform",
-            "dart",
-            "dart-platform",
-            "desktop",
-            "flutter",
-            "flutter-package",
-            "fuchsia",
-            "ios",
-            "linux-desktop",
-            "macos",
-            "material-design",
-            "mobile",
-            "mobile-development",
-            "skia",
-            "web",
-            "web-framework",
-            "windows"
-          ],
-          "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
-          "sparkline": [
-            175752
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 175752
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "facebook/react-native",
-              "html_url": "https://github.com/facebook/react-native",
-              "heat_score": 51.4
-            },
-            {
-              "full_name": "rustdesk/rustdesk",
-              "html_url": "https://github.com/rustdesk/rustdesk",
-              "heat_score": 50.7
-            },
-            {
-              "full_name": "ilyalehchylin/educats-xamarin",
-              "html_url": "https://github.com/ilyalehchylin/educats-xamarin",
-              "heat_score": 16.8
-            }
-          ],
-          "owner_login": "flutter",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        },
-        {
-          "full_name": "ytdl-org/youtube-dl",
-          "name": "youtube-dl",
-          "html_url": "https://github.com/ytdl-org/youtube-dl",
-          "description": "Command-line program to download videos from YouTube.com and other video sites",
-          "language": "Python",
-          "stars_total": 139961,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 75.3,
-          "created_at": "2010-10-31T14:35:07Z",
-          "updated_at": "2026-03-29T08:20:44Z",
-          "pushed_at": "2026-02-19T16:45:25Z",
-          "open_issues_count": 4119,
-          "watchers_total": 2151,
-          "forks_total": 10608,
-          "license_name": "Unlicense",
-          "homepage": "http://ytdl-org.github.io/youtube-dl/",
-          "matched_topics": [],
-          "topics": [],
-          "all_topics": [],
-          "readme_excerpt": "[![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI) youtube-dl - download videos from youtube.com or other video platforms - [INSTALLATION](#installation) - [DESCRIPTION](#description) - [OPTIONS](#options) - [CONFIGURATION](#configuration) - [OUTPUT TEMPLATE](#output-template) - [FORMAT SELECTION](#format-selection) - [V",
-          "sparkline": [
-            139960
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 139960
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "public-apis/public-apis",
-              "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
-            },
-            {
-              "full_name": "TheAlgorithms/Python",
-              "html_url": "https://github.com/TheAlgorithms/Python",
-              "heat_score": 52.4
-            },
-            {
-              "full_name": "Significant-Gravitas/AutoGPT",
-              "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-              "heat_score": 52.4
-            }
-          ],
-          "owner_login": "ytdl-org",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/48381040?v=4",
-          "qa_reason": "周增 1 Star、最近 37 天有代码推送"
-        },
-        {
-          "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "name": "system-prompts-and-models-of-ai-tools",
-          "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "Unknown",
-          "stars_total": 133573,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 81.6,
-          "created_at": "2025-03-05T16:38:29Z",
-          "updated_at": "2026-03-29T08:19:24Z",
-          "pushed_at": "2026-03-28T16:58:37Z",
-          "open_issues_count": 142,
-          "watchers_total": 1616,
-          "forks_total": 33679,
-          "license_name": "GPL-3.0",
-          "homepage": "",
-          "matched_topics": [],
-          "topics": [
-            "ai",
-            "bolt",
-            "cluely",
-            "copilot",
-            "cursor",
-            "cursorai",
-            "devin",
-            "github-copilot",
-            "lovable",
-            "open-source",
-            "perplexity",
-            "replit",
-            "system-prompts",
-            "trae",
-            "trae-ai",
-            "trae-ide",
-            "v0",
-            "vscode",
-            "windsurf",
-            "windsurf-ai"
-          ],
-          "all_topics": [
-            "ai",
-            "bolt",
-            "cluely",
-            "copilot",
-            "cursor",
-            "cursorai",
-            "devin",
-            "github-copilot",
-            "lovable",
-            "open-source",
-            "perplexity",
-            "replit",
-            "system-prompts",
-            "trae",
-            "trae-ai",
-            "trae-ide",
-            "v0",
-            "vscode",
-            "windsurf",
-            "windsurf-ai"
-          ],
-          "readme_excerpt": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXSc",
-          "sparkline": [
-            133572
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 133572
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "dyad-sh/dyad",
-              "html_url": "https://github.com/dyad-sh/dyad",
-              "heat_score": 46.0
-            },
-            {
-              "full_name": "e2b-dev/awesome-ai-agents",
-              "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
-              "heat_score": 37.8
-            },
-            {
-              "full_name": "langchain-ai/langchain",
-              "html_url": "https://github.com/langchain-ai/langchain",
-              "heat_score": 51.5
-            }
-          ],
-          "owner_login": "x1xhlol",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        },
-        {
-          "full_name": "ethereum/go-ethereum",
-          "name": "go-ethereum",
-          "html_url": "https://github.com/ethereum/go-ethereum",
-          "description": "Go implementation of the Ethereum protocol",
-          "language": "Go",
-          "stars_total": 50968,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 79.0,
-          "created_at": "2013-12-26T13:05:46Z",
-          "updated_at": "2026-03-29T08:41:04Z",
-          "pushed_at": "2026-03-28T10:46:10Z",
-          "open_issues_count": 384,
-          "watchers_total": 2203,
-          "forks_total": 21887,
-          "license_name": "LGPL-3.0",
-          "homepage": "https://geth.ethereum.org",
-          "matched_topics": [
-            "blockchain"
-          ],
-          "topics": [
-            "blockchain",
-            "ethereum",
-            "geth",
-            "go",
-            "p2p"
-          ],
-          "all_topics": [
-            "blockchain",
-            "ethereum",
-            "geth",
-            "go",
-            "p2p"
-          ],
-          "readme_excerpt": "Golang execution layer implementation of the Ethereum protocol. [![API Reference]( https://pkg.go.dev/badge/github.com/ethereum/go-ethereum )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc) [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum) [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch",
-          "sparkline": [
-            50967
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 50967
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "Consensys/quorum",
-              "html_url": "https://github.com/Consensys/quorum",
-              "heat_score": 31.7
-            },
-            {
-              "full_name": "paradigmxyz/reth",
-              "html_url": "https://github.com/paradigmxyz/reth",
-              "heat_score": 43.0
-            },
-            {
-              "full_name": "smartcontractkit/chainlink",
-              "html_url": "https://github.com/smartcontractkit/chainlink",
-              "heat_score": 44.1
-            }
-          ],
-          "owner_login": "ethereum",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/6250754?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        }
-      ],
+      "repos": [],
       "insights": [
         "周增长榜适合发现短期爆发的项目，排名更能反映近期势能。",
         "如果某项目同时出现在热度榜和行业榜，往往意味着它既有规模也有增量。",
         "增长胶囊颜色会帮助你区分持续上涨、新上榜和热度回落项目。"
       ],
       "change_report": {
-        "new_entries": [
-          {
-            "full_name": "flutter/flutter",
-            "rank": 2
-          },
-          {
-            "full_name": "ytdl-org/youtube-dl",
-            "rank": 3
-          },
-          {
-            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-            "rank": 4
-          },
-          {
-            "full_name": "ethereum/go-ethereum",
-            "rank": 5
-          }
-        ],
+        "new_entries": [],
         "dropped_entries": [
           {
-            "full_name": "codecrafters-io/build-your-own-x",
+            "full_name": "public-apis/public-apis",
             "previous_rank": 1
           },
           {
-            "full_name": "sindresorhus/awesome",
+            "full_name": "flutter/flutter",
             "previous_rank": 2
           },
           {
-            "full_name": "freeCodeCamp/freeCodeCamp",
+            "full_name": "ytdl-org/youtube-dl",
             "previous_rank": 3
           },
           {
-            "full_name": "EbookFoundation/free-programming-books",
-            "previous_rank": 5
+            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+            "previous_rank": 4
           },
           {
-            "full_name": "kamranahmedse/developer-roadmap",
-            "previous_rank": 6
+            "full_name": "ethereum/go-ethereum",
+            "previous_rank": 5
           }
         ],
-        "rank_movers": [
-          {
-            "full_name": "public-apis/public-apis",
-            "current_rank": 1,
-            "previous_rank": 4,
-            "delta": 3
-          }
-        ]
+        "rank_movers": []
       }
     },
     "heat": {
@@ -8373,415 +7939,6 @@
         }
       ],
       "repos": [
-        {
-          "full_name": "flutter/flutter",
-          "name": "flutter",
-          "html_url": "https://github.com/flutter/flutter",
-          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "language": "Dart",
-          "stars_total": 175753,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 82.3,
-          "created_at": "2015-03-06T22:54:58Z",
-          "updated_at": "2026-03-29T08:19:03Z",
-          "pushed_at": "2026-03-29T04:18:11Z",
-          "open_issues_count": 12514,
-          "watchers_total": 3463,
-          "forks_total": 30184,
-          "license_name": "BSD-3-Clause",
-          "homepage": "https://flutter.dev",
-          "matched_topics": [],
-          "topics": [
-            "android",
-            "app-framework",
-            "cross-platform",
-            "dart",
-            "dart-platform",
-            "desktop",
-            "flutter",
-            "flutter-package",
-            "fuchsia",
-            "ios",
-            "linux-desktop",
-            "macos",
-            "material-design",
-            "mobile",
-            "mobile-development",
-            "skia",
-            "web",
-            "web-framework",
-            "windows"
-          ],
-          "all_topics": [
-            "android",
-            "app-framework",
-            "cross-platform",
-            "dart",
-            "dart-platform",
-            "desktop",
-            "flutter",
-            "flutter-package",
-            "fuchsia",
-            "ios",
-            "linux-desktop",
-            "macos",
-            "material-design",
-            "mobile",
-            "mobile-development",
-            "skia",
-            "web",
-            "web-framework",
-            "windows"
-          ],
-          "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
-          "sparkline": [
-            175752
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 175752
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 2,
-          "related_repos": [
-            {
-              "full_name": "facebook/react-native",
-              "html_url": "https://github.com/facebook/react-native",
-              "heat_score": 51.4
-            },
-            {
-              "full_name": "rustdesk/rustdesk",
-              "html_url": "https://github.com/rustdesk/rustdesk",
-              "heat_score": 50.7
-            },
-            {
-              "full_name": "ilyalehchylin/educats-xamarin",
-              "html_url": "https://github.com/ilyalehchylin/educats-xamarin",
-              "heat_score": 16.8
-            }
-          ],
-          "owner_login": "flutter",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        },
-        {
-          "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "name": "system-prompts-and-models-of-ai-tools",
-          "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "Unknown",
-          "stars_total": 133573,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 81.6,
-          "created_at": "2025-03-05T16:38:29Z",
-          "updated_at": "2026-03-29T08:19:24Z",
-          "pushed_at": "2026-03-28T16:58:37Z",
-          "open_issues_count": 142,
-          "watchers_total": 1616,
-          "forks_total": 33679,
-          "license_name": "GPL-3.0",
-          "homepage": "",
-          "matched_topics": [],
-          "topics": [
-            "ai",
-            "bolt",
-            "cluely",
-            "copilot",
-            "cursor",
-            "cursorai",
-            "devin",
-            "github-copilot",
-            "lovable",
-            "open-source",
-            "perplexity",
-            "replit",
-            "system-prompts",
-            "trae",
-            "trae-ai",
-            "trae-ide",
-            "v0",
-            "vscode",
-            "windsurf",
-            "windsurf-ai"
-          ],
-          "all_topics": [
-            "ai",
-            "bolt",
-            "cluely",
-            "copilot",
-            "cursor",
-            "cursorai",
-            "devin",
-            "github-copilot",
-            "lovable",
-            "open-source",
-            "perplexity",
-            "replit",
-            "system-prompts",
-            "trae",
-            "trae-ai",
-            "trae-ide",
-            "v0",
-            "vscode",
-            "windsurf",
-            "windsurf-ai"
-          ],
-          "readme_excerpt": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXSc",
-          "sparkline": [
-            133572
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 133572
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "dyad-sh/dyad",
-              "html_url": "https://github.com/dyad-sh/dyad",
-              "heat_score": 46.0
-            },
-            {
-              "full_name": "e2b-dev/awesome-ai-agents",
-              "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
-              "heat_score": 37.8
-            },
-            {
-              "full_name": "langchain-ai/langchain",
-              "html_url": "https://github.com/langchain-ai/langchain",
-              "heat_score": 51.5
-            }
-          ],
-          "owner_login": "x1xhlol",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        },
-        {
-          "full_name": "public-apis/public-apis",
-          "name": "public-apis",
-          "html_url": "https://github.com/public-apis/public-apis",
-          "description": "A collective list of free APIs",
-          "language": "Python",
-          "stars_total": 417142,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 81.4,
-          "created_at": "2016-03-20T23:49:42Z",
-          "updated_at": "2026-03-29T08:36:39Z",
-          "pushed_at": "2026-03-18T16:28:22Z",
-          "open_issues_count": 1118,
-          "watchers_total": 4576,
-          "forks_total": 45274,
-          "license_name": "MIT",
-          "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
-          "matched_topics": [],
-          "topics": [
-            "api",
-            "apis",
-            "dataset",
-            "development",
-            "free",
-            "list",
-            "lists",
-            "open-source",
-            "public",
-            "public-api",
-            "public-apis",
-            "resources",
-            "software"
-          ],
-          "all_topics": [
-            "api",
-            "apis",
-            "dataset",
-            "development",
-            "free",
-            "list",
-            "lists",
-            "open-source",
-            "public",
-            "public-api",
-            "public-apis",
-            "resources",
-            "software"
-          ],
-          "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
-          "sparkline": [
-            417141
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 417141
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 2,
-          "related_repos": [
-            {
-              "full_name": "linsa-io/books",
-              "html_url": "https://github.com/linsa-io/books",
-              "heat_score": 34.1
-            },
-            {
-              "full_name": "n8n-io/n8n",
-              "html_url": "https://github.com/n8n-io/n8n",
-              "heat_score": 52.4
-            },
-            {
-              "full_name": "jaywcjlove/awesome-mac",
-              "html_url": "https://github.com/jaywcjlove/awesome-mac",
-              "heat_score": 50.4
-            }
-          ],
-          "owner_login": "public-apis",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 1 Star、最近 10 天有代码推送"
-        },
-        {
-          "full_name": "ethereum/go-ethereum",
-          "name": "go-ethereum",
-          "html_url": "https://github.com/ethereum/go-ethereum",
-          "description": "Go implementation of the Ethereum protocol",
-          "language": "Go",
-          "stars_total": 50968,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 79.0,
-          "created_at": "2013-12-26T13:05:46Z",
-          "updated_at": "2026-03-29T08:41:04Z",
-          "pushed_at": "2026-03-28T10:46:10Z",
-          "open_issues_count": 384,
-          "watchers_total": 2203,
-          "forks_total": 21887,
-          "license_name": "LGPL-3.0",
-          "homepage": "https://geth.ethereum.org",
-          "matched_topics": [
-            "blockchain"
-          ],
-          "topics": [
-            "blockchain",
-            "ethereum",
-            "geth",
-            "go",
-            "p2p"
-          ],
-          "all_topics": [
-            "blockchain",
-            "ethereum",
-            "geth",
-            "go",
-            "p2p"
-          ],
-          "readme_excerpt": "Golang execution layer implementation of the Ethereum protocol. [![API Reference]( https://pkg.go.dev/badge/github.com/ethereum/go-ethereum )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc) [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum) [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch",
-          "sparkline": [
-            50967
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 50967
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "Consensys/quorum",
-              "html_url": "https://github.com/Consensys/quorum",
-              "heat_score": 31.7
-            },
-            {
-              "full_name": "paradigmxyz/reth",
-              "html_url": "https://github.com/paradigmxyz/reth",
-              "heat_score": 43.0
-            },
-            {
-              "full_name": "smartcontractkit/chainlink",
-              "html_url": "https://github.com/smartcontractkit/chainlink",
-              "heat_score": 44.1
-            }
-          ],
-          "owner_login": "ethereum",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/6250754?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
-        },
-        {
-          "full_name": "ytdl-org/youtube-dl",
-          "name": "youtube-dl",
-          "html_url": "https://github.com/ytdl-org/youtube-dl",
-          "description": "Command-line program to download videos from YouTube.com and other video sites",
-          "language": "Python",
-          "stars_total": 139961,
-          "weekly_stars": 1,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 75.3,
-          "created_at": "2010-10-31T14:35:07Z",
-          "updated_at": "2026-03-29T08:20:44Z",
-          "pushed_at": "2026-02-19T16:45:25Z",
-          "open_issues_count": 4119,
-          "watchers_total": 2151,
-          "forks_total": 10608,
-          "license_name": "Unlicense",
-          "homepage": "http://ytdl-org.github.io/youtube-dl/",
-          "matched_topics": [],
-          "topics": [],
-          "all_topics": [],
-          "readme_excerpt": "[![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI) youtube-dl - download videos from youtube.com or other video platforms - [INSTALLATION](#installation) - [DESCRIPTION](#description) - [OPTIONS](#options) - [CONFIGURATION](#configuration) - [OUTPUT TEMPLATE](#output-template) - [FORMAT SELECTION](#format-selection) - [V",
-          "sparkline": [
-            139960
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 139960
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 1,
-          "related_repos": [
-            {
-              "full_name": "public-apis/public-apis",
-              "html_url": "https://github.com/public-apis/public-apis",
-              "heat_score": 81.4
-            },
-            {
-              "full_name": "TheAlgorithms/Python",
-              "html_url": "https://github.com/TheAlgorithms/Python",
-              "heat_score": 52.4
-            },
-            {
-              "full_name": "Significant-Gravitas/AutoGPT",
-              "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-              "heat_score": 52.4
-            }
-          ],
-          "owner_login": "ytdl-org",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/48381040?v=4",
-          "qa_reason": "周增 1 Star、最近 37 天有代码推送"
-        },
         {
           "full_name": "freeCodeCamp/freeCodeCamp",
           "name": "freeCodeCamp",
@@ -8841,12 +7998,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438971
+            438969
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438971
+              "stars_total": 438969
             }
           ],
           "newcomer": false,
@@ -8914,12 +8071,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"",
           "sparkline": [
-            339835
+            339834
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 339835
+              "stars_total": 339834
             }
           ],
           "newcomer": false,
@@ -9238,12 +8395,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img src=\"https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png\" alt=\"Oh My Zsh\"></p> Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration. Sounds boring. Let's try again. **Oh My Zsh will not make you a 10x developer...but you may feel like one.** Once installed, your terminal shell will become the talk of the town _or your money back!_",
           "sparkline": [
-            185707
+            185706
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 185707
+              "stars_total": 185706
             }
           ],
           "newcomer": false,
@@ -9307,12 +8464,12 @@
           ],
           "readme_excerpt": "[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug) [![Gitter](https://img.shields.io/badge/chat-o",
           "sparkline": [
-            183159
+            183158
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 183159
+              "stars_total": 183158
             }
           ],
           "newcomer": false,
@@ -9489,12 +8646,12 @@
           ],
           "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments. ![n8n.io",
           "sparkline": [
-            181542
+            181540
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 181542
+              "stars_total": 181540
             }
           ],
           "newcomer": false,
@@ -9519,6 +8676,103 @@
           ],
           "owner_login": "n8n-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/45487711?v=4",
+          "qa_reason": "最近 0 天有代码推送"
+        },
+        {
+          "full_name": "flutter/flutter",
+          "name": "flutter",
+          "html_url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars_total": 175753,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 52.3,
+          "created_at": "2015-03-06T22:54:58Z",
+          "updated_at": "2026-03-29T08:19:03Z",
+          "pushed_at": "2026-03-29T04:18:11Z",
+          "open_issues_count": 12514,
+          "watchers_total": 3463,
+          "forks_total": 30184,
+          "license_name": "BSD-3-Clause",
+          "homepage": "https://flutter.dev",
+          "matched_topics": [],
+          "topics": [
+            "android",
+            "app-framework",
+            "cross-platform",
+            "dart",
+            "dart-platform",
+            "desktop",
+            "flutter",
+            "flutter-package",
+            "fuchsia",
+            "ios",
+            "linux-desktop",
+            "macos",
+            "material-design",
+            "mobile",
+            "mobile-development",
+            "skia",
+            "web",
+            "web-framework",
+            "windows"
+          ],
+          "all_topics": [
+            "android",
+            "app-framework",
+            "cross-platform",
+            "dart",
+            "dart-platform",
+            "desktop",
+            "flutter",
+            "flutter-package",
+            "fuchsia",
+            "ios",
+            "linux-desktop",
+            "macos",
+            "material-design",
+            "mobile",
+            "mobile-development",
+            "skia",
+            "web",
+            "web-framework",
+            "windows"
+          ],
+          "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
+          "sparkline": [
+            175753
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 175753
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 2,
+          "related_repos": [
+            {
+              "full_name": "facebook/react-native",
+              "html_url": "https://github.com/facebook/react-native",
+              "heat_score": 51.4
+            },
+            {
+              "full_name": "rustdesk/rustdesk",
+              "html_url": "https://github.com/rustdesk/rustdesk",
+              "heat_score": 50.7
+            },
+            {
+              "full_name": "ilyalehchylin/educats-xamarin",
+              "html_url": "https://github.com/ilyalehchylin/educats-xamarin",
+              "heat_score": 16.8
+            }
+          ],
+          "owner_login": "flutter",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
           "qa_reason": "最近 0 天有代码推送"
         },
         {
@@ -9829,7 +9083,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "langchain-ai/langchain",
@@ -9916,7 +9170,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "shadcn-ui/ui",
@@ -10005,17 +9259,17 @@
           ],
           "readme_excerpt": "![cover-v5-optimized](./images/GitHub_README_if.png) <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center\"> <a href=\"https://dify.ai\" target=\"_blank\"> <img alt=\"Static Badge\" src=\"https:",
           "sparkline": [
-            134863
+            134862
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 134863
+              "stars_total": 134862
             }
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "simstudioai/sim",
@@ -10035,6 +9289,105 @@
           ],
           "owner_login": "langgenius",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/127165244?v=4",
+          "qa_reason": "最近 0 天有代码推送"
+        },
+        {
+          "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "name": "system-prompts-and-models-of-ai-tools",
+          "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "language": "Unknown",
+          "stars_total": 133573,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 51.6,
+          "created_at": "2025-03-05T16:38:29Z",
+          "updated_at": "2026-03-29T08:19:24Z",
+          "pushed_at": "2026-03-28T16:58:37Z",
+          "open_issues_count": 142,
+          "watchers_total": 1616,
+          "forks_total": 33679,
+          "license_name": "GPL-3.0",
+          "homepage": "",
+          "matched_topics": [],
+          "topics": [
+            "ai",
+            "bolt",
+            "cluely",
+            "copilot",
+            "cursor",
+            "cursorai",
+            "devin",
+            "github-copilot",
+            "lovable",
+            "open-source",
+            "perplexity",
+            "replit",
+            "system-prompts",
+            "trae",
+            "trae-ai",
+            "trae-ide",
+            "v0",
+            "vscode",
+            "windsurf",
+            "windsurf-ai"
+          ],
+          "all_topics": [
+            "ai",
+            "bolt",
+            "cluely",
+            "copilot",
+            "cursor",
+            "cursorai",
+            "devin",
+            "github-copilot",
+            "lovable",
+            "open-source",
+            "perplexity",
+            "replit",
+            "system-prompts",
+            "trae",
+            "trae-ai",
+            "trae-ide",
+            "v0",
+            "vscode",
+            "windsurf",
+            "windsurf-ai"
+          ],
+          "readme_excerpt": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXSc",
+          "sparkline": [
+            133573
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 133573
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 2,
+          "related_repos": [
+            {
+              "full_name": "dyad-sh/dyad",
+              "html_url": "https://github.com/dyad-sh/dyad",
+              "heat_score": 46.0
+            },
+            {
+              "full_name": "e2b-dev/awesome-ai-agents",
+              "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
+              "heat_score": 37.8
+            },
+            {
+              "full_name": "langchain-ai/langchain",
+              "html_url": "https://github.com/langchain-ai/langchain",
+              "heat_score": 51.5
+            }
+          ],
+          "owner_login": "x1xhlol",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4",
           "qa_reason": "最近 0 天有代码推送"
         },
         {
@@ -10078,17 +9431,17 @@
           ],
           "readme_excerpt": "<!-- MANPAGE: BEGIN EXCLUDED SECTION --> <div align=\"center\"> [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme) [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation \"Installation\") [![PyPI](https://img.shields.io/badge/-PyPI-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](",
           "sparkline": [
-            153775
+            153774
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 153775
+              "stars_total": 153774
             }
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "sherlock-project/sherlock",
@@ -10155,7 +9508,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "ollama/ollama",
@@ -10202,17 +9555,17 @@
           "all_topics": [],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI c",
           "sparkline": [
-            132092
+            132088
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 132092
+              "stars_total": 132088
             }
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "freeCodeCamp/freeCodeCamp",
@@ -10299,17 +9652,17 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <a href=\"https://docs.langchain.com/oss/python/langchain/overview\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\"> <img alt=\"LangChain Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\"> </picture> </a> </div> <div align=\"center\"> <h3>The agent engineering platfor",
           "sparkline": [
-            131445
+            131444
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 131445
+              "stars_total": 131444
             }
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
@@ -10392,7 +9745,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "massgravel/Microsoft-Activation-Scripts",
@@ -10402,7 +9755,7 @@
             {
               "full_name": "flutter/flutter",
               "html_url": "https://github.com/flutter/flutter",
-              "heat_score": 82.3
+              "heat_score": 52.3
             },
             {
               "full_name": "2dust/v2rayN",
@@ -10413,6 +9766,251 @@
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
           "qa_reason": "最近 0 天有代码推送"
+        },
+        {
+          "full_name": "open-webui/open-webui",
+          "name": "open-webui",
+          "html_url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars_total": 129121,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 51.5,
+          "created_at": "2023-10-06T22:08:27Z",
+          "updated_at": "2026-03-29T08:26:29Z",
+          "pushed_at": "2026-03-29T03:18:00Z",
+          "open_issues_count": 270,
+          "watchers_total": 566,
+          "forks_total": 18275,
+          "license_name": "NOASSERTION",
+          "homepage": "https://openwebui.com",
+          "matched_topics": [],
+          "topics": [
+            "ai",
+            "llm",
+            "llm-ui",
+            "llm-webui",
+            "llms",
+            "mcp",
+            "ollama",
+            "ollama-webui",
+            "open-webui",
+            "openai",
+            "openapi",
+            "rag",
+            "self-hosted",
+            "ui",
+            "webui"
+          ],
+          "all_topics": [
+            "ai",
+            "llm",
+            "llm-ui",
+            "llm-webui",
+            "llms",
+            "mcp",
+            "ollama",
+            "ollama-webui",
+            "open-webui",
+            "openai",
+            "openapi",
+            "rag",
+            "self-hosted",
+            "ui",
+            "webui"
+          ],
+          "readme_excerpt": "![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui) ![GitHub language count](https://img.shields.io/github/languages/co",
+          "sparkline": [
+            129121
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 129121
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 1,
+          "related_repos": [
+            {
+              "full_name": "langgenius/dify",
+              "html_url": "https://github.com/langgenius/dify",
+              "heat_score": 51.6
+            },
+            {
+              "full_name": "langchain-ai/langchain",
+              "html_url": "https://github.com/langchain-ai/langchain",
+              "heat_score": 51.5
+            },
+            {
+              "full_name": "yamadashy/repomix",
+              "html_url": "https://github.com/yamadashy/repomix",
+              "heat_score": 46.8
+            }
+          ],
+          "owner_login": "open-webui",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/158137808?v=4",
+          "qa_reason": "最近 0 天有代码推送"
+        },
+        {
+          "full_name": "public-apis/public-apis",
+          "name": "public-apis",
+          "html_url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars_total": 417142,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 51.4,
+          "created_at": "2016-03-20T23:49:42Z",
+          "updated_at": "2026-03-29T08:36:39Z",
+          "pushed_at": "2026-03-18T16:28:22Z",
+          "open_issues_count": 1118,
+          "watchers_total": 4576,
+          "forks_total": 45274,
+          "license_name": "MIT",
+          "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
+          "matched_topics": [],
+          "topics": [
+            "api",
+            "apis",
+            "dataset",
+            "development",
+            "free",
+            "list",
+            "lists",
+            "open-source",
+            "public",
+            "public-api",
+            "public-apis",
+            "resources",
+            "software"
+          ],
+          "all_topics": [
+            "api",
+            "apis",
+            "dataset",
+            "development",
+            "free",
+            "list",
+            "lists",
+            "open-source",
+            "public",
+            "public-api",
+            "public-apis",
+            "resources",
+            "software"
+          ],
+          "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
+          "sparkline": [
+            417142
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 417142
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 2,
+          "related_repos": [
+            {
+              "full_name": "linsa-io/books",
+              "html_url": "https://github.com/linsa-io/books",
+              "heat_score": 34.1
+            },
+            {
+              "full_name": "n8n-io/n8n",
+              "html_url": "https://github.com/n8n-io/n8n",
+              "heat_score": 52.4
+            },
+            {
+              "full_name": "jaywcjlove/awesome-mac",
+              "html_url": "https://github.com/jaywcjlove/awesome-mac",
+              "heat_score": 50.4
+            }
+          ],
+          "owner_login": "public-apis",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
+          "qa_reason": "最近 10 天有代码推送"
+        },
+        {
+          "full_name": "EbookFoundation/free-programming-books",
+          "name": "free-programming-books",
+          "html_url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars_total": 384682,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 51.4,
+          "created_at": "2013-10-11T06:50:37Z",
+          "updated_at": "2026-03-29T08:33:49Z",
+          "pushed_at": "2026-03-24T15:26:23Z",
+          "open_issues_count": 87,
+          "watchers_total": 9786,
+          "forks_total": 66061,
+          "license_name": "CC-BY-4.0",
+          "homepage": "https://ebookfoundation.github.io/free-programming-books/",
+          "matched_topics": [
+            "education"
+          ],
+          "topics": [
+            "books",
+            "education",
+            "hacktoberfest",
+            "list",
+            "resource"
+          ],
+          "all_topics": [
+            "books",
+            "education",
+            "hacktoberfest",
+            "list",
+            "resource"
+          ],
+          "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
+          "sparkline": [
+            384682
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 384682
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 1,
+          "related_repos": [
+            {
+              "full_name": "linsa-io/books",
+              "html_url": "https://github.com/linsa-io/books",
+              "heat_score": 34.1
+            },
+            {
+              "full_name": "TheAlgorithms/Python",
+              "html_url": "https://github.com/TheAlgorithms/Python",
+              "heat_score": 52.4
+            },
+            {
+              "full_name": "oppia/oppia",
+              "html_url": "https://github.com/oppia/oppia",
+              "heat_score": 43.5
+            }
+          ],
+          "owner_login": "EbookFoundation",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=4",
+          "qa_reason": "最近 4 天有代码推送"
         }
       ],
       "insights": [
@@ -10423,77 +10021,53 @@
       "change_report": {
         "new_entries": [
           {
-            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-            "rank": 2
+            "full_name": "open-webui/open-webui",
+            "rank": 23
           },
           {
-            "full_name": "ethereum/go-ethereum",
-            "rank": 4
-          },
-          {
-            "full_name": "ytdl-org/youtube-dl",
-            "rank": 5
-          },
-          {
-            "full_name": "langflow-ai/langflow",
-            "rank": 18
-          },
-          {
-            "full_name": "vercel/next.js",
-            "rank": 19
+            "full_name": "EbookFoundation/free-programming-books",
+            "rank": 25
           }
         ],
         "dropped_entries": [
           {
-            "full_name": "codecrafters-io/build-your-own-x",
-            "previous_rank": 2
-          },
-          {
-            "full_name": "sindresorhus/awesome",
+            "full_name": "ethereum/go-ethereum",
             "previous_rank": 4
           },
           {
-            "full_name": "EbookFoundation/free-programming-books",
+            "full_name": "ytdl-org/youtube-dl",
             "previous_rank": 5
-          },
-          {
-            "full_name": "donnemartin/system-design-primer",
-            "previous_rank": 7
-          },
-          {
-            "full_name": "kamranahmedse/developer-roadmap",
-            "previous_rank": 8
           }
         ],
         "rank_movers": [
           {
-            "full_name": "flutter/flutter",
-            "current_rank": 1,
-            "previous_rank": 19,
-            "delta": 18
+            "full_name": "public-apis/public-apis",
+            "current_rank": 24,
+            "previous_rank": 3,
+            "delta": -21
           },
           {
-            "full_name": "huggingface/transformers",
+            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
             "current_rank": 17,
-            "previous_rank": 23,
-            "delta": 6
+            "previous_rank": 2,
+            "delta": -15
+          },
+          {
+            "full_name": "flutter/flutter",
+            "current_rank": 10,
+            "previous_rank": 1,
+            "delta": -9
           },
           {
             "full_name": "freeCodeCamp/freeCodeCamp",
-            "current_rank": 6,
-            "previous_rank": 1,
-            "delta": -5
-          },
-          {
-            "full_name": "tensorflow/tensorflow",
-            "current_rank": 9,
-            "previous_rank": 14,
+            "current_rank": 1,
+            "previous_rank": 6,
             "delta": 5
           },
           {
-            "full_name": "twbs/bootstrap",
-            "current_rank": 15,
-            "previous_rank": 20,
+            "full_name": "openclaw/openclaw",
+            "current_rank": 2,
+            "previous_rank": 7,
             "delta": 5
           }
         ]
@@ -10536,28 +10110,7 @@
       ],
       "change_report": {
         "new_entries": [],
-        "dropped_entries": [
-          {
-            "full_name": "affaan-m/everything-claude-code",
-            "previous_rank": 1
-          },
-          {
-            "full_name": "RKiding/Awesome-finance-skills",
-            "previous_rank": 2
-          },
-          {
-            "full_name": "polymarket-dev/Polymarket-Arbitrage-Bot",
-            "previous_rank": 3
-          },
-          {
-            "full_name": "GarethManning/claude-education-skills",
-            "previous_rank": 4
-          },
-          {
-            "full_name": "yh2072/edgameclaw",
-            "previous_rank": 5
-          }
-        ],
+        "dropped_entries": [],
         "rank_movers": []
       }
     },
@@ -10654,12 +10207,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438971
+            438969
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438971
+              "stars_total": 438969
             }
           ],
           "newcomer": false,
@@ -10725,12 +10278,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384683
+            384682
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384683
+              "stars_total": 384682
             }
           ],
           "newcomer": false,
@@ -12184,7 +11737,7 @@
           ],
           "owner_login": "bolshchikov",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/1206121?v=4",
-          "qa_reason": "最近 1528 天有代码推送"
+          "qa_reason": "最近 1529 天有代码推送"
         },
         {
           "full_name": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
@@ -13211,12 +12764,12 @@
           ],
           "readme_excerpt": "[![GitHub releases](https://img.shields.io/github/tag/gsantner/markor.svg)](https://github.com/gsantner/markor/releases) [![GitHub downloads](https://img.shields.io/github/downloads/gsantner/markor/total.svg?logo=github&logoColor=lime)](https://github.com/gsantner/markor/releases) [![Translate on Crowdin](https://img.shields.io/badge/translate-crowdin-green.svg)](https://crowdin.com/project/markor) [![Community Discu",
           "sparkline": [
-            5336
+            5335
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 5336
+              "stars_total": 5335
             }
           ],
           "newcomer": false,
@@ -14092,7 +13645,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 30.3,
+          "heat_score": 30.2,
           "created_at": "2022-05-21T12:05:38Z",
           "updated_at": "2026-03-28T23:12:34Z",
           "pushed_at": "2026-02-07T09:46:06Z",
@@ -14146,7 +13699,7 @@
           ],
           "owner_login": "0atman",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/114097?v=4",
-          "qa_reason": "最近 49 天有代码推送"
+          "qa_reason": "最近 50 天有代码推送"
         },
         {
           "full_name": "antonio-morales/Fuzzing101",
@@ -14529,7 +14082,7 @@
             {
               "full_name": "0atman/noboilerplate",
               "html_url": "https://github.com/0atman/noboilerplate",
-              "heat_score": 30.3
+              "heat_score": 30.2
             },
             {
               "full_name": "freeCodeCamp/freeCodeCamp",
@@ -15095,12 +14648,12 @@
           ],
           "readme_excerpt": "> **New: [K-Dense BYOK](https://github.com/K-Dense-AI/k-dense-byok)** — A free, open-source AI co-scientist that runs on your desktop, powered by Claude Scientific Skills. Bring your own API keys, pick from 40+ models, and get a full research workspace with web search, file handling, 250+ scientific databases, and access to all 170+ skills in this repo. Your data stays on your computer, and you can optionally scale t",
           "sparkline": [
-            16594
+            16593
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 16594
+              "stars_total": 16593
             }
           ],
           "newcomer": false,
@@ -15645,7 +15198,7 @@
             {
               "full_name": "seandavi/awesome-single-cell",
               "html_url": "https://github.com/seandavi/awesome-single-cell",
-              "heat_score": 32.7
+              "heat_score": 32.3
             }
           ],
           "owner_login": "danielecook",
@@ -15728,7 +15281,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 32.7,
+          "heat_score": 32.3,
           "created_at": "2016-06-29T15:41:50Z",
           "updated_at": "2026-03-28T09:35:01Z",
           "pushed_at": "2026-03-09T16:25:19Z",
@@ -15884,7 +15437,7 @@
             {
               "full_name": "broadinstitute/gatk",
               "html_url": "https://github.com/broadinstitute/gatk",
-              "heat_score": 39.8
+              "heat_score": 39.4
             },
             {
               "full_name": "galaxyproject/galaxy",
@@ -16199,12 +15752,12 @@
           ],
           "readme_excerpt": "For details of what was changed in v1.6.1, see [change log](https://github.com/sokrypton/ColabFold/wiki/v1.6.1)! <p align=\"center\"><img src=\"https://github.com/sokrypton/ColabFold/raw/main/.github/ColabFold_Marv_Logo.png\" height=\"250\"/></p> | Notebooks                                                                                                                                        | monomers | complexes | mmseqs2",
           "sparkline": [
-            2695
+            2694
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 2695
+              "stars_total": 2694
             }
           ],
           "newcomer": false,
@@ -16560,12 +16113,12 @@
           ],
           "readme_excerpt": "[![Stars](https://img.shields.io/github/stars/scverse/scanpy?style=flat&logo=GitHub&color=yellow)](https://github.com/scverse/scanpy/stargazers) [![PyPI](https://img.shields.io/pypi/v/scanpy)](https://pypi.org/project/scanpy) [![PyPI Downloads](https://img.shields.io/pepy/dt/scanpy?logo=pypi)](https://pepy.tech/project/scanpy) [![Conda Forge](https://img.shields.io/conda/vn/conda-forge/scanpy) ![Conda Forge Downloads",
           "sparkline": [
-            2395
+            2394
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 2395
+              "stars_total": 2394
             }
           ],
           "newcomer": false,
@@ -16863,7 +16416,7 @@
             {
               "full_name": "broadinstitute/gatk",
               "html_url": "https://github.com/broadinstitute/gatk",
-              "heat_score": 39.8
+              "heat_score": 39.4
             },
             {
               "full_name": "google/deepvariant",
@@ -17163,7 +16716,7 @@
             {
               "full_name": "cornerstonejs/cornerstone3D",
               "html_url": "https://github.com/cornerstonejs/cornerstone3D",
-              "heat_score": 37.8
+              "heat_score": 37.5
             },
             {
               "full_name": "ivmartel/dwv",
@@ -17390,12 +16943,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img width=\"50%\" src=\"docs/scispacy-logo.png\" /></p> This repository contains custom pipes and models related to using spaCy for scientific documents. In particular, there is a custom tokenizer that adds tokenization rules on top of spaCy's rule-based tokenizer, a POS tagger and syntactic parser trained on biomedical data and an entity span detection model. Separately, there are also NER models for",
           "sparkline": [
-            1937
+            1936
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 1937
+              "stars_total": 1936
             }
           ],
           "newcomer": false,
@@ -17433,7 +16986,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 39.8,
+          "heat_score": 39.4,
           "created_at": "2014-12-02T20:50:36Z",
           "updated_at": "2026-03-28T09:29:41Z",
           "pushed_at": "2026-03-27T21:51:01Z",
@@ -17584,7 +17137,7 @@
             {
               "full_name": "MIC-DKFZ/medicaldetectiontoolkit",
               "html_url": "https://github.com/MIC-DKFZ/medicaldetectiontoolkit",
-              "heat_score": 26.0
+              "heat_score": 25.7
             },
             {
               "full_name": "jeya-maria-jose/Medical-Transformer",
@@ -17959,7 +17512,7 @@
             {
               "full_name": "broadinstitute/gatk",
               "html_url": "https://github.com/broadinstitute/gatk",
-              "heat_score": 39.8
+              "heat_score": 39.4
             },
             {
               "full_name": "scipipe/scipipe",
@@ -18581,7 +18134,7 @@
             {
               "full_name": "seandavi/awesome-single-cell",
               "html_url": "https://github.com/seandavi/awesome-single-cell",
-              "heat_score": 32.7
+              "heat_score": 32.3
             },
             {
               "full_name": "moshi4/pyCirclize",
@@ -18661,7 +18214,7 @@
             {
               "full_name": "seandavi/awesome-single-cell",
               "html_url": "https://github.com/seandavi/awesome-single-cell",
-              "heat_score": 32.7
+              "heat_score": 32.3
             }
           ],
           "owner_login": "ai-boost",
@@ -18679,7 +18232,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 29.5,
+          "heat_score": 29.3,
           "created_at": "2015-09-15T15:11:28Z",
           "updated_at": "2026-03-24T09:36:33Z",
           "pushed_at": "2025-10-27T22:04:28Z",
@@ -19039,11 +18592,11 @@
           "description": "Go implementation of the Ethereum protocol",
           "language": "Go",
           "stars_total": 50968,
-          "weekly_stars": 1,
+          "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 79.0,
+          "heat_score": 49.0,
           "created_at": "2013-12-26T13:05:46Z",
           "updated_at": "2026-03-29T08:41:04Z",
           "pushed_at": "2026-03-28T10:46:10Z",
@@ -19071,12 +18624,12 @@
           ],
           "readme_excerpt": "Golang execution layer implementation of the Ethereum protocol. [![API Reference]( https://pkg.go.dev/badge/github.com/ethereum/go-ethereum )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc) [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum) [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch",
           "sparkline": [
-            50967
+            50968
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 50967
+              "stars_total": 50968
             }
           ],
           "newcomer": false,
@@ -19101,7 +18654,7 @@
           ],
           "owner_login": "ethereum",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6250754?v=4",
-          "qa_reason": "周增 1 Star、最近 0 天有代码推送"
+          "qa_reason": "最近 0 天有代码推送"
         },
         {
           "full_name": "microsoft/qlib",
@@ -19168,12 +18721,12 @@
           ],
           "readme_excerpt": "[![Python Versions](https://img.shields.io/pypi/pyversions/pyqlib.svg?logo=python&logoColor=white)](https://pypi.org/project/pyqlib/#files) [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/pyqlib/#files) [![PypI Versions](https://img.shields.io/pypi/v/pyqlib)](https://pypi.org/project/pyqlib/#history) [![Upload Python Package](https://github.c",
           "sparkline": [
-            39461
+            39460
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 39461
+              "stars_total": 39460
             }
           ],
           "newcomer": false,
@@ -19879,7 +19432,7 @@
             {
               "full_name": "AmazingAng/WTF-Solidity",
               "html_url": "https://github.com/AmazingAng/WTF-Solidity",
-              "heat_score": 34.7
+              "heat_score": 34.4
             },
             {
               "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -20590,7 +20143,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 34.7,
+          "heat_score": 34.4,
           "created_at": "2022-04-02T05:33:11Z",
           "updated_at": "2026-03-27T09:47:04Z",
           "pushed_at": "2026-02-27T03:23:20Z",
@@ -20732,7 +20285,7 @@
             {
               "full_name": "AmazingAng/WTF-Solidity",
               "html_url": "https://github.com/AmazingAng/WTF-Solidity",
-              "heat_score": 34.7
+              "heat_score": 34.4
             },
             {
               "full_name": "ethereumbook/ethereumbook",
@@ -21429,7 +20982,7 @@
             {
               "full_name": "AmazingAng/WTF-Solidity",
               "html_url": "https://github.com/AmazingAng/WTF-Solidity",
-              "heat_score": 34.7
+              "heat_score": 34.4
             },
             {
               "full_name": "ethers-io/ethers.js",
@@ -22430,7 +21983,7 @@
             {
               "full_name": "ethereum/go-ethereum",
               "html_url": "https://github.com/ethereum/go-ethereum",
-              "heat_score": 79.0
+              "heat_score": 49.0
             }
           ],
           "owner_login": "cosmos",
@@ -22872,7 +22425,7 @@
             {
               "full_name": "AmazingAng/WTF-Solidity",
               "html_url": "https://github.com/AmazingAng/WTF-Solidity",
-              "heat_score": 34.7
+              "heat_score": 34.4
             },
             {
               "full_name": "foundry-rs/foundry",
@@ -23083,12 +22636,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt lib",
           "sparkline": [
-            154528
+            154527
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 154528
+              "stars_total": 154527
             }
           ],
           "newcomer": false,
@@ -23273,12 +22826,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p ali",
           "sparkline": [
-            84652
+            84645
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 84652
+              "stars_total": 84645
             }
           ],
           "newcomer": false,
@@ -23806,12 +23359,12 @@
           ],
           "readme_excerpt": "<!-- markdownlint-disable MD030 --> <p align=\"center\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only\"> </p> <div align=\"center\"> [![Release Notes](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases) [![Discord](",
           "sparkline": [
-            51205
+            51204
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 51205
+              "stars_total": 51204
             }
           ],
           "newcomer": false,
@@ -24053,12 +23606,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> ![logo](./images/logo.png) </div> <div align=\"center\"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind) [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers) [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE) [![GitHub last commit](h",
           "sparkline": [
-            44424
+            44423
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 44424
+              "stars_total": 44423
             }
           ],
           "newcomer": false,
@@ -24696,12 +24249,12 @@
           ],
           "readme_excerpt": "***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!** ![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif) Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linke",
           "sparkline": [
-            32539
+            32537
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 32539
+              "stars_total": 32537
             }
           ],
           "newcomer": false,
@@ -25188,12 +24741,12 @@
           ],
           "readme_excerpt": "**Build intelligent AI agents and multi-agent systems with this enterprise-ready orchestration framework** [![License: MIT](https://img.shields.io/github/license/microsoft/semantic-kernel)](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE) [![Python package](https://img.shields.io/pypi/v/semantic-kernel)](https://pypi.org/project/semantic-kernel/) [![Nuget package](https://img.shields.io/nuget/vpre/Micr",
           "sparkline": [
-            27585
+            27584
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 27585
+              "stars_total": 27584
             }
           ],
           "newcomer": false,
@@ -25372,12 +24925,12 @@
           ],
           "readme_excerpt": "<!-- TBD: - Add to visual: - LLM Stack - Promptly - Devon - vortic ai - UFO - GPT Swarm - Eidolon - NexusGPT - Brain Soup - L2MAC Add to readme list: - Codeium - tinybio - Semantix AI Agents - add when they have english version - NoteWizard - only if it's AI agent - TBD test - Postbot (TBD - check more) --> <h1 align=\"center\"> 🔮 Awesome AI Agents <p align=\"center\"> <a href=\"https://discord.gg/U7KEcGErtQ\" target=\"_bla",
           "sparkline": [
-            26945
+            26944
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 26945
+              "stars_total": 26944
             }
           ],
           "newcomer": false,
@@ -26420,12 +25973,12 @@
           ],
           "readme_excerpt": "[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader) [![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader) ![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader) ![pypi-version](https://img.shields.io/pypi/v/nauti",
           "sparkline": [
-            21484
+            21483
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 21484
+              "stars_total": 21483
             }
           ],
           "newcomer": false,
@@ -27389,164 +26942,90 @@
     }
   },
   "executive_summary": [
-    "本周最热行业是 财经，前 10 名累计新增 1 Star。",
-    "增长最快的项目是 public-apis/public-apis，本周新增 1 Star。",
+    "本周最热行业是 教育，前 10 名累计新增 0 Star。",
+    "本周没有检测到有效的周增长数据。",
     "本周共有 0 个近 90 天新项目进入新秀候选池，其中 0 个热度表现突出。"
   ],
   "weekly_changes": {
     "weekly": {
-      "new_entries": [
+      "new_entries": [],
+      "dropped_entries": [
+        {
+          "full_name": "public-apis/public-apis",
+          "previous_rank": 1
+        },
         {
           "full_name": "flutter/flutter",
-          "rank": 2
+          "previous_rank": 2
         },
         {
           "full_name": "ytdl-org/youtube-dl",
-          "rank": 3
+          "previous_rank": 3
         },
         {
           "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "rank": 4
+          "previous_rank": 4
         },
         {
           "full_name": "ethereum/go-ethereum",
-          "rank": 5
+          "previous_rank": 5
+        }
+      ],
+      "rank_movers": []
+    },
+    "heat": {
+      "new_entries": [
+        {
+          "full_name": "open-webui/open-webui",
+          "rank": 23
+        },
+        {
+          "full_name": "EbookFoundation/free-programming-books",
+          "rank": 25
         }
       ],
       "dropped_entries": [
         {
-          "full_name": "codecrafters-io/build-your-own-x",
-          "previous_rank": 1
+          "full_name": "ethereum/go-ethereum",
+          "previous_rank": 4
         },
         {
-          "full_name": "sindresorhus/awesome",
-          "previous_rank": 2
-        },
-        {
-          "full_name": "freeCodeCamp/freeCodeCamp",
-          "previous_rank": 3
-        },
-        {
-          "full_name": "EbookFoundation/free-programming-books",
+          "full_name": "ytdl-org/youtube-dl",
           "previous_rank": 5
-        },
-        {
-          "full_name": "kamranahmedse/developer-roadmap",
-          "previous_rank": 6
         }
       ],
       "rank_movers": [
         {
           "full_name": "public-apis/public-apis",
-          "current_rank": 1,
-          "previous_rank": 4,
-          "delta": 3
-        }
-      ]
-    },
-    "heat": {
-      "new_entries": [
+          "current_rank": 24,
+          "previous_rank": 3,
+          "delta": -21
+        },
         {
           "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "rank": 2
+          "current_rank": 17,
+          "previous_rank": 2,
+          "delta": -15
         },
-        {
-          "full_name": "ethereum/go-ethereum",
-          "rank": 4
-        },
-        {
-          "full_name": "ytdl-org/youtube-dl",
-          "rank": 5
-        },
-        {
-          "full_name": "langflow-ai/langflow",
-          "rank": 18
-        },
-        {
-          "full_name": "vercel/next.js",
-          "rank": 19
-        }
-      ],
-      "dropped_entries": [
-        {
-          "full_name": "codecrafters-io/build-your-own-x",
-          "previous_rank": 2
-        },
-        {
-          "full_name": "sindresorhus/awesome",
-          "previous_rank": 4
-        },
-        {
-          "full_name": "EbookFoundation/free-programming-books",
-          "previous_rank": 5
-        },
-        {
-          "full_name": "donnemartin/system-design-primer",
-          "previous_rank": 7
-        },
-        {
-          "full_name": "kamranahmedse/developer-roadmap",
-          "previous_rank": 8
-        }
-      ],
-      "rank_movers": [
         {
           "full_name": "flutter/flutter",
-          "current_rank": 1,
-          "previous_rank": 19,
-          "delta": 18
-        },
-        {
-          "full_name": "huggingface/transformers",
-          "current_rank": 17,
-          "previous_rank": 23,
-          "delta": 6
+          "current_rank": 10,
+          "previous_rank": 1,
+          "delta": -9
         },
         {
           "full_name": "freeCodeCamp/freeCodeCamp",
-          "current_rank": 6,
-          "previous_rank": 1,
-          "delta": -5
-        },
-        {
-          "full_name": "tensorflow/tensorflow",
-          "current_rank": 9,
-          "previous_rank": 14,
+          "current_rank": 1,
+          "previous_rank": 6,
           "delta": 5
         },
         {
-          "full_name": "twbs/bootstrap",
-          "current_rank": 15,
-          "previous_rank": 20,
+          "full_name": "openclaw/openclaw",
+          "current_rank": 2,
+          "previous_rank": 7,
           "delta": 5
         }
       ]
-    },
-    "newcomers": {
-      "new_entries": [],
-      "dropped_entries": [
-        {
-          "full_name": "affaan-m/everything-claude-code",
-          "previous_rank": 1
-        },
-        {
-          "full_name": "RKiding/Awesome-finance-skills",
-          "previous_rank": 2
-        },
-        {
-          "full_name": "polymarket-dev/Polymarket-Arbitrage-Bot",
-          "previous_rank": 3
-        },
-        {
-          "full_name": "GarethManning/claude-education-skills",
-          "previous_rank": 4
-        },
-        {
-          "full_name": "yh2072/edgameclaw",
-          "previous_rank": 5
-        }
-      ],
-      "rank_movers": []
     }
   },
   "qa_examples": [
