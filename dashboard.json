@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 20:40:06 CST",
+  "generated_at": "2026-03-29 21:29:18 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -1237,7 +1237,7 @@
             {
               "full_name": "ntop/nDPI",
               "html_url": "https://github.com/ntop/nDPI",
-              "heat_score": 39.4
+              "heat_score": 39.1
             }
           ],
           "owner_login": "torvalds",
@@ -1794,8 +1794,8 @@
               "heat_score": 51.5
             },
             {
-              "full_name": "excalidraw/excalidraw",
-              "html_url": "https://github.com/excalidraw/excalidraw",
+              "full_name": "google-gemini/gemini-cli",
+              "html_url": "https://github.com/google-gemini/gemini-cli",
               "heat_score": 50.8
             }
           ],
@@ -2839,9 +2839,9 @@
               "heat_score": 51.0
             },
             {
-              "full_name": "Lightning-AI/pytorch-lightning",
-              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
+              "full_name": "onnx/onnx",
+              "html_url": "https://github.com/onnx/onnx",
+              "heat_score": 46.6
             }
           ],
           "owner_login": "AUTOMATIC1111",
@@ -5051,7 +5051,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 50.8,
+          "heat_score": 50.4,
           "created_at": "2020-01-02T01:04:43Z",
           "updated_at": "2026-03-29T08:20:28Z",
           "pushed_at": "2026-03-27T12:43:53Z",
@@ -5111,7 +5111,7 @@
           ],
           "owner_login": "excalidraw",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "justjavac/free-programming-books-zh_CN",
@@ -6243,13 +6243,13 @@
           "section_streak": 2,
           "related_repos": [
             {
-              "full_name": "Lightning-AI/pytorch-lightning",
-              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
-            },
-            {
               "full_name": "AUTOMATIC1111/stable-diffusion-webui",
               "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+              "heat_score": 46.4
+            },
+            {
+              "full_name": "Lightning-AI/pytorch-lightning",
+              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
               "heat_score": 46.4
             },
             {
@@ -8397,8 +8397,8 @@
               "heat_score": 51.5
             },
             {
-              "full_name": "excalidraw/excalidraw",
-              "html_url": "https://github.com/excalidraw/excalidraw",
+              "full_name": "google-gemini/gemini-cli",
+              "html_url": "https://github.com/google-gemini/gemini-cli",
               "heat_score": 50.8
             }
           ],
@@ -11844,7 +11844,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 44.9,
+          "heat_score": 44.4,
           "created_at": "2013-01-20T13:55:53Z",
           "updated_at": "2026-03-28T20:56:46Z",
           "pushed_at": "2026-03-28T13:23:12Z",
@@ -11908,7 +11908,7 @@
           ],
           "owner_login": "ankidroid",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/3320903?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "linsa-io/books",
@@ -13128,7 +13128,7 @@
             {
               "full_name": "classroomio/classroomio",
               "html_url": "https://github.com/classroomio/classroomio",
-              "heat_score": 35.4
+              "heat_score": 35.0
             },
             {
               "full_name": "edrys-org/edrys",
@@ -13474,7 +13474,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 27.3,
+          "heat_score": 27.0,
           "created_at": "2019-04-02T22:11:29Z",
           "updated_at": "2026-03-27T13:09:06Z",
           "pushed_at": "2024-12-22T15:03:59Z",
@@ -13557,7 +13557,7 @@
             {
               "full_name": "classroomio/classroomio",
               "html_url": "https://github.com/classroomio/classroomio",
-              "heat_score": 35.4
+              "heat_score": 35.0
             }
           ],
           "owner_login": "MariaLetta",
@@ -15188,7 +15188,7 @@
             {
               "full_name": "ohcnetwork/care_fe",
               "html_url": "https://github.com/ohcnetwork/care_fe",
-              "heat_score": 36.5
+              "heat_score": 36.3
             },
             {
               "full_name": "masslight/ottehr",
@@ -15476,7 +15476,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 41.7,
+          "heat_score": 40.9,
           "created_at": "2013-03-27T11:17:33Z",
           "updated_at": "2026-03-28T12:58:52Z",
           "pushed_at": "2026-03-28T13:04:39Z",
@@ -15550,7 +15550,7 @@
             {
               "full_name": "scipipe/scipipe",
               "html_url": "https://github.com/scipipe/scipipe",
-              "heat_score": 24.1
+              "heat_score": 24.0
             },
             {
               "full_name": "galaxyproject/galaxy",
@@ -15560,7 +15560,7 @@
           ],
           "owner_login": "nextflow-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6698688?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
@@ -15573,7 +15573,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 30.5,
+          "heat_score": 30.4,
           "created_at": "2018-03-23T07:29:50Z",
           "updated_at": "2026-03-27T10:13:37Z",
           "pushed_at": "2026-03-05T12:56:25Z",
@@ -15643,7 +15643,7 @@
           ],
           "owner_login": "315386775",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/12441747?v=4",
-          "qa_reason": "最近 23 天有代码推送"
+          "qa_reason": "最近 24 天有代码推送"
         },
         {
           "full_name": "sokrypton/ColabFold",
@@ -15984,7 +15984,7 @@
             {
               "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
               "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
-              "heat_score": 30.5
+              "heat_score": 30.4
             },
             {
               "full_name": "linhandev/dataset",
@@ -15994,7 +15994,7 @@
           ],
           "owner_login": "sfikas",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/16489490?v=4",
-          "qa_reason": "最近 562 天有代码推送"
+          "qa_reason": "最近 563 天有代码推送"
         },
         {
           "full_name": "scverse/scanpy",
@@ -16815,12 +16815,12 @@
             {
               "full_name": "tanghaibao/jcvi",
               "html_url": "https://github.com/tanghaibao/jcvi",
-              "heat_score": 29.7
+              "heat_score": 29.4
             },
             {
               "full_name": "samtools/htslib",
               "html_url": "https://github.com/samtools/htslib",
-              "heat_score": 36.7
+              "heat_score": 36.1
             },
             {
               "full_name": "steineggerlab/foldseek",
@@ -17447,7 +17447,7 @@
             {
               "full_name": "scipipe/scipipe",
               "html_url": "https://github.com/scipipe/scipipe",
-              "heat_score": 24.1
+              "heat_score": 24.0
             }
           ],
           "owner_login": "galaxyproject",
@@ -17585,7 +17585,7 @@
             {
               "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
               "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
-              "heat_score": 30.5
+              "heat_score": 30.4
             }
           ],
           "owner_login": "albarqouni",
@@ -17749,12 +17749,12 @@
             {
               "full_name": "scipipe/scipipe",
               "html_url": "https://github.com/scipipe/scipipe",
-              "heat_score": 24.1
+              "heat_score": 24.0
             }
           ],
           "owner_login": "shenwei356",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/2655946?v=4",
-          "qa_reason": "最近 29 天有代码推送"
+          "qa_reason": "最近 30 天有代码推送"
         },
         {
           "full_name": "lh3/seqtk",
@@ -17809,7 +17809,7 @@
             {
               "full_name": "samtools/htslib",
               "html_url": "https://github.com/samtools/htslib",
-              "heat_score": 36.7
+              "heat_score": 36.1
             },
             {
               "full_name": "soedinglab/MMseqs2",
@@ -18597,7 +18597,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 43.7,
+          "heat_score": 43.5,
           "created_at": "2020-08-14T06:46:00Z",
           "updated_at": "2026-03-29T08:39:23Z",
           "pushed_at": "2026-03-10T12:45:41Z",
@@ -18681,7 +18681,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "最近 18 天有代码推送"
+          "qa_reason": "最近 19 天有代码推送"
         },
         {
           "full_name": "vnpy/vnpy",
@@ -18748,7 +18748,7 @@
             {
               "full_name": "microsoft/qlib",
               "html_url": "https://github.com/microsoft/qlib",
-              "heat_score": 43.7
+              "heat_score": 43.5
             },
             {
               "full_name": "santoshlite/EigenLedger",
@@ -19647,7 +19647,7 @@
             {
               "full_name": "microsoft/qlib",
               "html_url": "https://github.com/microsoft/qlib",
-              "heat_score": 43.7
+              "heat_score": 43.5
             },
             {
               "full_name": "zvtvz/zvt",
@@ -19865,7 +19865,7 @@
             {
               "full_name": "microsoft/qlib",
               "html_url": "https://github.com/microsoft/qlib",
-              "heat_score": 43.7
+              "heat_score": 43.5
             }
           ],
           "owner_login": "waditu",
@@ -23514,7 +23514,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 44.4,
+          "heat_score": 44.0,
           "created_at": "2024-07-27T04:34:12Z",
           "updated_at": "2026-03-29T08:41:09Z",
           "pushed_at": "2026-03-27T13:20:12Z",
@@ -23566,7 +23566,7 @@
           ],
           "owner_login": "jingyaogong",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/62287848?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "NaiboWang/EasySpider",
@@ -24107,7 +24107,7 @@
             {
               "full_name": "Lightning-AI/pytorch-lightning",
               "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
+              "heat_score": 46.4
             },
             {
               "full_name": "recommenders-team/recommenders",
@@ -24199,7 +24199,7 @@
             {
               "full_name": "Lightning-AI/pytorch-lightning",
               "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
+              "heat_score": 46.4
             },
             {
               "full_name": "recommenders-team/recommenders",
@@ -24222,7 +24222,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 46.8,
+          "heat_score": 46.4,
           "created_at": "2019-03-31T00:45:57Z",
           "updated_at": "2026-03-29T08:33:54Z",
           "pushed_at": "2026-03-26T13:01:36Z",
@@ -24284,7 +24284,7 @@
           ],
           "owner_login": "Lightning-AI",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/58386951?v=4",
-          "qa_reason": "最近 2 天有代码推送"
+          "qa_reason": "最近 3 天有代码推送"
         },
         {
           "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
@@ -24353,14 +24353,14 @@
               "heat_score": 47.9
             },
             {
-              "full_name": "Lightning-AI/pytorch-lightning",
-              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
-            },
-            {
               "full_name": "onnx/onnx",
               "html_url": "https://github.com/onnx/onnx",
               "heat_score": 46.6
+            },
+            {
+              "full_name": "Lightning-AI/pytorch-lightning",
+              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
+              "heat_score": 46.4
             }
           ],
           "owner_login": "AMAI-GmbH",
@@ -25836,7 +25836,7 @@
             {
               "full_name": "Lightning-AI/pytorch-lightning",
               "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
+              "heat_score": 46.4
             },
             {
               "full_name": "rasbt/LLMs-from-scratch",
@@ -25921,14 +25921,14 @@
               "heat_score": 47.9
             },
             {
-              "full_name": "Lightning-AI/pytorch-lightning",
-              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
-            },
-            {
               "full_name": "marimo-team/marimo",
               "html_url": "https://github.com/marimo-team/marimo",
               "heat_score": 46.5
+            },
+            {
+              "full_name": "Lightning-AI/pytorch-lightning",
+              "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
+              "heat_score": 46.4
             }
           ],
           "owner_login": "nautechsystems",
@@ -26572,7 +26572,7 @@
             {
               "full_name": "Lightning-AI/pytorch-lightning",
               "html_url": "https://github.com/Lightning-AI/pytorch-lightning",
-              "heat_score": 46.8
+              "heat_score": 46.4
             },
             {
               "full_name": "recommenders-team/recommenders",
@@ -26749,7 +26749,7 @@
             {
               "full_name": "Alibaba-NLP/DeepResearch",
               "html_url": "https://github.com/Alibaba-NLP/DeepResearch",
-              "heat_score": 38.9
+              "heat_score": 38.8
             }
           ],
           "owner_login": "camel-ai",
