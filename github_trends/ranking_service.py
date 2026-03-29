@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import math
 from collections import Counter, defaultdict
@@ -62,9 +62,9 @@ def enrich_repositories(client: Any, repos: dict[str, dict[str, Any]]) -> None:
         repo["created_at"] = details.get("created_at") or repo["created_at"]
         repo["updated_at"] = details.get("updated_at") or repo["updated_at"]
         repo["pushed_at"] = details.get("pushed_at") or repo["pushed_at"]
-        repo["language"] = details.get("language") or repo["language"] or "Unknown"
+        repo["language"] = details.get("language") or repo["language"] or "未知"
         repo["homepage"] = details.get("homepage") or ""
-        repo["license_name"] = (details.get("license") or {}).get("spdx_id") or "N/A"
+        repo["license_name"] = (details.get("license") or {}).get("spdx_id") or "未标注"
         repo["forks_total"] = int(details.get("forks_count") or 0)
         repo["watchers_total"] = int(details.get("subscribers_count") or 0)
         repo["open_issues_count"] = int(details.get("open_issues_count") or repo["open_issues_count"] or 0)
@@ -198,7 +198,7 @@ def answer_question(page_data: dict[str, Any], question: str) -> str:
     for repo in repos:
         lines.append(
             f"- {repo['full_name']}：周增 {repo.get('weekly_stars', 0)}，热度 {repo.get('heat_score', 0)}，"
-            f"主要语言 {repo.get('language', 'Unknown')}，原因是 {repo.get('qa_reason', '具备关注价值')}"
+            f"主要语言 {repo.get('language', '未知')}，原因是 {repo.get('qa_reason', '具备关注价值')}"
         )
     return "\n".join(lines)
 
@@ -288,9 +288,9 @@ def _seed_repo(repo_map: dict[str, dict[str, Any]], item: dict[str, Any]) -> dic
             "name": item["name"],
             "full_name": full_name,
             "html_url": item["html_url"],
-            "description": (item.get("description") or "No description provided.").strip(),
+            "description": (item.get("description") or "暂无描述").strip(),
             "stars_total": int(item.get("stargazers_count") or 0),
-            "language": item.get("language") or "Unknown",
+            "language": item.get("language") or "未知",
             "created_at": item.get("created_at"),
             "updated_at": item.get("updated_at"),
             "pushed_at": item.get("pushed_at"),
@@ -302,7 +302,7 @@ def _seed_repo(repo_map: dict[str, dict[str, Any]], item: dict[str, Any]) -> dic
             "topics": [],
             "readme_excerpt": "",
             "homepage": "",
-            "license_name": "N/A",
+            "license_name": "未标注",
             "forks_total": 0,
             "watchers_total": 0,
             "last_release_tag": "",
@@ -815,3 +815,4 @@ def _days_since(timestamp: str | None, now: datetime) -> int:
 
 def _recency_score(days: int, scale: int) -> float:
     return round(1 / (1 + days / max(scale, 1)), 4)
+

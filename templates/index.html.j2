@@ -13,11 +13,16 @@
               fontFamily: {
                 sans: ["Manrope", "ui-sans-serif", "system-ui"],
                 display: ["Space Grotesk", "ui-sans-serif", "system-ui"],
+                mono: ["IBM Plex Mono", "ui-monospace", "SFMono-Regular", "monospace"],
               },
               colors: {
                 ink: { 950: "#07111f", 900: "#0d1729", 800: "#152238" },
                 mint: { 300: "#8df3c8", 400: "#53d7aa", 500: "#1bb783" },
                 coral: { 300: "#f9a689", 400: "#f27c57" },
+                sky: { 300: "#86c8ff", 400: "#4ea4ff" },
+              },
+              boxShadow: {
+                panel: "0 18px 42px rgba(7, 17, 31, 0.08)",
               },
             },
           },
@@ -33,7 +38,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
       rel="stylesheet"
     />
     <style>
@@ -45,247 +50,590 @@
   </head>
   <body class="min-h-full bg-slate-100 text-slate-900 antialiased transition-colors dark:bg-ink-950 dark:text-slate-100">
     <div class="relative min-h-full overflow-hidden">
-      <div class="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(27,183,131,0.12),_transparent_22%),radial-gradient(circle_at_bottom_right,_rgba(242,124,87,0.08),_transparent_18%)] dark:bg-[radial-gradient(circle_at_top_left,_rgba(83,215,170,0.08),_transparent_22%),radial-gradient(circle_at_bottom_right,_rgba(242,124,87,0.06),_transparent_18%)]"></div>
-      <main class="relative mx-auto max-w-[1500px] px-4 py-5 sm:px-5 lg:px-6">
-        <section class="overflow-hidden rounded-xl border border-white/60 bg-white/92 p-3 shadow-sm backdrop-blur dark:border-white/10 dark:bg-white/5">
-          <div class="flex flex-col gap-3 xl:flex-row xl:items-center xl:justify-between">
+      <div class="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,_rgba(27,183,131,0.10),_transparent_24%),radial-gradient(circle_at_bottom_right,_rgba(78,164,255,0.08),_transparent_22%)] dark:bg-[radial-gradient(circle_at_top_left,_rgba(83,215,170,0.10),_transparent_24%),radial-gradient(circle_at_bottom_right,_rgba(78,164,255,0.08),_transparent_22%)]"></div>
+      <div class="pointer-events-none absolute inset-0 bg-[linear-gradient(rgba(148,163,184,0.10)_1px,transparent_1px),linear-gradient(90deg,rgba(148,163,184,0.10)_1px,transparent_1px)] bg-[size:44px_44px] opacity-60 dark:opacity-20"></div>
+
+      <main class="relative mx-auto max-w-[1520px] px-4 py-4 sm:px-5 lg:px-6">
+        <section class="rounded-2xl border border-white/70 bg-white/94 p-3 shadow-panel backdrop-blur dark:border-white/10 dark:bg-white/[0.055]">
+          <div class="flex flex-col gap-3 xl:flex-row xl:items-start xl:justify-between">
             <div class="min-w-0 max-w-4xl">
-              <div class="flex flex-wrap items-center gap-3">
-                <div class="flex h-10 w-10 items-center justify-center rounded-xl bg-slate-950 text-sm font-bold text-white dark:bg-white dark:text-slate-950">GT</div>
-                <div>
-                  <p class="text-xs font-semibold uppercase tracking-[0.25em] text-mint-500 dark:text-mint-300">GitHub Industry Intelligence</p>
-                  <h1 class="font-display text-[1.9rem] font-bold tracking-tight sm:text-[2.2rem]">__TITLE__</h1>
+              <div class="flex items-start gap-3">
+                <div class="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-slate-950 text-sm font-bold text-white dark:bg-white dark:text-slate-950">GT</div>
+                <div class="min-w-0">
+                  <div class="flex flex-wrap items-center gap-2">
+                    <p class="font-mono text-[11px] font-semibold tracking-[0.18em] text-mint-500 dark:text-mint-300">GitHub 行业情报终端</p>
+                    <span class="rounded-full border border-slate-200 bg-slate-50 px-2 py-0.5 font-mono text-[10px] font-medium text-slate-500 dark:border-white/10 dark:bg-white/5 dark:text-slate-400">终端版</span>
+                  </div>
+                  <h1 class="mt-1 font-display text-[1.8rem] font-bold tracking-tight sm:text-[2.08rem]">__TITLE__</h1>
+                  <p class="mt-1 text-[13px] text-slate-600 dark:text-slate-300">多周历史、热度评分、异常检测与自动解读集中在一张高信息密度的趋势终端中。</p>
                 </div>
               </div>
-              <p class="mt-1.5 text-[13px] text-slate-600 dark:text-slate-300">澶氬懆鍘嗗彶銆佺儹搴﹁瘎鍒嗐€佸紓甯告娴嬪拰鑷姩瑙ｈ闆嗕腑鍦ㄤ竴寮犻珮瀵嗗害瓒嬪娍缁堢閲屻€?/p>
-              <div class="mt-2 flex flex-wrap gap-1.5 text-[11px] font-medium text-slate-500 dark:text-slate-400">
-                <span class="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 dark:border-white/10 dark:bg-white/5">鏁版嵁婧? GitHub API</span>
+              <div class="mt-2.5 flex flex-wrap gap-1.5 text-[11px] font-medium text-slate-500 dark:text-slate-400">
+                <span class="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 dark:border-white/10 dark:bg-white/5">数据源: GitHub API</span>
                 <span id="generatedAtBadge" class="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 dark:border-white/10 dark:bg-white/5"></span>
                 <span id="trackedBadge" class="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1 dark:border-white/10 dark:bg-white/5"></span>
               </div>
             </div>
-            <div class="flex flex-wrap gap-1.5">
-              <a href="./dashboard.json" class="inline-flex items-center rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">JSON</a>
-              <a href="./weekly-report.md" class="inline-flex items-center rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">鍛ㄦ姤</a>
-              <button id="notesToggle" type="button" class="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">璇存槑</button>
-              <button id="qaDrawerToggle" type="button" class="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">闂瓟</button>
-              <button id="themeToggle" type="button" class="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-100">涓婚</button>
+
+            <div class="flex flex-wrap gap-1.5 xl:justify-end">
+              <a href="./dashboard.json" class="inline-flex items-center rounded-lg border border-slate-200 bg-slate-50 px-3 py-1.5 text-[12px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-100">JSON</a>
+              <a href="./weekly-report.md" class="inline-flex items-center rounded-lg border border-slate-200 bg-slate-50 px-3 py-1.5 text-[12px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-100">周报</a>
+              <button id="notesToggle" type="button" class="rounded-lg border border-slate-200 bg-slate-50 px-3 py-1.5 text-[12px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-100">数据说明</button>
+              <button id="qaDrawerToggle" type="button" class="rounded-lg border border-slate-200 bg-slate-50 px-3 py-1.5 text-[12px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-100">问答入口</button>
+              <button id="themeToggle" type="button" class="rounded-lg border border-slate-200 bg-slate-50 px-3 py-1.5 text-[12px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-100">切换主题</button>
             </div>
           </div>
+
           <div id="summaryCards" class="mt-3 grid gap-1.5 md:grid-cols-3 xl:grid-cols-6"></div>
         </section>
 
-        <section class="mt-3 grid gap-3 xl:grid-cols-[1.84fr_0.74fr]">
-          <div class="rounded-xl border border-white/60 bg-white/92 p-3 dark:border-white/10 dark:bg-white/5">
-            <div id="primaryTabs" class="flex flex-wrap gap-1.5"></div>
-            <div id="secondaryTabsWrap" class="mt-2 scrollbar-hide overflow-x-auto"><div id="secondaryTabs" class="flex min-w-max gap-2"></div></div>
-            <div class="mt-2 grid gap-1.5 lg:grid-cols-[1.65fr_repeat(3,minmax(0,0.72fr))_repeat(3,minmax(0,0.52fr))_0.62fr]">
-              <label class="rounded-lg border border-slate-200 bg-slate-50/90 px-3 py-1.5 text-sm dark:border-white/10 dark:bg-white/5"><span class="mb-1 block text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鎼滅储</span><input id="searchInput" type="search" placeholder="椤圭洰 / 鎻忚堪 / 璇█ / Topic" class="w-full bg-transparent text-[13px] outline-none placeholder:text-slate-400" /></label>
-              <label class="rounded-lg border border-slate-200 bg-slate-50/90 px-3 py-1.5 text-sm dark:border-white/10 dark:bg-white/5"><span class="mb-1 block text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鎺掑簭</span><select id="sortSelect" class="w-full bg-transparent text-[13px] outline-none"></select></label>
-              <label class="rounded-lg border border-slate-200 bg-slate-50/90 px-3 py-1.5 text-sm dark:border-white/10 dark:bg-white/5"><span class="mb-1 block text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">璇█</span><select id="languageSelect" class="w-full bg-transparent text-[13px] outline-none"></select></label>
-              <label class="rounded-lg border border-slate-200 bg-slate-50/90 px-3 py-1.5 text-sm dark:border-white/10 dark:bg-white/5"><span class="mb-1 block text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">Topic</span><select id="topicSelect" class="w-full bg-transparent text-[13px] outline-none"></select></label>
-              <label class="flex items-center gap-2 rounded-lg border border-slate-200 bg-slate-50/90 px-2.5 py-1.5 text-[13px] dark:border-white/10 dark:bg-white/5"><input id="onlyAnomaly" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" /><span>浠呭紓甯?/span></label>
-              <label class="flex items-center gap-2 rounded-lg border border-slate-200 bg-slate-50/90 px-2.5 py-1.5 text-[13px] dark:border-white/10 dark:bg-white/5"><input id="onlyNewcomer" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" /><span>浠呮柊绉€</span></label>
-              <label class="flex items-center gap-2 rounded-lg border border-slate-200 bg-slate-50/90 px-2.5 py-1.5 text-[13px] dark:border-white/10 dark:bg-white/5"><input id="onlyStreak" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" /><span>浠呰繛姒?/span></label>
-              <button id="resetFilters" type="button" class="rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-[13px] font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-200">閲嶇疆</button>
+        <section class="mt-3 grid gap-3 xl:grid-cols-[1.9fr_0.72fr]">
+          <div class="rounded-2xl border border-white/70 bg-white/94 p-3 shadow-panel dark:border-white/10 dark:bg-white/[0.055]">
+            <div class="flex flex-col gap-2">
+              <div id="primaryTabs" class="flex flex-wrap gap-1.5"></div>
+              <div id="secondaryTabsWrap" class="hidden scrollbar-hide overflow-x-auto">
+                <div id="secondaryTabs" class="flex min-w-max gap-1.5"></div>
+              </div>
+            </div>
+
+            <div class="mt-2.5 grid gap-1.5 lg:grid-cols-[1.55fr_0.8fr_0.8fr_0.8fr_repeat(3,0.62fr)_0.64fr]">
+              <label class="rounded-xl border border-slate-200 bg-slate-50/90 px-3 py-2 dark:border-white/10 dark:bg-white/5">
+                <span class="mb-1 block font-mono text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">搜索</span>
+                <input id="searchInput" type="search" placeholder="项目 / 描述 / 语言 / 主题" class="w-full bg-transparent text-[13px] outline-none placeholder:text-slate-400" />
+              </label>
+              <label class="rounded-xl border border-slate-200 bg-slate-50/90 px-3 py-2 dark:border-white/10 dark:bg-white/5">
+                <span class="mb-1 block font-mono text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">排序</span>
+                <select id="sortSelect" class="w-full bg-transparent text-[13px] outline-none"></select>
+              </label>
+              <label class="rounded-xl border border-slate-200 bg-slate-50/90 px-3 py-2 dark:border-white/10 dark:bg-white/5">
+                <span class="mb-1 block font-mono text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">语言</span>
+                <select id="languageSelect" class="w-full bg-transparent text-[13px] outline-none"></select>
+              </label>
+              <label class="rounded-xl border border-slate-200 bg-slate-50/90 px-3 py-2 dark:border-white/10 dark:bg-white/5">
+                <span class="mb-1 block font-mono text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">主题</span>
+                <select id="topicSelect" class="w-full bg-transparent text-[13px] outline-none"></select>
+              </label>
+              <label class="flex items-center gap-2 rounded-xl border border-slate-200 bg-slate-50/90 px-2.5 py-2 text-[13px] dark:border-white/10 dark:bg-white/5">
+                <input id="onlyAnomaly" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" />
+                <span>仅异常</span>
+              </label>
+              <label class="flex items-center gap-2 rounded-xl border border-slate-200 bg-slate-50/90 px-2.5 py-2 text-[13px] dark:border-white/10 dark:bg-white/5">
+                <input id="onlyNewcomer" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" />
+                <span>仅新秀</span>
+              </label>
+              <label class="flex items-center gap-2 rounded-xl border border-slate-200 bg-slate-50/90 px-2.5 py-2 text-[13px] dark:border-white/10 dark:bg-white/5">
+                <input id="onlyStreak" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300" />
+                <span>仅连榜</span>
+              </label>
+              <button id="resetFilters" type="button" class="rounded-xl border border-slate-200 bg-slate-50 px-3 py-2 text-[13px] font-semibold text-slate-700 transition hover:border-slate-300 hover:bg-white dark:border-white/10 dark:bg-white/5 dark:text-slate-200">重置</button>
             </div>
           </div>
 
-          <aside class="rounded-xl border border-white/60 bg-white/92 p-3 dark:border-white/10 dark:bg-white/5">
+          <aside class="rounded-2xl border border-white/70 bg-white/94 p-3 shadow-panel dark:border-white/10 dark:bg-white/[0.055]">
             <div class="flex items-center justify-between gap-3">
-              <div><p class="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鎽樿闈㈡澘</p><h2 class="mt-1 font-display text-lg font-bold">鏈懆閲嶇偣</h2></div>
-              <button id="sidebarToggle" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-xs font-semibold dark:border-white/10">鎶樺彔</button>
+              <div>
+                <p class="font-mono text-[10px] font-semibold tracking-[0.18em] text-slate-500 dark:text-slate-400">信号面板</p>
+                <h2 class="mt-1 font-display text-lg font-bold">本周重点</h2>
+              </div>
+              <button id="sidebarToggle" type="button" class="rounded-lg border border-slate-200 px-2.5 py-1.5 text-[12px] font-semibold dark:border-white/10">折叠</button>
             </div>
             <div id="sidebarContent" class="mt-2 hidden space-y-2 xl:block">
-              <div class="rounded-lg border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5"><p class="text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鎵ц鎽樿</p><div id="executiveSummary" class="mt-2 space-y-1 text-[13px] leading-5 text-slate-600 dark:text-slate-300"></div></div>
-              <div class="rounded-lg border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5"><p class="text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">琛屼笟瑙傚療</p><div id="sectionInsights" class="mt-2 space-y-1 text-[13px] leading-5 text-slate-600 dark:text-slate-300"></div></div>
-              <div class="rounded-lg border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5"><p class="text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鍙樺寲鎶ュ憡</p><div id="changeReport" class="mt-2 grid gap-1.5"></div></div>
+              <section class="rounded-xl border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5">
+                <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">执行摘要</p>
+                <div id="executiveSummary" class="mt-2 space-y-1 text-[13px] leading-5 text-slate-600 dark:text-slate-300"></div>
+              </section>
+              <section class="rounded-xl border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5">
+                <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">行业观察</p>
+                <div id="sectionInsights" class="mt-2 space-y-1 text-[13px] leading-5 text-slate-600 dark:text-slate-300"></div>
+              </section>
+              <section class="rounded-xl border border-slate-200 bg-slate-50/90 p-2.5 dark:border-white/10 dark:bg-white/5">
+                <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">变化报告</p>
+                <div id="changeReport" class="mt-2 grid gap-1.5"></div>
+              </section>
             </div>
           </aside>
         </section>
 
-        <section class="mt-3 rounded-xl border border-white/60 bg-white/92 p-3 dark:border-white/10 dark:bg-white/5">
-          <div class="flex flex-col gap-2 border-b border-slate-200/80 pb-2.5 dark:border-white/10 lg:flex-row lg:items-end lg:justify-between">
-            <div>
-              <p id="sectionEyebrow" class="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400"></p>
-              <h2 id="sectionTitle" class="mt-1 font-display text-xl font-bold"></h2>
+        <section class="mt-3 rounded-2xl border border-white/70 bg-white/94 p-3 shadow-panel dark:border-white/10 dark:bg-white/[0.055]">
+          <div class="flex flex-col gap-2 border-b border-slate-200/90 pb-2.5 dark:border-white/10 lg:flex-row lg:items-end lg:justify-between">
+            <div class="min-w-0">
+              <p id="sectionEyebrow" class="font-mono text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400"></p>
+              <h2 id="sectionTitle" class="mt-1 font-display text-xl font-bold tracking-tight"></h2>
               <p id="sectionDescription" class="mt-1 max-w-4xl text-[13px] text-slate-600 dark:text-slate-300"></p>
               <div id="sectionTopics" class="mt-1.5 flex flex-wrap gap-1.5"></div>
             </div>
-            <div class="rounded-lg border border-slate-200 bg-slate-50/90 px-3 py-1.5 text-[13px] dark:border-white/10 dark:bg-white/5">缁撴灉 <span id="resultCount" class="font-semibold text-slate-950 dark:text-white">0</span></div>
+            <div class="rounded-xl border border-slate-200 bg-slate-50/90 px-3 py-2 text-[13px] dark:border-white/10 dark:bg-white/5">
+              结果 <span id="resultCount" class="font-mono font-semibold text-slate-950 dark:text-white">0</span>
+            </div>
           </div>
-          <div class="mt-2 overflow-x-auto rounded-lg border border-slate-200 bg-white/75 dark:border-white/10 dark:bg-white/5">
-            <table class="hidden min-w-full divide-y divide-slate-200 text-left lg:table dark:divide-white/10"><thead><tr class="text-[11px] uppercase tracking-[0.16em] text-slate-500 dark:text-slate-400"><th class="px-3 py-2">椤圭洰</th><th class="px-3 py-2">澧為暱</th><th class="px-3 py-2">鐑害</th><th class="px-3 py-2">璇█ / 鏇存柊</th><th class="px-3 py-2">瓒嬪娍</th><th class="px-3 py-2">璇︽儏</th></tr></thead><tbody id="tableBody" class="divide-y divide-slate-200 dark:divide-white/10"></tbody></table>
-            <div id="mobileCards" class="grid gap-3 p-3 lg:hidden"></div>
+
+          <div class="mt-2 overflow-x-auto rounded-xl border border-slate-200 bg-white/85 dark:border-white/10 dark:bg-white/[0.045]">
+            <table class="hidden min-w-full divide-y divide-slate-200 text-left lg:table dark:divide-white/10">
+              <thead>
+                <tr class="bg-slate-50/90 text-[11px] uppercase tracking-[0.16em] text-slate-500 dark:bg-white/5 dark:text-slate-400">
+                  <th class="px-3 py-2">项目</th>
+                  <th class="px-3 py-2">增长</th>
+                  <th class="px-3 py-2">热度</th>
+                  <th class="px-3 py-2">语言 / 更新</th>
+                  <th class="px-3 py-2">趋势</th>
+                  <th class="px-3 py-2">详情</th>
+                </tr>
+              </thead>
+              <tbody id="tableBody" class="divide-y divide-slate-200 dark:divide-white/10"></tbody>
+            </table>
+            <div id="mobileCards" class="grid gap-2.5 p-2.5 lg:hidden"></div>
           </div>
-          <div id="emptyState" class="hidden py-8 text-center text-sm text-slate-500 dark:text-slate-400">褰撳墠绛涢€夋潯浠朵笅娌℃湁鍖归厤缁撴灉銆?/div>
+
+          <div id="emptyState" class="hidden py-8 text-center text-sm text-slate-500 dark:text-slate-400">当前筛选条件下没有匹配结果。</div>
         </section>
       </main>
     </div>
+    <aside id="notesDrawer" class="fixed inset-y-0 right-0 z-40 hidden w-full max-w-xl border-l border-slate-200 bg-white p-5 shadow-2xl dark:border-white/10 dark:bg-ink-900">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">数据说明</p>
+          <h3 class="mt-2 font-display text-2xl font-bold">排名逻辑与限制</h3>
+        </div>
+        <button id="notesClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">关闭</button>
+      </div>
+      <div id="dataNotes" class="mt-6 space-y-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></div>
+    </aside>
 
-    <aside id="notesDrawer" class="fixed inset-y-0 right-0 z-40 hidden w-full max-w-xl border-l border-slate-200 bg-white p-5 shadow-2xl dark:border-white/10 dark:bg-ink-900"><div class="flex items-start justify-between gap-4"><div><p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">鏁版嵁璇存槑</p><h3 class="mt-2 font-display text-2xl font-bold">鎺掑悕閫昏緫涓庨檺鍒?/h3></div><button id="notesClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">鍏抽棴</button></div><div id="dataNotes" class="mt-6 space-y-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></div></aside>
-    <aside id="qaDrawer" class="fixed inset-y-0 right-0 z-40 hidden w-full max-w-xl border-l border-slate-200 bg-white p-5 shadow-2xl dark:border-white/10 dark:bg-ink-900"><div class="flex items-start justify-between gap-4"><div><p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">闂瓟寮忔櫤鑳戒綋鍏ュ彛</p><h3 class="mt-2 font-display text-2xl font-bold">鐩存帴闂秼鍔块棶棰?/h3></div><button id="qaDrawerClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">鍏抽棴</button></div><p class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300">渚嬪鈥滄湰鍛?AI 璧涢亾鏈€鍊煎緱鍏虫敞鐨?5 涓」鐩槸浠€涔堬紵鈥?/p><div id="qaExamples" class="mt-4 flex flex-wrap gap-2"></div><label class="mt-4 block rounded-xl border border-slate-200 bg-slate-50/90 px-4 py-3 dark:border-white/10 dark:bg-white/5"><textarea id="qaInput" rows="5" class="w-full resize-none bg-transparent text-sm leading-7 outline-none placeholder:text-slate-400" placeholder="杈撳叆浣犵殑闂..."></textarea></label><div class="mt-3 flex justify-end"><button id="qaSubmit" type="button" class="inline-flex items-center rounded-xl bg-slate-950 px-4 py-2.5 text-sm font-semibold text-white dark:bg-white dark:text-slate-950">鑾峰彇鍥炵瓟</button></div><div id="qaAnswer" class="mt-4 rounded-xl border border-slate-200 bg-slate-50/90 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"></div></aside>
-    <div id="modalOverlay" class="fixed inset-0 z-50 hidden bg-slate-950/50 p-4 backdrop-blur-sm"><div class="mx-auto mt-4 max-w-4xl rounded-2xl border border-white/10 bg-white p-5 shadow-2xl dark:bg-ink-900"><div class="flex items-start justify-between gap-4"><div><p class="text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">椤圭洰璇︽儏</p><h3 id="modalTitle" class="mt-2 font-display text-3xl font-bold"></h3><p id="modalMeta" class="mt-2 text-sm text-slate-500 dark:text-slate-400"></p></div><button id="modalClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">鍏抽棴</button></div><div class="mt-5 grid gap-4 lg:grid-cols-[1.1fr_0.9fr]"><div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5"><p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">README 鎽樿</p><p id="modalReadme" class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></p></div><div class="grid gap-4"><div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5"><p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">Star 鍘嗗彶</p><div id="modalSparkline" class="mt-3"></div></div><div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5"><p class="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">鐩稿叧椤圭洰</p><div id="modalRelated" class="mt-3 space-y-2"></div></div></div></div><div class="mt-4 rounded-xl border border-slate-200 bg-slate-50/80 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"><div id="modalTopics" class="flex flex-wrap gap-2"></div></div></div></div>
+    <aside id="qaDrawer" class="fixed inset-y-0 right-0 z-40 hidden w-full max-w-xl border-l border-slate-200 bg-white p-5 shadow-2xl dark:border-white/10 dark:bg-ink-900">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">问答入口</p>
+          <h3 class="mt-2 font-display text-2xl font-bold">直接提问趋势问题</h3>
+        </div>
+        <button id="qaDrawerClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">关闭</button>
+      </div>
+      <p class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300">例如“本周 AI 赛道最值得关注的 5 个项目是什么？”</p>
+      <div id="qaExamples" class="mt-4 flex flex-wrap gap-2"></div>
+      <label class="mt-4 block rounded-xl border border-slate-200 bg-slate-50/90 px-4 py-3 dark:border-white/10 dark:bg-white/5">
+        <textarea id="qaInput" rows="5" class="w-full resize-none bg-transparent text-sm leading-7 outline-none placeholder:text-slate-400" placeholder="输入你的问题..."></textarea>
+      </label>
+      <div class="mt-3 flex justify-end">
+        <button id="qaSubmit" type="button" class="inline-flex items-center rounded-xl bg-slate-950 px-4 py-2.5 text-sm font-semibold text-white dark:bg-white dark:text-slate-950">获取回答</button>
+      </div>
+      <div id="qaAnswer" class="mt-4 rounded-xl border border-slate-200 bg-slate-50/90 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"></div>
+    </aside>
+
+    <div id="modalOverlay" class="fixed inset-0 z-50 hidden bg-slate-950/55 p-4 backdrop-blur-sm">
+      <div class="mx-auto mt-4 max-w-4xl rounded-2xl border border-white/10 bg-white p-5 shadow-2xl dark:bg-ink-900">
+        <div class="flex items-start justify-between gap-4">
+          <div>
+            <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">项目详情</p>
+            <h3 id="modalTitle" class="mt-2 font-display text-3xl font-bold"></h3>
+            <p id="modalMeta" class="mt-2 text-sm text-slate-500 dark:text-slate-400"></p>
+          </div>
+          <button id="modalClose" type="button" class="rounded-xl border border-slate-200 px-3 py-1.5 text-sm dark:border-white/10">关闭</button>
+        </div>
+        <div class="mt-5 grid gap-4 lg:grid-cols-[1.08fr_0.92fr]">
+          <div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+            <p class="font-mono text-[10px] font-semibold tracking-[0.18em] text-slate-500 dark:text-slate-400">仓库摘要</p>
+            <p id="modalReadme" class="mt-3 text-sm leading-7 text-slate-600 dark:text-slate-300"></p>
+          </div>
+          <div class="grid gap-4">
+            <div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="font-mono text-[10px] font-semibold tracking-[0.18em] text-slate-500 dark:text-slate-400">Star 趋势</p>
+              <div id="modalSparkline" class="mt-3"></div>
+            </div>
+            <div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">
+              <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">相关项目</p>
+              <div id="modalRelated" class="mt-3 space-y-2"></div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-4 rounded-xl border border-slate-200 bg-slate-50/80 p-4 text-sm leading-7 text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300">
+          <div id="modalTopics" class="flex flex-wrap gap-2"></div>
+        </div>
+      </div>
+    </div>
 
     <script>
       const dashboard = __DASHBOARD_JSON__;
-      const state = { primaryTab: dashboard.primary_tabs[0].key, secondaryTab: dashboard.primary_tabs[0].secondary[0], query: "", sortBy: "heat_score", language: "all", topic: "all", onlyAnomaly: false, onlyNewcomer: false, onlyStreak: false, sidebarCollapsed: window.innerWidth < 1280 };
-      const elements = { generatedAtBadge: document.getElementById("generatedAtBadge"), trackedBadge: document.getElementById("trackedBadge"), summaryCards: document.getElementById("summaryCards"), executiveSummary: document.getElementById("executiveSummary"), primaryTabs: document.getElementById("primaryTabs"), secondaryTabsWrap: document.getElementById("secondaryTabsWrap"), secondaryTabs: document.getElementById("secondaryTabs"), searchInput: document.getElementById("searchInput"), sortSelect: document.getElementById("sortSelect"), languageSelect: document.getElementById("languageSelect"), topicSelect: document.getElementById("topicSelect"), onlyAnomaly: document.getElementById("onlyAnomaly"), onlyNewcomer: document.getElementById("onlyNewcomer"), onlyStreak: document.getElementById("onlyStreak"), resetFilters: document.getElementById("resetFilters"), sectionEyebrow: document.getElementById("sectionEyebrow"), sectionTitle: document.getElementById("sectionTitle"), sectionDescription: document.getElementById("sectionDescription"), sectionTopics: document.getElementById("sectionTopics"), sectionInsights: document.getElementById("sectionInsights"), changeReport: document.getElementById("changeReport"), sidebarToggle: document.getElementById("sidebarToggle"), sidebarContent: document.getElementById("sidebarContent"), resultCount: document.getElementById("resultCount"), tableBody: document.getElementById("tableBody"), mobileCards: document.getElementById("mobileCards"), emptyState: document.getElementById("emptyState"), qaDrawerToggle: document.getElementById("qaDrawerToggle"), qaDrawer: document.getElementById("qaDrawer"), qaDrawerClose: document.getElementById("qaDrawerClose"), qaExamples: document.getElementById("qaExamples"), qaInput: document.getElementById("qaInput"), qaSubmit: document.getElementById("qaSubmit"), qaAnswer: document.getElementById("qaAnswer"), notesToggle: document.getElementById("notesToggle"), notesDrawer: document.getElementById("notesDrawer"), notesClose: document.getElementById("notesClose"), dataNotes: document.getElementById("dataNotes"), modalOverlay: document.getElementById("modalOverlay"), modalTitle: document.getElementById("modalTitle"), modalMeta: document.getElementById("modalMeta"), modalReadme: document.getElementById("modalReadme"), modalSparkline: document.getElementById("modalSparkline"), modalRelated: document.getElementById("modalRelated"), modalTopics: document.getElementById("modalTopics"), modalClose: document.getElementById("modalClose"), themeToggle: document.getElementById("themeToggle") };
-      function formatNumber(value) { return new Intl.NumberFormat("zh-CN").format(value || 0); }
-      function escapeHtml(value) { return String(value ?? "").replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#39;"); }
-      function signed(value) { const n = Number(value || 0); return n > 0 ? `+${formatNumber(n)}` : `${formatNumber(n)}`; }
-      function toneClasses(tone) { if (tone === "mint") return "border-mint-400/20 bg-mint-400/10 text-mint-600 dark:text-mint-300"; if (tone === "coral") return "border-coral-400/20 bg-coral-400/10 text-coral-400"; if (tone === "sky") return "border-sky-400/20 bg-sky-400/10 text-sky-600 dark:text-sky-300"; return "border-slate-200 bg-slate-50 text-slate-700 dark:border-white/10 dark:bg-white/5 dark:text-slate-200"; }
-      function growthPill(repo) { if (repo.anomaly) return "bg-coral-400/15 text-coral-400"; if (repo.newcomer) return "bg-sky-400/15 text-sky-600 dark:text-sky-300"; if (repo.weekly_stars > 0) return "bg-mint-400/15 text-mint-500 dark:text-mint-300"; return "bg-slate-200 text-slate-500 dark:bg-white/10 dark:text-slate-400"; }
-      function getCurrentSection() { return dashboard.sections[state.secondaryTab] || dashboard.sections.global; }
-      function sortValue(repo, sortBy) { if (sortBy === "language") return repo.language || ""; if (sortBy === "pushed_at") return repo.pushed_at || ""; return repo[sortBy] ?? 0; }
-      function computeFilteredRepos(section) { const query = state.query.trim().toLowerCase(); return (section.repos || []).filter((repo) => { const matchesQuery = !query || [repo.full_name, repo.description, repo.language, ...(repo.all_topics || [])].join(" ").toLowerCase().includes(query); const matchesLanguage = state.language === "all" || repo.language === state.language; const matchesTopic = state.topic === "all" || (repo.all_topics || []).includes(state.topic); const matchesAnomaly = !state.onlyAnomaly || repo.anomaly; const matchesNewcomer = !state.onlyNewcomer || repo.newcomer; const matchesStreak = !state.onlyStreak || Number(repo.section_streak || 0) > 1; return matchesQuery && matchesLanguage && matchesTopic && matchesAnomaly && matchesNewcomer && matchesStreak; }).sort((left, right) => { const a = sortValue(left, state.sortBy); const b = sortValue(right, state.sortBy); if (typeof a === "string") return String(a).localeCompare(String(b), "zh-CN"); return Number(b) - Number(a); }); }
-      function sparklineSvg(values, width = 120, height = 34) { if (!values?.length) return ""; const min = Math.min(...values); const max = Math.max(...values); const spread = Math.max(max - min, 1); const points = values.map((value, index) => { const x = (index / Math.max(values.length - 1, 1)) * width; const y = height - ((value - min) / spread) * (height - 4) - 2; return `${x},${y}`; }); return `<svg viewBox="0 0 ${width} ${height}" class="h-8 w-28"><polyline fill="none" stroke="currentColor" stroke-width="2" points="${points.join(" ")}" /></svg>`; }
-      function repoBadges(repo) { const items = []; if (repo.newcomer) items.push('<span class="rounded-full bg-sky-400/15 px-2 py-0.5 text-[11px] font-semibold text-sky-600 dark:text-sky-300">鏂扮</span>'); if (repo.anomaly) items.push('<span class="rounded-full bg-coral-400/15 px-2 py-0.5 text-[11px] font-semibold text-coral-400">寮傚父澧為暱</span>'); if (Number(repo.section_streak || 0) > 1) items.push(`<span class="rounded-full bg-slate-900/10 px-2 py-0.5 text-[11px] font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">杩炴 ${repo.section_streak} 鍛?/span>`); return items.join(""); }
-      function renderSummary() {
-        elements.generatedAtBadge.textContent = `鐢熸垚鏃堕棿: ${dashboard.generated_at}`;
-        elements.trackedBadge.textContent = `鐩戞帶浠撳簱: ${dashboard.tracked_repo_count}`;
-        elements.summaryCards.innerHTML = dashboard.summary_cards.map((card) => `
-          <div class="rounded-lg border ${toneClasses(card.tone)} px-2.5 py-2">
-            <p class="text-[11px] font-semibold uppercase tracking-[0.18em] opacity-70">${escapeHtml(card.label)}</p>
-            <div class="mt-1 flex items-end justify-between gap-2">
-              <p class="text-base font-bold leading-none">${escapeHtml(card.value)}</p>
-              <p class="text-[11px] opacity-80">${escapeHtml(card.description)}</p>
-            </div>
-          </div>
-        `).join("");
-        elements.executiveSummary.innerHTML = dashboard.executive_summary.map((item) => `<p class="rounded-md border border-slate-200 bg-white/70 px-2.5 py-1.5 dark:border-white/10 dark:bg-white/5">鈥?${escapeHtml(item)}</p>`).join("");
+      const state = {
+        primaryTab: dashboard.primary_tabs[0].key,
+        secondaryTab: dashboard.primary_tabs[0].secondary[0],
+        query: "",
+        sortBy: "heat_score",
+        language: "all",
+        topic: "all",
+        onlyAnomaly: false,
+        onlyNewcomer: false,
+        onlyStreak: false,
+        sidebarCollapsed: window.innerWidth < 1280,
+      };
+
+      const elements = {
+        generatedAtBadge: document.getElementById("generatedAtBadge"),
+        trackedBadge: document.getElementById("trackedBadge"),
+        summaryCards: document.getElementById("summaryCards"),
+        executiveSummary: document.getElementById("executiveSummary"),
+        primaryTabs: document.getElementById("primaryTabs"),
+        secondaryTabsWrap: document.getElementById("secondaryTabsWrap"),
+        secondaryTabs: document.getElementById("secondaryTabs"),
+        searchInput: document.getElementById("searchInput"),
+        sortSelect: document.getElementById("sortSelect"),
+        languageSelect: document.getElementById("languageSelect"),
+        topicSelect: document.getElementById("topicSelect"),
+        onlyAnomaly: document.getElementById("onlyAnomaly"),
+        onlyNewcomer: document.getElementById("onlyNewcomer"),
+        onlyStreak: document.getElementById("onlyStreak"),
+        resetFilters: document.getElementById("resetFilters"),
+        sectionEyebrow: document.getElementById("sectionEyebrow"),
+        sectionTitle: document.getElementById("sectionTitle"),
+        sectionDescription: document.getElementById("sectionDescription"),
+        sectionTopics: document.getElementById("sectionTopics"),
+        sectionInsights: document.getElementById("sectionInsights"),
+        changeReport: document.getElementById("changeReport"),
+        sidebarToggle: document.getElementById("sidebarToggle"),
+        sidebarContent: document.getElementById("sidebarContent"),
+        resultCount: document.getElementById("resultCount"),
+        tableBody: document.getElementById("tableBody"),
+        mobileCards: document.getElementById("mobileCards"),
+        emptyState: document.getElementById("emptyState"),
+        qaDrawerToggle: document.getElementById("qaDrawerToggle"),
+        qaDrawer: document.getElementById("qaDrawer"),
+        qaDrawerClose: document.getElementById("qaDrawerClose"),
+        qaExamples: document.getElementById("qaExamples"),
+        qaInput: document.getElementById("qaInput"),
+        qaSubmit: document.getElementById("qaSubmit"),
+        qaAnswer: document.getElementById("qaAnswer"),
+        notesToggle: document.getElementById("notesToggle"),
+        notesDrawer: document.getElementById("notesDrawer"),
+        notesClose: document.getElementById("notesClose"),
+        dataNotes: document.getElementById("dataNotes"),
+        modalOverlay: document.getElementById("modalOverlay"),
+        modalTitle: document.getElementById("modalTitle"),
+        modalMeta: document.getElementById("modalMeta"),
+        modalReadme: document.getElementById("modalReadme"),
+        modalSparkline: document.getElementById("modalSparkline"),
+        modalRelated: document.getElementById("modalRelated"),
+        modalTopics: document.getElementById("modalTopics"),
+        modalClose: document.getElementById("modalClose"),
+        themeToggle: document.getElementById("themeToggle"),
+      };
+
+      function formatNumber(value) {
+        return new Intl.NumberFormat("zh-CN").format(value || 0);
       }
+
+      function escapeHtml(value) {
+        return String(value ?? "")
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#39;");
+      }
+
+      function signed(value) {
+        const n = Number(value || 0);
+        return n > 0 ? `+${formatNumber(n)}` : `${formatNumber(n)}`;
+      }
+
+      function toneClasses(tone) {
+        if (tone === "mint") return "border-mint-400/20 bg-mint-400/10 text-mint-700 dark:text-mint-300";
+        if (tone === "coral") return "border-coral-400/20 bg-coral-400/10 text-coral-500";
+        if (tone === "sky") return "border-sky-400/20 bg-sky-400/10 text-sky-700 dark:text-sky-300";
+        return "border-slate-200 bg-slate-50 text-slate-700 dark:border-white/10 dark:bg-white/5 dark:text-slate-200";
+      }
+
+      function growthPill(repo) {
+        if (repo.anomaly) return "bg-coral-400/15 text-coral-500";
+        if (repo.newcomer) return "bg-sky-400/15 text-sky-700 dark:text-sky-300";
+        if (repo.weekly_stars > 0) return "bg-mint-400/15 text-mint-600 dark:text-mint-300";
+        return "bg-slate-200 text-slate-500 dark:bg-white/10 dark:text-slate-400";
+      }
+
+      function getCurrentSection() {
+        return dashboard.sections[state.secondaryTab] || dashboard.sections.global;
+      }
+
+      function sortValue(repo, sortBy) {
+        if (sortBy === "language") return repo.language || "";
+        if (sortBy === "pushed_at") return repo.pushed_at || "";
+        return repo[sortBy] ?? 0;
+      }
+
+      function computeFilteredRepos(section) {
+        const query = state.query.trim().toLowerCase();
+        return (section.repos || [])
+          .filter((repo) => {
+            const matchesQuery = !query || [repo.full_name, repo.description, repo.language, ...(repo.all_topics || [])].join(" ").toLowerCase().includes(query);
+            const matchesLanguage = state.language === "all" || repo.language === state.language;
+            const matchesTopic = state.topic === "all" || (repo.all_topics || []).includes(state.topic);
+            const matchesAnomaly = !state.onlyAnomaly || repo.anomaly;
+            const matchesNewcomer = !state.onlyNewcomer || repo.newcomer;
+            const matchesStreak = !state.onlyStreak || Number(repo.section_streak || 0) > 1;
+            return matchesQuery && matchesLanguage && matchesTopic && matchesAnomaly && matchesNewcomer && matchesStreak;
+          })
+          .sort((left, right) => {
+            const a = sortValue(left, state.sortBy);
+            const b = sortValue(right, state.sortBy);
+            if (typeof a === "string") return String(a).localeCompare(String(b), "zh-CN");
+            return Number(b) - Number(a);
+          });
+      }
+
+      function sparklineSvg(values, width = 120, height = 34) {
+        if (!values?.length) return "";
+        const min = Math.min(...values);
+        const max = Math.max(...values);
+        const spread = Math.max(max - min, 1);
+        const points = values.map((value, index) => {
+          const x = (index / Math.max(values.length - 1, 1)) * width;
+          const y = height - ((value - min) / spread) * (height - 4) - 2;
+          return `${x},${y}`;
+        });
+        return `<svg viewBox="0 0 ${width} ${height}" class="h-7 w-24"><polyline fill="none" stroke="currentColor" stroke-width="2" points="${points.join(" ")}" /></svg>`;
+      }
+      function repoBadges(repo) {
+        const items = [];
+        if (repo.newcomer) items.push('<span class="rounded-full bg-sky-400/15 px-2 py-0.5 text-[11px] font-semibold text-sky-700 dark:text-sky-300">新秀</span>');
+        if (repo.anomaly) items.push('<span class="rounded-full bg-coral-400/15 px-2 py-0.5 text-[11px] font-semibold text-coral-500">异常增长</span>');
+        if (Number(repo.section_streak || 0) > 1) items.push(`<span class="rounded-full bg-slate-900/10 px-2 py-0.5 text-[11px] font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">连榜 ${repo.section_streak} 周</span>`);
+        return items.join("");
+      }
+
+      function renderSummary() {
+        elements.generatedAtBadge.textContent = `生成时间: ${dashboard.generated_at}`;
+        elements.trackedBadge.textContent = `监控仓库: ${dashboard.tracked_repo_count}`;
+        elements.summaryCards.innerHTML = dashboard.summary_cards
+          .map((card) => `
+            <div class="rounded-xl border ${toneClasses(card.tone)} px-2.5 py-2">
+              <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.18em] opacity-75">${escapeHtml(card.label)}</p>
+              <div class="mt-1 flex items-end justify-between gap-2">
+                <p class="font-display text-base font-bold leading-none">${escapeHtml(card.value)}</p>
+                <p class="max-w-[9rem] text-right text-[11px] opacity-80">${escapeHtml(card.description)}</p>
+              </div>
+            </div>
+          `)
+          .join("");
+        elements.executiveSummary.innerHTML = dashboard.executive_summary
+          .map((item) => `<p class="rounded-lg border border-slate-200 bg-white/75 px-2.5 py-1.5 dark:border-white/10 dark:bg-white/5">• ${escapeHtml(item)}</p>`)
+          .join("");
+      }
+
       function renderTabs() {
-        elements.primaryTabs.innerHTML = dashboard.primary_tabs.map((tab) => {
-          const active = tab.key === state.primaryTab;
-          return `<button type="button" data-primary="${tab.key}" class="${active ? "bg-slate-950 text-white dark:bg-white dark:text-slate-950" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-lg border border-slate-200 px-3 py-1 text-[13px] font-semibold transition dark:border-white/10">${escapeHtml(tab.label)}</button>`;
-        }).join("");
+        elements.primaryTabs.innerHTML = dashboard.primary_tabs
+          .map((tab) => {
+            const active = tab.key === state.primaryTab;
+            return `<button type="button" data-primary="${tab.key}" class="${active ? "bg-slate-950 text-white dark:bg-white dark:text-slate-950" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-lg border border-slate-200 px-3 py-1.5 text-[13px] font-semibold transition dark:border-white/10">${escapeHtml(tab.label)}</button>`;
+          })
+          .join("");
+
         const currentPrimary = dashboard.primary_tabs.find((tab) => tab.key === state.primaryTab) || dashboard.primary_tabs[0];
         const showSecondary = state.primaryTab === "industries";
         elements.secondaryTabsWrap.classList.toggle("hidden", !showSecondary);
-        elements.secondaryTabs.innerHTML = currentPrimary.secondary.map((sectionKey) => {
-          const section = dashboard.sections[sectionKey];
-          const active = state.secondaryTab === sectionKey;
-          return `<button type="button" data-secondary="${sectionKey}" class="${active ? "bg-mint-500 text-white" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-lg border border-slate-200 px-3 py-1 text-[13px] font-semibold transition dark:border-white/10">${escapeHtml(section.label)}</button>`;
-        }).join("");
+        elements.secondaryTabs.innerHTML = currentPrimary.secondary
+          .map((sectionKey) => {
+            const section = dashboard.sections[sectionKey];
+            const active = state.secondaryTab === sectionKey;
+            return `<button type="button" data-secondary="${sectionKey}" class="${active ? "bg-mint-500 text-white border-mint-500" : "bg-slate-50 text-slate-600 dark:bg-white/5 dark:text-slate-300"} rounded-lg border border-slate-200 px-3 py-1.5 text-[13px] font-semibold transition dark:border-white/10">${escapeHtml(section.label)}</button>`;
+          })
+          .join("");
       }
+
       function renderSelectOptions(section) {
-        elements.sortSelect.innerHTML = (section.sort_options || []).map((option) => `<option value="${option.value}" ${option.value === state.sortBy ? "selected" : ""}>${escapeHtml(option.label)}</option>`).join("");
+        elements.sortSelect.innerHTML = (section.sort_options || [])
+          .map((option) => `<option value="${option.value}" ${option.value === state.sortBy ? "selected" : ""}>${escapeHtml(option.label)}</option>`)
+          .join("");
+
         const languages = [...new Set((section.repos || []).map((repo) => repo.language).filter(Boolean))].sort((a, b) => a.localeCompare(b, "zh-CN"));
-        elements.languageSelect.innerHTML = ['<option value="all">鍏ㄩ儴璇█</option>'].concat(languages.map((language) => `<option value="${escapeHtml(language)}" ${state.language === language ? "selected" : ""}>${escapeHtml(language)}</option>`)).join("");
+        elements.languageSelect.innerHTML = ['<option value="all">全部语言</option>']
+          .concat(languages.map((language) => `<option value="${escapeHtml(language)}" ${state.language === language ? "selected" : ""}>${escapeHtml(language)}</option>`))
+          .join("");
+
         const topics = [...new Set((section.repos || []).flatMap((repo) => repo.all_topics || []))].sort((a, b) => a.localeCompare(b, "zh-CN"));
-        elements.topicSelect.innerHTML = ['<option value="all">鍏ㄩ儴 Topic</option>'].concat(topics.map((topic) => `<option value="${escapeHtml(topic)}" ${state.topic === topic ? "selected" : ""}>${escapeHtml(topic)}</option>`)).join("");
+        elements.topicSelect.innerHTML = ['<option value="all">全部主题</option>']
+          .concat(topics.map((topic) => `<option value="${escapeHtml(topic)}" ${state.topic === topic ? "selected" : ""}>${escapeHtml(topic)}</option>`))
+          .join("");
       }
+
       function renderChangeReport(report) {
         const safeReport = report || { new_entries: [], dropped_entries: [], rank_movers: [] };
         const cards = [
-          { label: "New", items: safeReport.new_entries.map((item) => `${item.full_name} (#${item.rank})`) },
-          { label: "Dropped", items: safeReport.dropped_entries.map((item) => `${item.full_name} (Prev #${item.previous_rank})`) },
-          { label: "Movers", items: safeReport.rank_movers.map((item) => `${item.full_name} (${item.previous_rank}->${item.current_rank})`) },
+          { label: "新上榜", items: safeReport.new_entries.map((item) => `${item.full_name} (#${item.rank})`) },
+          { label: "掉榜", items: safeReport.dropped_entries.map((item) => `${item.full_name} (上期 #${item.previous_rank})`) },
+          { label: "排名变化", items: safeReport.rank_movers.map((item) => `${item.full_name} (${item.previous_rank} → ${item.current_rank})`) },
         ];
-        elements.changeReport.innerHTML = cards.map((card) => `
-          <div class="rounded-md border border-slate-200 bg-white/80 p-2 dark:border-white/10 dark:bg-white/5">
-            <p class="text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-500 dark:text-slate-400">${escapeHtml(card.label)}</p>
-            <div class="mt-1.5 space-y-1 text-[13px] text-slate-600 dark:text-slate-300">${card.items.length ? card.items.slice(0, 3).map((item) => `<p>${escapeHtml(item)}</p>`).join("") : '<p>None</p>'}</div>
-          </div>
-        `).join("");
+        elements.changeReport.innerHTML = cards
+          .map((card) => `
+            <div class="rounded-lg border border-slate-200 bg-white/85 p-2 dark:border-white/10 dark:bg-white/5">
+              <p class="font-mono text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-500 dark:text-slate-400">${escapeHtml(card.label)}</p>
+              <div class="mt-1.5 space-y-1 text-[13px] text-slate-600 dark:text-slate-300">
+                ${card.items.length ? card.items.slice(0, 3).map((item) => `<p>${escapeHtml(item)}</p>`).join("") : "<p>暂无</p>"}
+              </div>
+            </div>
+          `)
+          .join("");
       }
+
       function openModal(repo) {
         elements.modalTitle.textContent = repo.full_name;
-        elements.modalMeta.textContent = `Stars ${formatNumber(repo.stars_total)} · Weekly ${signed(repo.weekly_stars)} · Heat ${repo.heat_score}`;
-        elements.modalReadme.textContent = repo.readme_excerpt || repo.description || "No summary available.";
+        elements.modalMeta.textContent = `Star 总量 ${formatNumber(repo.stars_total)} · 周增长 ${signed(repo.weekly_stars)} · 热度 ${repo.heat_score}`;
+        elements.modalReadme.textContent = repo.readme_excerpt || repo.description || "暂无摘要。";
         elements.modalSparkline.innerHTML = `<div class="text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 280, 80)}</div>`;
-        elements.modalTopics.innerHTML = (repo.all_topics || []).map((topic) => `<span class="rounded-full bg-slate-900/10 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">${escapeHtml(topic)}</span>`).join("");
-        elements.modalRelated.innerHTML = (repo.related_repos || []).map((item) => `
-          <a href="${item.html_url}" target="_blank" rel="noreferrer" class="block rounded-xl border border-slate-200 px-3 py-2 text-sm transition hover:border-mint-400 dark:border-white/10">
-            <div class="font-semibold">${escapeHtml(item.full_name)}</div>
-            <div class="text-xs text-slate-500 dark:text-slate-400">Heat ${item.heat_score}</div>
-          </a>
-        `).join("") || '<p class="text-sm text-slate-500 dark:text-slate-400">No related repositories.</p>';
+        elements.modalTopics.innerHTML = (repo.all_topics || [])
+          .map((topic) => `<span class="rounded-full bg-slate-900/10 px-3 py-1 text-xs font-semibold text-slate-700 dark:bg-white/10 dark:text-slate-200">${escapeHtml(topic)}</span>`)
+          .join("");
+        elements.modalRelated.innerHTML = (repo.related_repos || [])
+          .map((item) => `
+            <a href="${item.html_url}" target="_blank" rel="noreferrer" class="block rounded-xl border border-slate-200 px-3 py-2 text-sm transition hover:border-mint-400 dark:border-white/10">
+              <div class="font-semibold">${escapeHtml(item.full_name)}</div>
+              <div class="text-xs text-slate-500 dark:text-slate-400">热度 ${item.heat_score}</div>
+            </a>
+          `)
+          .join("") || '<p class="text-sm text-slate-500 dark:text-slate-400">暂无相似项目。</p>';
         elements.modalOverlay.classList.remove("hidden");
       }
+
       function renderRepos() {
         const section = getCurrentSection();
         const repos = computeFilteredRepos(section);
         elements.resultCount.textContent = String(repos.length);
         elements.emptyState.classList.toggle("hidden", repos.length !== 0);
+
         if (!repos.length) {
-          elements.emptyState.innerHTML = '<div class="space-y-3"><p>No repositories match the current filters.</p><button type="button" id="emptyResetButton" class="rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-200">Reset filters</button></div>';
+          elements.emptyState.innerHTML = '<div class="space-y-3"><p>当前筛选条件下没有匹配项目。</p><button type="button" id="emptyResetButton" class="rounded-xl border border-slate-200 bg-white px-3 py-2 text-sm font-semibold text-slate-700 dark:border-white/10 dark:bg-white/10 dark:text-slate-200">清空筛选</button></div>';
         } else {
           elements.emptyState.textContent = "当前筛选条件下没有匹配结果。";
         }
-        elements.tableBody.innerHTML = repos.map((repo) => `
-          <tr class="align-top transition hover:bg-slate-50 dark:hover:bg-white/5">
-            <td class="px-2.5 py-2">
-              <div class="min-w-[16rem]">
-                <div class="flex items-center gap-2">
-                  <a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-[13px] font-semibold text-slate-950 underline decoration-transparent underline-offset-4 hover:decoration-mint-400 dark:text-white">${escapeHtml(repo.full_name)}</a>
-                  <span class="text-[11px] text-slate-400">@${escapeHtml(repo.owner_login || "")}</span>
+
+        elements.tableBody.innerHTML = repos
+          .map((repo) => `
+            <tr class="align-top transition hover:bg-slate-50/90 dark:hover:bg-white/5">
+              <td class="px-3 py-2">
+                <div class="min-w-[16rem]">
+                  <div class="flex items-center gap-2">
+                    <a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-[13px] font-semibold text-slate-950 underline decoration-transparent underline-offset-4 hover:decoration-mint-400 dark:text-white">${escapeHtml(repo.full_name)}</a>
+                    <span class="font-mono text-[10px] text-slate-400">@${escapeHtml(repo.owner_login || "")}</span>
+                  </div>
+                  <p class="mt-1 line-clamp-1 text-xs text-slate-500 dark:text-slate-400">${escapeHtml(repo.description || "暂无描述")}</p>
+                  <div class="mt-1 flex flex-wrap gap-1">
+                    ${repoBadges(repo)}
+                    ${(repo.all_topics || []).slice(0, 2).map((topic) => `<span class="rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-semibold text-slate-500 dark:bg-white/10 dark:text-slate-300">${escapeHtml(topic)}</span>`).join("")}
+                  </div>
                 </div>
-                <p class="mt-1 line-clamp-1 text-xs text-slate-500 dark:text-slate-400">${escapeHtml(repo.description || "No description")}</p>
-                <div class="mt-1 flex flex-wrap gap-1">${repoBadges(repo)}${(repo.all_topics || []).slice(0, 2).map((topic) => `<span class="rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-semibold text-slate-500 dark:bg-white/10 dark:text-slate-300">${escapeHtml(topic)}</span>`).join("")}</div>
+              </td>
+              <td class="px-3 py-2 text-[11px] leading-5">
+                <div><span class="${growthPill(repo)} inline-flex rounded-full px-2 py-0.5 font-semibold">${signed(repo.weekly_stars)}</span></div>
+                <div class="mt-0.5 text-slate-600 dark:text-slate-300">4W ${signed(repo.growth_4w)}</div>
+                <div class="text-slate-600 dark:text-slate-300">12W ${signed(repo.growth_12w)}</div>
+              </td>
+              <td class="px-3 py-2 text-[11px] leading-5">
+                <div class="font-mono text-[13px] font-semibold text-slate-950 dark:text-white">${repo.heat_score}</div>
+                <div class="text-slate-600 dark:text-slate-300">增长率 ${((repo.growth_rate || 0) * 100).toFixed(1)}%</div>
+                <div class="text-slate-600 dark:text-slate-300">连榜 ${repo.section_streak || 1} 周</div>
+              </td>
+              <td class="px-3 py-2 text-[11px] leading-5">
+                <div class="font-semibold">${escapeHtml(repo.language || "未知")}</div>
+                <div class="text-slate-600 dark:text-slate-300">${escapeHtml((repo.pushed_at || "").slice(0, 10) || "未知")}</div>
+                <div class="text-slate-600 dark:text-slate-300">Star ${formatNumber(repo.stars_total)}</div>
+              </td>
+              <td class="px-3 py-2">
+                <div class="text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 84, 22)}</div>
+              </td>
+              <td class="px-3 py-2">
+                <button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-md border border-slate-200 px-2 py-1 text-[11px] font-semibold transition hover:border-mint-400 dark:border-white/10">查看</button>
+              </td>
+            </tr>
+          `)
+          .join("");
+        elements.mobileCards.innerHTML = repos
+          .map((repo) => `
+            <article class="rounded-xl border border-slate-200 bg-white/90 p-3 dark:border-white/10 dark:bg-white/5">
+              <div class="flex items-start justify-between gap-3">
+                <div>
+                  <a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-sm font-semibold text-slate-950 dark:text-white">${escapeHtml(repo.full_name)}</a>
+                  <p class="mt-1 line-clamp-2 text-xs leading-5 text-slate-600 dark:text-slate-300">${escapeHtml(repo.description || "暂无描述")}</p>
+                </div>
+                <button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-lg border border-slate-200 px-2.5 py-1.5 text-[11px] font-semibold dark:border-white/10">查看</button>
               </div>
-            </td>
-            <td class="px-2.5 py-2 text-[11px] leading-5"><div><span class="${growthPill(repo)} inline-flex rounded-full px-2 py-0.5 font-semibold">${signed(repo.weekly_stars)}</span></div><div class="mt-0.5 text-slate-600 dark:text-slate-300">4W ${signed(repo.growth_4w)}</div><div class="text-slate-600 dark:text-slate-300">12W ${signed(repo.growth_12w)}</div></td>
-            <td class="px-2.5 py-2 text-[11px] leading-5"><div class="text-[13px] font-semibold text-slate-950 dark:text-white">${repo.heat_score}</div><div class="text-slate-600 dark:text-slate-300">Rate ${((repo.growth_rate || 0) * 100).toFixed(1)}%</div><div class="text-slate-600 dark:text-slate-300">Streak ${repo.section_streak || 1}w</div></td>
-            <td class="px-2.5 py-2 text-[11px] leading-5"><div class="font-semibold">${escapeHtml(repo.language || "Unknown")}</div><div class="text-slate-600 dark:text-slate-300">${escapeHtml((repo.pushed_at || "").slice(0, 10) || "Unknown")}</div><div class="text-slate-600 dark:text-slate-300">Star ${formatNumber(repo.stars_total)}</div></td>
-            <td class="px-2.5 py-2"><div class="text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 84, 22)}</div></td>
-            <td class="px-2.5 py-2"><button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-md border border-slate-200 px-2 py-1 text-[11px] font-semibold transition hover:border-mint-400 dark:border-white/10">Details</button></td>
-          </tr>
-        `).join("");
-        elements.mobileCards.innerHTML = repos.map((repo) => `
-          <article class="rounded-xl border border-slate-200 bg-white/90 p-3 dark:border-white/10 dark:bg-white/5">
-            <div class="flex items-start justify-between gap-3"><div><a href="${repo.html_url}" target="_blank" rel="noreferrer" class="text-sm font-semibold text-slate-950 dark:text-white">${escapeHtml(repo.full_name)}</a><p class="mt-1 line-clamp-2 text-xs leading-5 text-slate-600 dark:text-slate-300">${escapeHtml(repo.description || "No description")}</p></div><button type="button" data-detail="${escapeHtml(repo.full_name)}" class="rounded-lg border border-slate-200 px-2.5 py-1.5 text-[11px] font-semibold dark:border-white/10">Details</button></div>
-            <div class="mt-2 flex flex-wrap gap-1.5">${repoBadges(repo)}</div>
-            <div class="mt-3 grid grid-cols-2 gap-2 text-xs"><div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">Weekly</div><div class="mt-1 font-semibold">${signed(repo.weekly_stars)}</div></div><div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">Stars</div><div class="mt-1 font-semibold">${formatNumber(repo.stars_total)}</div></div><div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">Heat</div><div class="mt-1 font-semibold">${repo.heat_score}</div></div><div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">Streak</div><div class="mt-1 font-semibold">${repo.section_streak || 1}w</div></div></div>
-            <div class="mt-3 text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 180, 28)}</div>
-          </article>
-        `).join("");
+              <div class="mt-2 flex flex-wrap gap-1.5">${repoBadges(repo)}</div>
+              <div class="mt-3 grid grid-cols-2 gap-2 text-xs">
+                <div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">周增长</div><div class="mt-1 font-semibold">${signed(repo.weekly_stars)}</div></div>
+                <div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">总 Star</div><div class="mt-1 font-semibold">${formatNumber(repo.stars_total)}</div></div>
+                <div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">热度</div><div class="mt-1 font-semibold">${repo.heat_score}</div></div>
+                <div class="rounded-lg bg-slate-50 px-2.5 py-2 dark:bg-white/5"><div class="text-slate-500 dark:text-slate-400">连榜</div><div class="mt-1 font-semibold">${repo.section_streak || 1} 周</div></div>
+              </div>
+              <div class="mt-3 text-mint-500 dark:text-mint-300">${sparklineSvg(repo.sparkline, 180, 28)}</div>
+            </article>
+          `)
+          .join("");
+
         document.querySelectorAll("[data-detail]").forEach((button) => {
           button.addEventListener("click", () => {
             const target = repos.find((repo) => repo.full_name === button.dataset.detail);
             if (target) openModal(target);
           });
         });
+
         const emptyResetButton = document.getElementById("emptyResetButton");
         if (emptyResetButton) emptyResetButton.addEventListener("click", resetFilters);
       }
+
       function renderSection() {
         const section = getCurrentSection();
         if (!section) return;
         if (!section.sort_options.find((item) => item.value === state.sortBy)) state.sortBy = section.sort_options[0].value;
-        elements.sectionEyebrow.textContent = section.group === "industries" ? "Industry Matrix" : "Leaderboard";
+
+        elements.sectionEyebrow.textContent = section.group === "industries" ? "行业矩阵" : "总览榜单";
         elements.sectionTitle.textContent = section.title;
         elements.sectionDescription.textContent = section.description;
-        elements.sectionTopics.innerHTML = (section.topics || []).map((topic) => `<span class="rounded-full border border-mint-400/20 bg-mint-400/10 px-3 py-1 text-xs font-semibold text-mint-600 dark:text-mint-300">topic:${escapeHtml(topic)}</span>`).join("");
+        elements.sectionTopics.innerHTML = (section.topics || [])
+          .map((topic) => `<span class="rounded-full border border-mint-400/20 bg-mint-400/10 px-3 py-1 text-xs font-semibold text-mint-700 dark:text-mint-300">主题: ${escapeHtml(topic)}</span>`)
+          .join("");
         elements.sectionInsights.innerHTML = (section.insights || []).map((item) => `<p>• ${escapeHtml(item)}</p>`).join("");
+
         renderChangeReport(section.change_report);
         renderSelectOptions(section);
         renderRepos();
       }
+
       function answerQuestion(question) {
-        if (!question.trim()) return "Please enter a question first.";
+        if (!question.trim()) return "请先输入问题。";
+
         const normalized = question.toLowerCase();
         let section = dashboard.sections.weekly;
         let count = Number((question.match(/\d+/) || [5])[0]);
         count = Math.max(1, Math.min(count, 10));
+
         if (question.includes("新秀")) section = dashboard.sections.newcomers;
         else if (question.includes("热度")) section = dashboard.sections.heat;
         else if (question.includes("全球")) section = dashboard.sections.global;
-        else Object.values(dashboard.sections).forEach((item) => {
-          if (item.group === "industries" && (question.includes(item.label) || question.includes(item.title))) section = item;
-        });
+        else {
+          Object.values(dashboard.sections).forEach((item) => {
+            if (item.group === "industries" && (question.includes(item.label) || question.includes(item.title))) section = item;
+          });
+        }
+
         let repos = [...(section.repos || [])];
-        if (normalized.includes("持续上榜")) repos = repos.sort((a, b) => (b.section_streak || 0) - (a.section_streak || 0) || b.heat_score - a.heat_score);
-        else if (normalized.includes("异常")) repos = repos.filter((repo) => repo.anomaly).sort((a, b) => b.weekly_stars - a.weekly_stars);
-        else if (normalized.includes("新")) repos = repos.sort((a, b) => Number(b.newcomer) - Number(a.newcomer) || b.heat_score - a.heat_score);
-        else repos = repos.sort((a, b) => b.heat_score - a.heat_score || b.weekly_stars - a.weekly_stars);
+        if (normalized.includes("持续上榜") || normalized.includes("连榜")) {
+          repos = repos.sort((a, b) => (b.section_streak || 0) - (a.section_streak || 0) || b.heat_score - a.heat_score);
+        } else if (normalized.includes("异常")) {
+          repos = repos.filter((repo) => repo.anomaly).sort((a, b) => b.weekly_stars - a.weekly_stars);
+        } else if (normalized.includes("新")) {
+          repos = repos.sort((a, b) => Number(b.newcomer) - Number(a.newcomer) || b.heat_score - a.heat_score);
+        } else {
+          repos = repos.sort((a, b) => b.heat_score - a.heat_score || b.weekly_stars - a.weekly_stars);
+        }
+
         const selected = repos.slice(0, count);
-        if (!selected.length) return "No matching repositories found.";
-        return [`Top ${selected.length} picks in ${section.title}:`, ...selected.map((repo) => `- ${repo.full_name}: weekly ${signed(repo.weekly_stars)}, heat ${repo.heat_score}, ${repo.qa_reason}`)].join("\n");
+        if (!selected.length) return "没有找到符合条件的项目。";
+
+        return [
+          `${section.title}中当前最值得关注的 ${selected.length} 个项目：`,
+          ...selected.map((repo) => `- ${repo.full_name}：周增 ${signed(repo.weekly_stars)}，热度 ${repo.heat_score}，${repo.qa_reason}`),
+        ].join("\n");
       }
+
       function renderQAExamples() {
-        elements.qaExamples.innerHTML = dashboard.qa_examples.map((item) => `<button type="button" class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-semibold text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300" data-question="${escapeHtml(item)}">${escapeHtml(item)}</button>`).join("");
+        elements.qaExamples.innerHTML = dashboard.qa_examples
+          .map((item) => `<button type="button" class="rounded-full border border-slate-200 bg-slate-50 px-3 py-1 text-xs font-semibold text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300" data-question="${escapeHtml(item)}">${escapeHtml(item)}</button>`)
+          .join("");
         elements.qaExamples.querySelectorAll("[data-question]").forEach((button) => {
           button.addEventListener("click", () => {
             elements.qaInput.value = button.dataset.question;
@@ -293,9 +641,13 @@
           });
         });
       }
+
       function renderDataNotes() {
-        elements.dataNotes.innerHTML = dashboard.data_notes.map((item) => `<div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">${escapeHtml(item)}</div>`).join("");
+        elements.dataNotes.innerHTML = dashboard.data_notes
+          .map((item) => `<div class="rounded-xl border border-slate-200 bg-slate-50/80 p-4 dark:border-white/10 dark:bg-white/5">${escapeHtml(item)}</div>`)
+          .join("");
       }
+
       function resetFilters() {
         state.query = "";
         state.language = "all";
@@ -323,6 +675,7 @@
           renderTabs();
           renderSection();
         });
+
         elements.secondaryTabs.addEventListener("click", (event) => {
           const button = event.target.closest("[data-secondary]");
           if (!button) return;
@@ -332,15 +685,39 @@
           renderTabs();
           renderSection();
         });
-        elements.searchInput.addEventListener("input", (event) => { state.query = event.target.value; renderRepos(); });
-        elements.sortSelect.addEventListener("change", (event) => { state.sortBy = event.target.value; renderRepos(); });
-        elements.languageSelect.addEventListener("change", (event) => { state.language = event.target.value; renderRepos(); });
-        elements.topicSelect.addEventListener("change", (event) => { state.topic = event.target.value; renderRepos(); });
-        elements.onlyAnomaly.addEventListener("change", (event) => { state.onlyAnomaly = event.target.checked; renderRepos(); });
-        elements.onlyNewcomer.addEventListener("change", (event) => { state.onlyNewcomer = event.target.checked; renderRepos(); });
-        elements.onlyStreak.addEventListener("change", (event) => { state.onlyStreak = event.target.checked; renderRepos(); });
+
+        elements.searchInput.addEventListener("input", (event) => {
+          state.query = event.target.value;
+          renderRepos();
+        });
+        elements.sortSelect.addEventListener("change", (event) => {
+          state.sortBy = event.target.value;
+          renderRepos();
+        });
+        elements.languageSelect.addEventListener("change", (event) => {
+          state.language = event.target.value;
+          renderRepos();
+        });
+        elements.topicSelect.addEventListener("change", (event) => {
+          state.topic = event.target.value;
+          renderRepos();
+        });
+        elements.onlyAnomaly.addEventListener("change", (event) => {
+          state.onlyAnomaly = event.target.checked;
+          renderRepos();
+        });
+        elements.onlyNewcomer.addEventListener("change", (event) => {
+          state.onlyNewcomer = event.target.checked;
+          renderRepos();
+        });
+        elements.onlyStreak.addEventListener("change", (event) => {
+          state.onlyStreak = event.target.checked;
+          renderRepos();
+        });
         elements.resetFilters.addEventListener("click", resetFilters);
-        elements.qaSubmit.addEventListener("click", () => { elements.qaAnswer.textContent = answerQuestion(elements.qaInput.value); });
+        elements.qaSubmit.addEventListener("click", () => {
+          elements.qaAnswer.textContent = answerQuestion(elements.qaInput.value);
+        });
         elements.qaDrawerToggle.addEventListener("click", () => elements.qaDrawer.classList.remove("hidden"));
         elements.qaDrawerClose.addEventListener("click", () => elements.qaDrawer.classList.add("hidden"));
         elements.notesToggle.addEventListener("click", () => elements.notesDrawer.classList.remove("hidden"));
@@ -348,15 +725,18 @@
         elements.sidebarToggle.addEventListener("click", () => {
           state.sidebarCollapsed = !state.sidebarCollapsed;
           elements.sidebarContent.classList.toggle("hidden", state.sidebarCollapsed);
-          elements.sidebarToggle.textContent = state.sidebarCollapsed ? "灞曞紑" : "鎶樺彔";
+          elements.sidebarToggle.textContent = state.sidebarCollapsed ? "展开" : "折叠";
         });
         elements.modalClose.addEventListener("click", () => elements.modalOverlay.classList.add("hidden"));
-        elements.modalOverlay.addEventListener("click", (event) => { if (event.target === elements.modalOverlay) elements.modalOverlay.classList.add("hidden"); });
+        elements.modalOverlay.addEventListener("click", (event) => {
+          if (event.target === elements.modalOverlay) elements.modalOverlay.classList.add("hidden");
+        });
         elements.themeToggle.addEventListener("click", () => {
           const isDark = document.documentElement.classList.toggle("dark");
           localStorage.setItem("dashboard-theme", isDark ? "dark" : "light");
         });
       }
+
       renderSummary();
       renderTabs();
       renderSection();
@@ -364,7 +744,7 @@
       renderDataNotes();
       bindEvents();
       elements.sidebarContent.classList.toggle("hidden", state.sidebarCollapsed);
-      elements.sidebarToggle.textContent = state.sidebarCollapsed ? "灞曞紑" : "鎶樺彔";
+      elements.sidebarToggle.textContent = state.sidebarCollapsed ? "展开" : "折叠";
       elements.qaAnswer.textContent = answerQuestion(dashboard.qa_examples[0] || "");
     </script>
   </body>
