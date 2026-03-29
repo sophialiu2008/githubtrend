@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29 20:33:22 CST",
+  "generated_at": "2026-03-29 20:40:06 CST",
   "snapshot_date": "2026-03-29",
   "summary_cards": [
     {
@@ -277,7 +277,7 @@
       "weekly_stars": 0,
       "growth_4w": 0,
       "growth_12w": 0,
-      "heat_score": 44.0,
+      "heat_score": 43.7,
       "language": "Jupyter Notebook",
       "created_at": "2020-07-26T13:18:16Z",
       "updated_at": "2026-03-29T07:42:30Z",
@@ -10949,7 +10949,7 @@
       "weekly_stars": 0,
       "growth_4w": 0,
       "growth_12w": 0,
-      "heat_score": 39.9,
+      "heat_score": 39.6,
       "language": "Java",
       "created_at": "2014-06-24T21:00:46Z",
       "updated_at": "2026-03-27T12:36:04Z",
@@ -14723,7 +14723,7 @@
       "weekly_stars": 0,
       "growth_4w": 0,
       "growth_12w": 0,
-      "heat_score": 40.4,
+      "heat_score": 40.0,
       "language": "Assembly",
       "created_at": "2020-02-14T12:53:45Z",
       "updated_at": "2026-03-29T07:18:41Z",
@@ -15624,7 +15624,7 @@
       "weekly_stars": 0,
       "growth_4w": 0,
       "growth_12w": 0,
-      "heat_score": 27.2,
+      "heat_score": 26.9,
       "language": "JavaScript",
       "created_at": "2018-01-10T08:37:35Z",
       "updated_at": "2026-03-24T12:31:30Z",

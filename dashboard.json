@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 20:33:22 CST",
+  "generated_at": "2026-03-29 20:40:06 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -16369,7 +16369,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 39.9,
+          "heat_score": 39.6,
           "created_at": "2014-06-24T21:00:46Z",
           "updated_at": "2026-03-27T12:36:04Z",
           "pushed_at": "2026-03-27T20:41:55Z",
@@ -19883,7 +19883,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 44.0,
+          "heat_score": 43.7,
           "created_at": "2020-07-26T13:18:16Z",
           "updated_at": "2026-03-29T07:42:30Z",
           "pushed_at": "2026-03-24T12:37:58Z",
@@ -19959,7 +19959,7 @@
           ],
           "owner_login": "AI4Finance-Foundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/68813910?v=4",
-          "qa_reason": "最近 4 天有代码推送"
+          "qa_reason": "最近 5 天有代码推送"
         },
         {
           "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -23219,7 +23219,7 @@
             {
               "full_name": "mytechnotalent/Reverse-Engineering",
               "html_url": "https://github.com/mytechnotalent/Reverse-Engineering",
-              "heat_score": 40.4
+              "heat_score": 40.0
             }
           ],
           "owner_login": "WerWolv",
@@ -23410,7 +23410,7 @@
             {
               "full_name": "mytechnotalent/Reverse-Engineering",
               "html_url": "https://github.com/mytechnotalent/Reverse-Engineering",
-              "heat_score": 40.4
+              "heat_score": 40.0
             },
             {
               "full_name": "1N3/Sn1per",
