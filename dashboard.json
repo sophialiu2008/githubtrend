@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 18:46:09 CST",
+  "generated_at": "2026-03-29 20:33:22 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -133,7 +133,7 @@
           "open_issues_count": 458,
           "watchers_total": 6570,
           "forks_total": 45556,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://codecrafters.io",
           "matched_topics": [],
           "topics": [
@@ -191,7 +191,7 @@
           "name": "awesome",
           "html_url": "https://github.com/sindresorhus/awesome",
           "description": "😎 Awesome lists about all kinds of interesting topics",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 449743,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -760,7 +760,7 @@
           "name": "coding-interview-university",
           "html_url": "https://github.com/jwasham/coding-interview-university",
           "description": "A complete computer science study plan to become a software engineer.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 338299,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -914,7 +914,7 @@
           "name": "awesome-selfhosted",
           "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
           "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 282644,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -967,7 +967,7 @@
             {
               "full_name": "sottlmarek/DevSecOps",
               "html_url": "https://github.com/sottlmarek/DevSecOps",
-              "heat_score": 33.8
+              "heat_score": 33.7
             },
             {
               "full_name": "Lissy93/personal-security-checklist",
@@ -989,7 +989,7 @@
           "name": "996.ICU",
           "html_url": "https://github.com/996icu/996.ICU",
           "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 275803,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -1046,7 +1046,7 @@
           "name": "project-based-learning",
           "html_url": "https://github.com/practical-tutorials/project-based-learning",
           "description": "Curated list of project-based tutorials",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 261923,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -1338,7 +1338,7 @@
           "name": "the-book-of-secret-knowledge",
           "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 212107,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -1808,7 +1808,7 @@
           "name": "You-Dont-Know-JS",
           "html_url": "https://github.com/getify/You-Dont-Know-JS",
           "description": "A book series (2 published editions) on the JS language.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 184545,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -1895,7 +1895,7 @@
           "name": "CS-Notes",
           "html_url": "https://github.com/CyC2018/CS-Notes",
           "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 184053,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -1908,7 +1908,7 @@
           "open_issues_count": 195,
           "watchers_total": 5230,
           "forks_total": 51109,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "http://cyc2018.xyz",
           "matched_topics": [],
           "topics": [
@@ -2234,7 +2234,7 @@
           "open_issues_count": 693,
           "watchers_total": 6044,
           "forks_total": 55537,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [],
           "topics": [],
@@ -2448,7 +2448,7 @@
           "name": "gitignore",
           "html_url": "https://github.com/github/gitignore",
           "description": "A collection of useful .gitignore templates",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 173203,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -2651,7 +2651,7 @@
             {
               "full_name": "suyashkumar/dicom",
               "html_url": "https://github.com/suyashkumar/dicom",
-              "heat_score": 29.4
+              "heat_score": 29.2
             },
             {
               "full_name": "Lissy93/personal-security-checklist",
@@ -2853,7 +2853,7 @@
           "name": "the-art-of-command-line",
           "html_url": "https://github.com/jlevy/the-art-of-command-line",
           "description": "Master the command line, in one page",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 160472,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -2866,7 +2866,7 @@
           "open_issues_count": 256,
           "watchers_total": 2794,
           "forks_total": 14790,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [],
           "topics": [
@@ -3447,7 +3447,7 @@
           "open_issues_count": 311,
           "watchers_total": 4486,
           "forks_total": 11262,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://hellogithub.com",
           "matched_topics": [],
           "topics": [
@@ -3555,7 +3555,7 @@
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
               "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
-              "heat_score": 23.7
+              "heat_score": 23.4
             },
             {
               "full_name": "FlowiseAI/Flowise",
@@ -3969,7 +3969,7 @@
           "name": "system-prompts-and-models-of-ai-tools",
           "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 133573,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -4148,7 +4148,7 @@
           "open_issues_count": 0,
           "watchers_total": 2267,
           "forks_total": 23678,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://labuladong.online/",
           "matched_topics": [],
           "topics": [
@@ -4342,7 +4342,7 @@
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
               "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
-              "heat_score": 23.7
+              "heat_score": 23.4
             },
             {
               "full_name": "yamadashy/repomix",
@@ -4883,7 +4883,7 @@
             {
               "full_name": "sottlmarek/DevSecOps",
               "html_url": "https://github.com/sottlmarek/DevSecOps",
-              "heat_score": 33.8
+              "heat_score": 33.7
             },
             {
               "full_name": "ollama/ollama",
@@ -4995,7 +4995,7 @@
           "open_issues_count": 13,
           "watchers_total": 1731,
           "forks_total": 12503,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://free-for.dev/",
           "matched_topics": [],
           "topics": [
@@ -5118,7 +5118,7 @@
           "name": "free-programming-books-zh_CN",
           "html_url": "https://github.com/justjavac/free-programming-books-zh_CN",
           "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 116520,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -5823,7 +5823,7 @@
           "name": "Awesome-Hacking",
           "html_url": "https://github.com/Hack-with-Github/Awesome-Hacking",
           "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 109263,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -6523,7 +6523,7 @@
             {
               "full_name": "ethereum/go-ethereum",
               "html_url": "https://github.com/ethereum/go-ethereum",
-              "heat_score": 49.0
+              "heat_score": 48.5
             },
             {
               "full_name": "ollama/ollama",
@@ -6558,7 +6558,7 @@
           "open_issues_count": 604,
           "watchers_total": 730,
           "forks_total": 11642,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [],
           "topics": [
@@ -6787,7 +6787,7 @@
           "open_issues_count": 2,
           "watchers_total": 3153,
           "forks_total": 6313,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "http://paperswelove.org/",
           "matched_topics": [],
           "topics": [
@@ -6897,7 +6897,7 @@
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
               "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
-              "heat_score": 23.7
+              "heat_score": 23.4
             },
             {
               "full_name": "Significant-Gravitas/AutoGPT",
@@ -7059,7 +7059,7 @@
           "full_name": "deepseek-ai/DeepSeek-V3",
           "name": "DeepSeek-V3",
           "html_url": "https://github.com/deepseek-ai/DeepSeek-V3",
-          "description": "No description provided.",
+          "description": "暂无描述",
           "language": "Python",
           "stars_total": 102405,
           "weekly_stars": 0,
@@ -8975,7 +8975,7 @@
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
               "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
-              "heat_score": 23.7
+              "heat_score": 23.4
             },
             {
               "full_name": "FlowiseAI/Flowise",
@@ -9275,7 +9275,7 @@
           "name": "system-prompts-and-models-of-ai-tools",
           "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 133573,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -9646,7 +9646,7 @@
             {
               "full_name": "souvikmajumder26/Multi-Agent-Medical-Assistant",
               "html_url": "https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant",
-              "heat_score": 23.7
+              "heat_score": 23.4
             },
             {
               "full_name": "yamadashy/repomix",
@@ -10000,26 +10000,7 @@
       "change_report": {
         "new_entries": [],
         "dropped_entries": [],
-        "rank_movers": [
-          {
-            "full_name": "huggingface/transformers",
-            "current_rank": 15,
-            "previous_rank": 13,
-            "delta": -2
-          },
-          {
-            "full_name": "langflow-ai/langflow",
-            "current_rank": 13,
-            "previous_rank": 14,
-            "delta": 1
-          },
-          {
-            "full_name": "vercel/next.js",
-            "current_rank": 14,
-            "previous_rank": 15,
-            "delta": 1
-          }
-        ]
+        "rank_movers": []
       }
     },
     "newcomers": {
@@ -10353,7 +10334,7 @@
           "name": "You-Dont-Know-JS",
           "html_url": "https://github.com/getify/You-Dont-Know-JS",
           "description": "A book series (2 published editions) on the JS language.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 184545,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -10940,7 +10921,7 @@
           "name": "Mr.-Ranedeer-AI-Tutor",
           "html_url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
           "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 29667,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -10953,7 +10934,7 @@
           "open_issues_count": 16,
           "watchers_total": 351,
           "forks_total": 3333,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://Mr-Ranedeer.com",
           "matched_topics": [
             "education"
@@ -11204,7 +11185,7 @@
           "open_issues_count": 53,
           "watchers_total": 733,
           "forks_total": 2729,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "ftp://you:relookin@it#readme",
           "matched_topics": [
             "education"
@@ -11250,7 +11231,7 @@
             {
               "full_name": "ocadotechnology/rapid-router",
               "html_url": "https://github.com/ocadotechnology/rapid-router",
-              "heat_score": 27.3
+              "heat_score": 26.7
             },
             {
               "full_name": "microsoft/ML-For-Beginners",
@@ -11446,7 +11427,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 31.2,
+          "heat_score": 30.9,
           "created_at": "2017-11-27T18:57:00Z",
           "updated_at": "2026-03-28T10:58:24Z",
           "pushed_at": "2025-02-22T06:59:37Z",
@@ -11620,7 +11601,7 @@
           "name": "js-must-watch",
           "html_url": "https://github.com/bolshchikov/js-must-watch",
           "description": "Must-watch videos about javascript",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 13573,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -11693,7 +11674,7 @@
           "name": "Resources-for-Beginner-Bug-Bounty-Hunters",
           "html_url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
           "description": "A list of resources for those interested in getting started in bug bounties",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 11918,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -11706,7 +11687,7 @@
           "open_issues_count": 47,
           "watchers_total": 573,
           "forks_total": 2043,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "education"
@@ -11754,7 +11735,7 @@
             {
               "full_name": "Hacker0x01/hacker101",
               "html_url": "https://github.com/Hacker0x01/hacker101",
-              "heat_score": 31.2
+              "heat_score": 30.9
             },
             {
               "full_name": "antonio-morales/Fuzzing101",
@@ -11934,7 +11915,7 @@
           "name": "books",
           "html_url": "https://github.com/linsa-io/books",
           "description": "Awesome Books",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 7271,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -11947,7 +11928,7 @@
           "open_issues_count": 15,
           "watchers_total": 167,
           "forks_total": 806,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "education"
@@ -12015,7 +11996,7 @@
           "name": "ES6-for-humans",
           "html_url": "https://github.com/metagrover/ES6-for-humans",
           "description": "A kickstarter guide to writing ES6",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 7008,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -12028,7 +12009,7 @@
           "open_issues_count": 1,
           "watchers_total": 155,
           "forks_total": 626,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "education"
@@ -12164,7 +12145,7 @@
             {
               "full_name": "mortbopet/Ripes",
               "html_url": "https://github.com/mortbopet/Ripes",
-              "heat_score": 33.5
+              "heat_score": 33.2
             },
             {
               "full_name": "krahets/hello-algo",
@@ -12265,7 +12246,7 @@
             {
               "full_name": "ocadotechnology/rapid-router",
               "html_url": "https://github.com/ocadotechnology/rapid-router",
-              "heat_score": 27.3
+              "heat_score": 26.7
             },
             {
               "full_name": "microsoft/Web-Dev-For-Beginners",
@@ -12331,7 +12312,7 @@
             {
               "full_name": "Hacker0x01/hacker101",
               "html_url": "https://github.com/Hacker0x01/hacker101",
-              "heat_score": 31.2
+              "heat_score": 30.9
             },
             {
               "full_name": "antonio-morales/Fuzzing101",
@@ -12353,7 +12334,7 @@
           "name": "udacity-nanodegrees",
           "html_url": "https://github.com/mikesprague/udacity-nanodegrees",
           "description": ":mortar_board: List of Udacity Nanodegree programs with links to the free courses in their curricula",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 6257,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -12428,7 +12409,7 @@
           "name": "Student-resources",
           "html_url": "https://github.com/ivmm/Student-resources",
           "description": "本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 6132,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -12549,7 +12530,7 @@
             {
               "full_name": "mortbopet/Ripes",
               "html_url": "https://github.com/mortbopet/Ripes",
-              "heat_score": 33.5
+              "heat_score": 33.2
             },
             {
               "full_name": "krahets/hello-algo",
@@ -12829,7 +12810,7 @@
           "name": "moreThanFAANGM",
           "html_url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
           "description": "This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 5078,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -12938,7 +12919,7 @@
           "open_issues_count": 187,
           "watchers_total": 76,
           "forks_total": 486,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://algorithmica.org/",
           "matched_topics": [
             "education"
@@ -13075,7 +13056,7 @@
             {
               "full_name": "rwaldron/johnny-five",
               "html_url": "https://github.com/rwaldron/johnny-five",
-              "heat_score": 32.9
+              "heat_score": 32.6
             },
             {
               "full_name": "hybridgroup/cylon",
@@ -13175,7 +13156,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 29.4,
+          "heat_score": 29.1,
           "created_at": "2015-11-17T11:07:26Z",
           "updated_at": "2026-03-27T11:21:51Z",
           "pushed_at": "2022-09-20T03:32:54Z",
@@ -13248,7 +13229,7 @@
           "name": "awesome-computer-science-opportunities",
           "html_url": "https://github.com/anu0012/awesome-computer-science-opportunities",
           "description": "An awesome list of events and fellowship opportunities for Computer Science students",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 4081,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -13328,7 +13309,7 @@
           ],
           "owner_login": "anu0012",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/17943805?v=4",
-          "qa_reason": "最近 656 天有代码推送"
+          "qa_reason": "最近 657 天有代码推送"
         },
         {
           "full_name": "EbTech/rust-algorithms",
@@ -13470,7 +13451,7 @@
             {
               "full_name": "ocadotechnology/codeforlife-portal",
               "html_url": "https://github.com/ocadotechnology/codeforlife-portal",
-              "heat_score": 25.8
+              "heat_score": 25.6
             },
             {
               "full_name": "frappe/lms",
@@ -13571,7 +13552,7 @@
             {
               "full_name": "codelitdev/courselit",
               "html_url": "https://github.com/codelitdev/courselit",
-              "heat_score": 38.5
+              "heat_score": 38.0
             },
             {
               "full_name": "classroomio/classroomio",
@@ -13655,7 +13636,7 @@
           "name": "Fuzzing101",
           "html_url": "https://github.com/antonio-morales/Fuzzing101",
           "description": "An step by step fuzzing tutorial. A GitHub Security Lab initiative",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 3749,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -13725,7 +13706,7 @@
             {
               "full_name": "Hacker0x01/hacker101",
               "html_url": "https://github.com/Hacker0x01/hacker101",
-              "heat_score": 31.2
+              "heat_score": 30.9
             },
             {
               "full_name": "Hack-with-Github/Awesome-Hacking",
@@ -13827,7 +13808,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 41.7,
+          "heat_score": 41.2,
           "created_at": "2013-07-17T22:19:43Z",
           "updated_at": "2026-03-29T08:03:30Z",
           "pushed_at": "2026-03-28T10:49:22Z",
@@ -13899,14 +13880,14 @@
           ],
           "owner_login": "rathena",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/1776606?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "dawdle-deer/awesome-learn-gamedev",
           "name": "awesome-learn-gamedev",
           "html_url": "https://github.com/dawdle-deer/awesome-learn-gamedev",
           "description": "A curated collection of game development learning resources",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 3348,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -14054,7 +14035,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 33.5,
+          "heat_score": 33.2,
           "created_at": "2017-10-27T06:06:08Z",
           "updated_at": "2026-03-28T11:56:25Z",
           "pushed_at": "2026-02-18T09:53:08Z",
@@ -14113,7 +14094,7 @@
             {
               "full_name": "rathena/rathena",
               "html_url": "https://github.com/rathena/rathena",
-              "heat_score": 41.7
+              "heat_score": 41.2
             }
           ],
           "owner_login": "mortbopet",
@@ -14251,7 +14232,7 @@
           "name": "cs-video-courses",
           "html_url": "https://github.com/Developer-Y/cs-video-courses",
           "description": "List of Computer Science courses with video lectures.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 77547,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -14264,7 +14245,7 @@
           "open_issues_count": 3,
           "watchers_total": 1952,
           "forks_total": 10521,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "bioinformatics",
@@ -14527,7 +14508,7 @@
             {
               "full_name": "scverse/scanpy",
               "html_url": "https://github.com/scverse/scanpy",
-              "heat_score": 40.3
+              "heat_score": 40.0
             }
           ],
           "owner_login": "plotly",
@@ -14612,7 +14593,7 @@
             {
               "full_name": "a-r-j/graphein",
               "html_url": "https://github.com/a-r-j/graphein",
-              "heat_score": 32.1
+              "heat_score": 31.7
             },
             {
               "full_name": "galaxyproject/galaxy",
@@ -14647,7 +14628,7 @@
           "open_issues_count": 5,
           "watchers_total": 601,
           "forks_total": 2971,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://deep-learning-drizzle.github.io",
           "matched_topics": [
             "medical-imaging"
@@ -14735,7 +14716,7 @@
           "name": "awesome-multimodal-ml",
           "html_url": "https://github.com/pliang279/awesome-multimodal-ml",
           "description": "Reading list for research topics in multimodal machine learning",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 6844,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -14825,7 +14806,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 42.8,
+          "heat_score": 42.3,
           "created_at": "2010-05-21T19:54:08Z",
           "updated_at": "2026-03-29T03:44:52Z",
           "pushed_at": "2026-03-28T12:16:11Z",
@@ -14913,7 +14894,7 @@
           ],
           "owner_login": "openemr",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/283089?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "biopython/biopython",
@@ -14977,7 +14958,7 @@
             {
               "full_name": "a-r-j/graphein",
               "html_url": "https://github.com/a-r-j/graphein",
-              "heat_score": 32.1
+              "heat_score": 31.7
             },
             {
               "full_name": "galaxyproject/galaxy",
@@ -15092,7 +15073,7 @@
           "name": "Awesome-Bioinformatics",
           "html_url": "https://github.com/danielecook/Awesome-Bioinformatics",
           "description": "A curated list of awesome Bioinformatics libraries and software.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 3920,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -15105,7 +15086,7 @@
           "open_issues_count": 18,
           "watchers_total": 173,
           "forks_total": 692,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "bioinformatics"
@@ -15224,7 +15205,7 @@
           "name": "awesome-single-cell",
           "html_url": "https://github.com/seandavi/awesome-single-cell",
           "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 3690,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -15408,7 +15389,7 @@
           "name": "dataset",
           "html_url": "https://github.com/linhandev/dataset",
           "description": "医学影像数据集列表 『An Index for Medical Imaging Datasets』",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 3515,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -15421,7 +15402,7 @@
           "open_issues_count": 46,
           "watchers_total": 23,
           "forks_total": 427,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://linhandev.github.io/dataset/",
           "matched_topics": [
             "medical-imaging"
@@ -15477,7 +15458,7 @@
             {
               "full_name": "FreedomIntelligence/Awesome-AI4Med",
               "html_url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
-              "heat_score": 34.4
+              "heat_score": 34.1
             }
           ],
           "owner_login": "linhandev",
@@ -15586,7 +15567,7 @@
           "name": "DeepLearing-Interview-Awesome-2024",
           "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
           "description": "AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 2802,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -15599,7 +15580,7 @@
           "open_issues_count": 2,
           "watchers_total": 27,
           "forks_total": 247,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "medical-imaging"
@@ -15716,7 +15697,7 @@
             {
               "full_name": "a-r-j/graphein",
               "html_url": "https://github.com/a-r-j/graphein",
-              "heat_score": 32.1
+              "heat_score": 31.7
             },
             {
               "full_name": "biopython/biopython",
@@ -15726,7 +15707,7 @@
             {
               "full_name": "steineggerlab/foldseek",
               "html_url": "https://github.com/steineggerlab/foldseek",
-              "heat_score": 33.9
+              "heat_score": 33.6
             }
           ],
           "owner_login": "sokrypton",
@@ -15794,7 +15775,7 @@
             {
               "full_name": "openemr/openemr",
               "html_url": "https://github.com/openemr/openemr",
-              "heat_score": 42.8
+              "heat_score": 42.3
             },
             {
               "full_name": "medplum/medplum",
@@ -15878,20 +15859,20 @@
           "name": "Awesome-AI4Med",
           "html_url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
           "description": "[Medical_NLP ➟ Awesome-AI4Med] medical-related LLMs, Multimodal systems, Datasets, Benchmarks, and more.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 2601,
           "weekly_stars": 0,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 34.4,
+          "heat_score": 34.1,
           "created_at": "2019-11-14T07:50:52Z",
           "updated_at": "2026-03-28T22:01:50Z",
           "pushed_at": "2026-03-24T12:05:59Z",
           "open_issues_count": 0,
           "watchers_total": 54,
           "forks_total": 450,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "medical-imaging"
@@ -15948,14 +15929,14 @@
           ],
           "owner_login": "FreedomIntelligence",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/127706844?v=4",
-          "qa_reason": "最近 4 天有代码推送"
+          "qa_reason": "最近 5 天有代码推送"
         },
         {
           "full_name": "sfikas/medical-imaging-datasets",
           "name": "medical-imaging-datasets",
           "html_url": "https://github.com/sfikas/medical-imaging-datasets",
           "description": "A list of Medical imaging datasets.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 2529,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -15968,7 +15949,7 @@
           "open_issues_count": 2,
           "watchers_total": 65,
           "forks_total": 441,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "medical-imaging"
@@ -15998,7 +15979,7 @@
             {
               "full_name": "FreedomIntelligence/Awesome-AI4Med",
               "html_url": "https://github.com/FreedomIntelligence/Awesome-AI4Med",
-              "heat_score": 34.4
+              "heat_score": 34.1
             },
             {
               "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
@@ -16026,7 +16007,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 40.3,
+          "heat_score": 40.0,
           "created_at": "2017-01-29T11:31:11Z",
           "updated_at": "2026-03-28T12:29:47Z",
           "pushed_at": "2026-03-27T16:49:23Z",
@@ -16200,7 +16181,7 @@
           "name": "awesome-gan-for-medical-imaging",
           "html_url": "https://github.com/xinario/awesome-gan-for-medical-imaging",
           "description": "Awesome GAN for Medical Imaging",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 2361,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -16213,7 +16194,7 @@
           "open_issues_count": 2,
           "watchers_total": 130,
           "forks_total": 450,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "medical-imaging"
@@ -16525,12 +16506,12 @@
             {
               "full_name": "metriport/metriport",
               "html_url": "https://github.com/metriport/metriport",
-              "heat_score": 29.0
+              "heat_score": 28.7
             },
             {
               "full_name": "openemr/openemr",
               "html_url": "https://github.com/openemr/openemr",
-              "heat_score": 42.8
+              "heat_score": 42.3
             }
           ],
           "owner_login": "medplum",
@@ -16599,7 +16580,7 @@
             {
               "full_name": "bwa-mem2/bwa-mem2",
               "html_url": "https://github.com/bwa-mem2/bwa-mem2",
-              "heat_score": 27.1
+              "heat_score": 26.9
             }
           ],
           "owner_login": "lh3",
@@ -16665,7 +16646,7 @@
             {
               "full_name": "cornerstonejs/cornerstone3D",
               "html_url": "https://github.com/cornerstonejs/cornerstone3D",
-              "heat_score": 37.5
+              "heat_score": 37.1
             },
             {
               "full_name": "ivmartel/dwv",
@@ -16682,7 +16663,7 @@
           "name": "Awesome-Diffusion-Models-in-Medical-Imaging",
           "html_url": "https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
           "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 2057,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -16844,7 +16825,7 @@
             {
               "full_name": "steineggerlab/foldseek",
               "html_url": "https://github.com/steineggerlab/foldseek",
-              "heat_score": 33.9
+              "heat_score": 33.6
             }
           ],
           "owner_login": "soedinglab",
@@ -16862,7 +16843,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 27.8,
+          "heat_score": 27.6,
           "created_at": "2018-09-24T21:45:52Z",
           "updated_at": "2026-03-26T12:30:45Z",
           "pushed_at": "2025-12-04T07:49:16Z",
@@ -17096,7 +17077,7 @@
           ],
           "owner_login": "black0017",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/13345132?v=4",
-          "qa_reason": "最近 611 天有代码推送"
+          "qa_reason": "最近 612 天有代码推送"
         },
         {
           "full_name": "nitrain/nitrain",
@@ -17304,7 +17285,7 @@
             {
               "full_name": "openemr/openemr",
               "html_url": "https://github.com/openemr/openemr",
-              "heat_score": 42.8
+              "heat_score": 42.3
             },
             {
               "full_name": "earthians/marley",
@@ -17535,7 +17516,7 @@
             {
               "full_name": "bwa-mem2/bwa-mem2",
               "html_url": "https://github.com/bwa-mem2/bwa-mem2",
-              "heat_score": 27.1
+              "heat_score": 26.9
             }
           ],
           "owner_login": "lh3",
@@ -18100,7 +18081,7 @@
           "name": "awesome-ai-for-science",
           "html_url": "https://github.com/ai-boost/awesome-ai-for-science",
           "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 1402,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -18275,7 +18256,7 @@
           "open_issues_count": 2,
           "watchers_total": 87,
           "forks_total": 365,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "bioinformatics"
@@ -18312,7 +18293,7 @@
             {
               "full_name": "scverse/scanpy",
               "html_url": "https://github.com/scverse/scanpy",
-              "heat_score": 40.3
+              "heat_score": 40.0
             },
             {
               "full_name": "bioconda/bioconda-recipes",
@@ -18327,7 +18308,7 @@
       ],
       "insights": [
         "本周增长主要由 bioinformatics / healthcare 驱动，说明该行业的热门仓库更集中在这些子赛道。",
-        "榜单头部主要语言是 Unknown / Python，技术栈集中度比较明显。",
+        "榜单头部主要语言是 未知 / Python，技术栈集中度比较明显。",
         "当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。"
       ],
       "change_report": {
@@ -18545,7 +18526,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 49.0,
+          "heat_score": 48.5,
           "created_at": "2013-12-26T13:05:46Z",
           "updated_at": "2026-03-29T08:41:04Z",
           "pushed_at": "2026-03-28T10:46:10Z",
@@ -18603,7 +18584,7 @@
           ],
           "owner_login": "ethereum",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6250754?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "microsoft/qlib",
@@ -19313,7 +19294,7 @@
           "name": "ethereumbook",
           "html_url": "https://github.com/ethereumbook/ethereumbook",
           "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 21497,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -19326,7 +19307,7 @@
           "open_issues_count": 1,
           "watchers_total": 572,
           "forks_total": 5209,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://masteringethereum.xyz/",
           "matched_topics": [
             "blockchain"
@@ -19593,7 +19574,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 39.4,
+          "heat_score": 39.2,
           "created_at": "2022-11-23T01:37:43Z",
           "updated_at": "2026-03-29T08:06:13Z",
           "pushed_at": "2026-03-11T12:16:42Z",
@@ -19676,7 +19657,7 @@
           ],
           "owner_login": "UFund-Me",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/75005393?v=4",
-          "qa_reason": "最近 17 天有代码推送"
+          "qa_reason": "最近 18 天有代码推送"
         },
         {
           "full_name": "diem/diem",
@@ -19985,7 +19966,7 @@
           "name": "full-blockchain-solidity-course-js",
           "html_url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
           "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 13989,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -19998,7 +19979,7 @@
           "open_issues_count": 104,
           "watchers_total": 259,
           "forks_total": 3284,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "blockchain"
@@ -20181,7 +20162,7 @@
           "name": "full-blockchain-solidity-course-py",
           "html_url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
           "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 11224,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -20685,7 +20666,7 @@
             {
               "full_name": "getlago/lago",
               "html_url": "https://github.com/getlago/lago",
-              "heat_score": 40.0
+              "heat_score": 39.6
             }
           ],
           "owner_login": "akaunting",
@@ -20703,7 +20684,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 40.0,
+          "heat_score": 39.6,
           "created_at": "2022-02-28T09:22:45Z",
           "updated_at": "2026-03-29T07:41:53Z",
           "pushed_at": "2026-03-27T10:50:24Z",
@@ -20782,12 +20763,12 @@
             {
               "full_name": "dj-stripe/dj-stripe",
               "html_url": "https://github.com/dj-stripe/dj-stripe",
-              "heat_score": 33.5
+              "heat_score": 33.2
             }
           ],
           "owner_login": "getlago",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/75492405?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "ethers-io/ethers.js",
@@ -21583,7 +21564,7 @@
           "open_issues_count": 37,
           "watchers_total": 315,
           "forks_total": 1476,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://consensysdiligence.github.io/smart-contract-best-practices/",
           "matched_topics": [
             "blockchain"
@@ -21643,7 +21624,7 @@
           "name": "blockchain",
           "html_url": "https://github.com/LiuBoyu/blockchain",
           "description": "区块链 - 中文资源",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 7381,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -21802,7 +21783,7 @@
           "open_issues_count": 0,
           "watchers_total": 404,
           "forks_total": 1959,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "https://yeasy.gitbook.io/blockchain_guide/",
           "matched_topics": [
             "blockchain",
@@ -21857,7 +21838,7 @@
             {
               "full_name": "UFund-Me/Qbot",
               "html_url": "https://github.com/UFund-Me/Qbot",
-              "heat_score": 39.4
+              "heat_score": 39.2
             }
           ],
           "owner_login": "yeasy",
@@ -21927,12 +21908,12 @@
             {
               "full_name": "quickfixgo/quickfix",
               "html_url": "https://github.com/quickfixgo/quickfix",
-              "heat_score": 29.1
+              "heat_score": 29.0
             },
             {
               "full_name": "ethereum/go-ethereum",
               "html_url": "https://github.com/ethereum/go-ethereum",
-              "heat_score": 49.0
+              "heat_score": 48.5
             }
           ],
           "owner_login": "cosmos",
@@ -22812,7 +22793,7 @@
           "name": "cs-video-courses",
           "html_url": "https://github.com/Developer-Y/cs-video-courses",
           "description": "List of Computer Science courses with video lectures.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 77547,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -22825,7 +22806,7 @@
           "open_issues_count": 3,
           "watchers_total": 1952,
           "forks_total": 10521,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "bioinformatics",
@@ -23777,7 +23758,7 @@
             {
               "full_name": "recommenders-team/recommenders",
               "html_url": "https://github.com/recommenders-team/recommenders",
-              "heat_score": 45.8
+              "heat_score": 45.4
             },
             {
               "full_name": "bunkerity/bunkerweb",
@@ -23970,7 +23951,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 47.4,
+          "heat_score": 47.0,
           "created_at": "2024-04-09T10:51:32Z",
           "updated_at": "2026-03-29T04:48:56Z",
           "pushed_at": "2026-03-27T12:24:05Z",
@@ -24046,7 +24027,7 @@
           ],
           "owner_login": "ItzCrazyKns",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/95534749?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "explosion/spaCy",
@@ -24131,7 +24112,7 @@
             {
               "full_name": "recommenders-team/recommenders",
               "html_url": "https://github.com/recommenders-team/recommenders",
-              "heat_score": 45.8
+              "heat_score": 45.4
             },
             {
               "full_name": "huggingface/datasets",
@@ -24148,7 +24129,7 @@
           "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
           "html_url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
           "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 32537,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -24161,7 +24142,7 @@
           "open_issues_count": 61,
           "watchers_total": 674,
           "forks_total": 6990,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "artificial-intelligence"
@@ -24223,12 +24204,12 @@
             {
               "full_name": "recommenders-team/recommenders",
               "html_url": "https://github.com/recommenders-team/recommenders",
-              "heat_score": 45.8
+              "heat_score": 45.4
             }
           ],
           "owner_login": "ashishpatel26",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/3095771?v=4",
-          "qa_reason": "最近 239 天有代码推送"
+          "qa_reason": "最近 240 天有代码推送"
         },
         {
           "full_name": "Lightning-AI/pytorch-lightning",
@@ -24293,7 +24274,7 @@
             {
               "full_name": "recommenders-team/recommenders",
               "html_url": "https://github.com/recommenders-team/recommenders",
-              "heat_score": 45.8
+              "heat_score": 45.4
             },
             {
               "full_name": "rasbt/LLMs-from-scratch",
@@ -24585,7 +24566,7 @@
           "name": "machine-learning-for-software-engineers",
           "html_url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
           "description": "A complete daily plan for studying to become a machine learning engineer.",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 28732,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -24639,7 +24620,7 @@
             {
               "full_name": "dair-ai/ml-visuals",
               "html_url": "https://github.com/dair-ai/ml-visuals",
-              "heat_score": 33.1
+              "heat_score": 32.8
             },
             {
               "full_name": "kailashahirwar/cheatsheets-ai",
@@ -24824,7 +24805,7 @@
           "name": "awesome-ai-agents",
           "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
           "description": "A list of AI autonomous agents",
-          "language": "Unknown",
+          "language": "未知",
           "stars_total": 26944,
           "weekly_stars": 0,
           "growth_4w": 0,
@@ -25083,12 +25064,12 @@
             {
               "full_name": "AzeemIdrisi/PhoneSploit-Pro",
               "html_url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
-              "heat_score": 36.1
+              "heat_score": 35.8
             },
             {
               "full_name": "infobyte/faraday",
               "html_url": "https://github.com/infobyte/faraday",
-              "heat_score": 31.5
+              "heat_score": 31.3
             }
           ],
           "owner_login": "The-Art-of-Hacking",
@@ -25755,7 +25736,7 @@
             {
               "full_name": "aliasrobotics/cai",
               "html_url": "https://github.com/aliasrobotics/cai",
-              "heat_score": 38.7
+              "heat_score": 38.3
             },
             {
               "full_name": "Significant-Gravitas/AutoGPT",
@@ -25783,7 +25764,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 45.8,
+          "heat_score": 45.4,
           "created_at": "2018-09-19T10:06:07Z",
           "updated_at": "2026-03-29T01:37:10Z",
           "pushed_at": "2026-03-26T12:21:29Z",
@@ -25865,7 +25846,7 @@
           ],
           "owner_login": "recommenders-team",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/142452264?v=4",
-          "qa_reason": "最近 2 天有代码推送"
+          "qa_reason": "最近 3 天有代码推送"
         },
         {
           "full_name": "nautechsystems/nautilus_trader",
@@ -26125,7 +26106,7 @@
             {
               "full_name": "AzeemIdrisi/PhoneSploit-Pro",
               "html_url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
-              "heat_score": 36.1
+              "heat_score": 35.8
             },
             {
               "full_name": "sherlock-project/sherlock",
@@ -26222,7 +26203,7 @@
             {
               "full_name": "decalage2/awesome-security-hardening",
               "html_url": "https://github.com/decalage2/awesome-security-hardening",
-              "heat_score": 39.9
+              "heat_score": 39.7
             }
           ],
           "owner_login": "Lissy93",
@@ -26318,12 +26299,12 @@
             {
               "full_name": "infobyte/faraday",
               "html_url": "https://github.com/infobyte/faraday",
-              "heat_score": 31.5
+              "heat_score": 31.3
             },
             {
               "full_name": "Hacker0x01/hacker101",
               "html_url": "https://github.com/Hacker0x01/hacker101",
-              "heat_score": 31.2
+              "heat_score": 30.9
             }
           ],
           "owner_login": "chaitin",
@@ -26596,7 +26577,7 @@
             {
               "full_name": "recommenders-team/recommenders",
               "html_url": "https://github.com/recommenders-team/recommenders",
-              "heat_score": 45.8
+              "heat_score": 45.4
             }
           ],
           "owner_login": "marimo-team",
@@ -26722,7 +26703,7 @@
           "open_issues_count": 103,
           "watchers_total": 135,
           "forks_total": 2250,
-          "license_name": "N/A",
+          "license_name": "未标注",
           "homepage": "",
           "matched_topics": [
             "artificial-intelligence"
@@ -26895,32 +26876,7 @@
     "本周没有检测到有效的周增长数据。",
     "本周共有 0 个近 90 天新项目进入新秀候选池，其中 0 个热度表现突出。"
   ],
-  "weekly_changes": {
-    "heat": {
-      "new_entries": [],
-      "dropped_entries": [],
-      "rank_movers": [
-        {
-          "full_name": "huggingface/transformers",
-          "current_rank": 15,
-          "previous_rank": 13,
-          "delta": -2
-        },
-        {
-          "full_name": "langflow-ai/langflow",
-          "current_rank": 13,
-          "previous_rank": 14,
-          "delta": 1
-        },
-        {
-          "full_name": "vercel/next.js",
-          "current_rank": 14,
-          "previous_rank": 15,
-          "delta": 1
-        }
-      ]
-    }
-  },
+  "weekly_changes": {},
   "qa_examples": [
     "本周 AI 赛道最值得关注的 5 个项目是什么？",
     "教育行业里哪些仓库在持续上榜？",
