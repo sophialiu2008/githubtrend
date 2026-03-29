@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 16:45:17 CST",
+  "generated_at": "2026-03-29 16:50:32 CST",
   "snapshot_date": "2026-03-29",
   "has_history": false,
   "tracked_repo_count": 679,
@@ -16,7 +16,7 @@
     {
       "label": "增长最快项目",
       "value": "codecrafters-io/build-your-own-x",
-      "description": "周增 484183 Star",
+      "description": "周增 484188 Star",
       "tone": "coral"
     },
     {
@@ -91,18 +91,18 @@
           "html_url": "https://github.com/codecrafters-io/build-your-own-x",
           "description": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 484183,
-          "weekly_stars": 484183,
+          "stars_total": 484188,
+          "weekly_stars": 484188,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 93.8,
           "created_at": "2018-05-09T12:03:18Z",
-          "updated_at": "2026-03-29T08:37:23Z",
+          "updated_at": "2026-03-29T08:44:14Z",
           "pushed_at": "2026-02-21T09:34:54Z",
           "open_issues_count": 458,
           "watchers_total": 6570,
-          "forks_total": 45556,
+          "forks_total": 45557,
           "license_name": "N/A",
           "homepage": "https://codecrafters.io",
           "matched_topics": [],
@@ -124,12 +124,12 @@
           ],
           "readme_excerpt": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner) This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * [3D Renderer](#build-your-own-3d-renderer) * [AI Model](#ai-model) * [Augmented Reality](#bui",
           "sparkline": [
-            484183
+            484188
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 484183
+              "stars_total": 484188
             }
           ],
           "newcomer": false,
@@ -154,7 +154,7 @@
           ],
           "owner_login": "codecrafters-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/58904235?v=4",
-          "qa_reason": "周增 484183 Star、存在异常增长、最近 35 天有代码推送"
+          "qa_reason": "周增 484188 Star、存在异常增长、最近 35 天有代码推送"
         },
         {
           "full_name": "sindresorhus/awesome",
@@ -162,14 +162,14 @@
           "html_url": "https://github.com/sindresorhus/awesome",
           "description": "😎 Awesome lists about all kinds of interesting topics",
           "language": "Unknown",
-          "stars_total": 449743,
-          "weekly_stars": 449743,
+          "stars_total": 449745,
+          "weekly_stars": 449745,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 91.5,
           "created_at": "2014-07-11T13:42:37Z",
-          "updated_at": "2026-03-29T08:37:28Z",
+          "updated_at": "2026-03-29T08:43:12Z",
           "pushed_at": "2026-03-09T07:59:57Z",
           "open_issues_count": 88,
           "watchers_total": 8074,
@@ -193,12 +193,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <img width=\"500\" height=\"350\" src=\"media/logo.svg\" alt=\"Awesome\"> <br> <br> <br> <br> <div> <sub>Check out my macOS app</sub> <br> <h2> <a href=\"https://sindresorhus.com/supercharge\">Supercharge</a> <br> <sup>Elevate your Mac experience</sup> </h2> </div> <br> <br> <br> <br> <hr> <p> <sup> <a href=\"https://github.com/sponsors/sindresorhus\">My open source work is supported by the community</a> </s",
           "sparkline": [
-            449743
+            449745
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 449743
+              "stars_total": 449745
             }
           ],
           "newcomer": false,
@@ -223,7 +223,7 @@
           ],
           "owner_login": "sindresorhus",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
-          "qa_reason": "周增 449743 Star、存在异常增长、最近 20 天有代码推送"
+          "qa_reason": "周增 449745 Star、存在异常增长、最近 20 天有代码推送"
         },
         {
           "full_name": "freeCodeCamp/freeCodeCamp",
@@ -231,14 +231,14 @@
           "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 438969,
-          "weekly_stars": 438969,
+          "stars_total": 438971,
+          "weekly_stars": 438971,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 96.9,
           "created_at": "2014-12-24T17:49:19Z",
-          "updated_at": "2026-03-29T08:36:32Z",
+          "updated_at": "2026-03-29T08:41:34Z",
           "pushed_at": "2026-03-28T15:32:18Z",
           "open_issues_count": 229,
           "watchers_total": 8531,
@@ -284,12 +284,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438969
+            438971
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438969
+              "stars_total": 438971
             }
           ],
           "newcomer": false,
@@ -314,7 +314,7 @@
           ],
           "owner_login": "freeCodeCamp",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
-          "qa_reason": "周增 438969 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 438971 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "public-apis/public-apis",
@@ -322,18 +322,18 @@
           "html_url": "https://github.com/public-apis/public-apis",
           "description": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 417142,
-          "weekly_stars": 417142,
+          "stars_total": 417141,
+          "weekly_stars": 417141,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 92.2,
           "created_at": "2016-03-20T23:49:42Z",
-          "updated_at": "2026-03-29T08:36:39Z",
+          "updated_at": "2026-03-29T08:44:36Z",
           "pushed_at": "2026-03-18T16:28:22Z",
           "open_issues_count": 1118,
           "watchers_total": 4576,
-          "forks_total": 45274,
+          "forks_total": 45275,
           "license_name": "MIT",
           "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
           "matched_topics": [],
@@ -369,12 +369,12 @@
           ],
           "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
           "sparkline": [
-            417142
+            417141
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 417142
+              "stars_total": 417141
             }
           ],
           "newcomer": false,
@@ -399,7 +399,7 @@
           ],
           "owner_login": "public-apis",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 417142 Star、存在异常增长、最近 10 天有代码推送"
+          "qa_reason": "周增 417141 Star、存在异常增长、最近 10 天有代码推送"
         },
         {
           "full_name": "EbookFoundation/free-programming-books",
@@ -407,14 +407,14 @@
           "html_url": "https://github.com/EbookFoundation/free-programming-books",
           "description": ":books: Freely available programming books",
           "language": "Python",
-          "stars_total": 384682,
-          "weekly_stars": 384682,
+          "stars_total": 384683,
+          "weekly_stars": 384683,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.2,
           "created_at": "2013-10-11T06:50:37Z",
-          "updated_at": "2026-03-29T08:33:49Z",
+          "updated_at": "2026-03-29T08:41:23Z",
           "pushed_at": "2026-03-24T15:26:23Z",
           "open_issues_count": 87,
           "watchers_total": 9786,
@@ -440,12 +440,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384682
+            384683
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384682
+              "stars_total": 384683
             }
           ],
           "newcomer": false,
@@ -470,7 +470,7 @@
           ],
           "owner_login": "EbookFoundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=4",
-          "qa_reason": "周增 384682 Star、存在异常增长、最近 4 天有代码推送"
+          "qa_reason": "周增 384683 Star、存在异常增长、最近 4 天有代码推送"
         },
         {
           "full_name": "kamranahmedse/developer-roadmap",
@@ -489,7 +489,7 @@
           "pushed_at": "2026-03-26T08:13:42Z",
           "open_issues_count": 38,
           "watchers_total": 6871,
-          "forks_total": 43866,
+          "forks_total": 43865,
           "license_name": "NOASSERTION",
           "homepage": "https://roadmap.sh",
           "matched_topics": [],
@@ -658,18 +658,18 @@
           "html_url": "https://github.com/openclaw/openclaw",
           "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "language": "TypeScript",
-          "stars_total": 339834,
-          "weekly_stars": 339834,
+          "stars_total": 339835,
+          "weekly_stars": 339835,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.1,
           "created_at": "2025-11-24T10:16:47Z",
-          "updated_at": "2026-03-29T08:37:10Z",
-          "pushed_at": "2026-03-29T08:36:41Z",
-          "open_issues_count": 16237,
+          "updated_at": "2026-03-29T08:44:33Z",
+          "pushed_at": "2026-03-29T08:42:05Z",
+          "open_issues_count": 16239,
           "watchers_total": 1681,
-          "forks_total": 66977,
+          "forks_total": 66981,
           "license_name": "MIT",
           "homepage": "https://openclaw.ai",
           "matched_topics": [],
@@ -693,12 +693,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"",
           "sparkline": [
-            339834
+            339835
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 339834
+              "stars_total": 339835
             }
           ],
           "newcomer": false,
@@ -723,7 +723,7 @@
           ],
           "owner_login": "openclaw",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4",
-          "qa_reason": "周增 339834 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 339835 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "jwasham/coding-interview-university",
@@ -814,14 +814,14 @@
           "html_url": "https://github.com/vinta/awesome-python",
           "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
           "language": "Python",
-          "stars_total": 289505,
-          "weekly_stars": 289505,
+          "stars_total": 289508,
+          "weekly_stars": 289508,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 82.3,
           "created_at": "2014-06-27T21:00:06Z",
-          "updated_at": "2026-03-29T08:37:10Z",
+          "updated_at": "2026-03-29T08:43:18Z",
           "pushed_at": "2026-03-29T07:23:32Z",
           "open_issues_count": 18,
           "watchers_total": 6096,
@@ -847,12 +847,12 @@
           ],
           "readme_excerpt": "An opinionated list of Python frameworks, libraries, tools, and resources. > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md). **AI & ML** - [AI and Agents](#ai-and-agents) - [Deep Learning](#deep-learning) - [Machine Learning](#machine-learning) - [Natural Language Processing](#natural-language-processing) - [Computer Vision](#computer-vision",
           "sparkline": [
-            289505
+            289508
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 289505
+              "stars_total": 289508
             }
           ],
           "newcomer": false,
@@ -877,7 +877,7 @@
           ],
           "owner_login": "vinta",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/652070?v=4",
-          "qa_reason": "周增 289505 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 289508 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "awesome-selfhosted/awesome-selfhosted",
@@ -885,14 +885,14 @@
           "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
           "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
           "language": "Unknown",
-          "stars_total": 282644,
-          "weekly_stars": 282644,
+          "stars_total": 282648,
+          "weekly_stars": 282648,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 79.8,
           "created_at": "2015-06-01T02:33:17Z",
-          "updated_at": "2026-03-29T08:37:13Z",
+          "updated_at": "2026-03-29T08:43:22Z",
           "pushed_at": "2026-03-25T15:20:34Z",
           "open_issues_count": 0,
           "watchers_total": 3128,
@@ -922,12 +922,12 @@
           ],
           "readme_excerpt": "[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome",
           "sparkline": [
-            282644
+            282648
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 282644
+              "stars_total": 282648
             }
           ],
           "newcomer": false,
@@ -952,7 +952,7 @@
           ],
           "owner_login": "awesome-selfhosted",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/24270415?v=4",
-          "qa_reason": "周增 282644 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 282648 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "996icu/996.ICU",
@@ -1103,7 +1103,7 @@
           "pushed_at": "2026-03-29T01:18:21Z",
           "open_issues_count": 1184,
           "watchers_total": 6668,
-          "forks_total": 50872,
+          "forks_total": 50871,
           "license_name": "MIT",
           "homepage": "https://react.dev",
           "matched_topics": [],
@@ -1227,7 +1227,7 @@
           "growth_rate": 1.0,
           "heat_score": 81.0,
           "created_at": "2016-07-16T09:44:01Z",
-          "updated_at": "2026-03-29T07:26:57Z",
+          "updated_at": "2026-03-29T08:42:43Z",
           "pushed_at": "2026-03-27T22:00:39Z",
           "open_issues_count": 907,
           "watchers_total": 5961,
@@ -1309,14 +1309,14 @@
           "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
           "language": "Unknown",
-          "stars_total": 212107,
-          "weekly_stars": 212107,
+          "stars_total": 212109,
+          "weekly_stars": 212109,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 71.3,
           "created_at": "2018-06-23T10:43:14Z",
-          "updated_at": "2026-03-29T08:31:11Z",
+          "updated_at": "2026-03-29T08:43:25Z",
           "pushed_at": "2024-11-19T14:00:38Z",
           "open_issues_count": 126,
           "watchers_total": 2718,
@@ -1368,12 +1368,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/trimstray/the-book-of-secret-knowledge\"> <img src=\"https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png\" alt=\"Master\"> </a> </p> <p align=\"center\">\"<i>Knowledge is powerful, be careful how you use it!</i>\"</p> <h4 align=\"center\">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-li",
           "sparkline": [
-            212107
+            212109
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 212107
+              "stars_total": 212109
             }
           ],
           "newcomer": false,
@@ -1398,7 +1398,7 @@
           ],
           "owner_login": "trimstray",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31127917?v=4",
-          "qa_reason": "周增 212107 Star、存在异常增长、最近 494 天有代码推送"
+          "qa_reason": "周增 212109 Star、存在异常增长、最近 494 天有代码推送"
         },
         {
           "full_name": "vuejs/vue",
@@ -1417,7 +1417,7 @@
           "pushed_at": "2024-10-10T07:24:15Z",
           "open_issues_count": 621,
           "watchers_total": 5757,
-          "forks_total": 33837,
+          "forks_total": 33836,
           "license_name": "MIT",
           "homepage": "http://v2.vuejs.org",
           "matched_topics": [],
@@ -1690,14 +1690,14 @@
           "html_url": "https://github.com/ohmyzsh/ohmyzsh",
           "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
           "language": "Shell",
-          "stars_total": 185706,
-          "weekly_stars": 185706,
+          "stars_total": 185707,
+          "weekly_stars": 185707,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.9,
           "created_at": "2009-08-28T18:15:37Z",
-          "updated_at": "2026-03-29T08:29:43Z",
+          "updated_at": "2026-03-29T08:40:12Z",
           "pushed_at": "2026-03-29T06:02:30Z",
           "open_issues_count": 527,
           "watchers_total": 2606,
@@ -1741,12 +1741,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img src=\"https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png\" alt=\"Oh My Zsh\"></p> Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration. Sounds boring. Let's try again. **Oh My Zsh will not make you a 10x developer...but you may feel like one.** Once installed, your terminal shell will become the talk of the town _or your money back!_",
           "sparkline": [
-            185706
+            185707
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 185706
+              "stars_total": 185707
             }
           ],
           "newcomer": false,
@@ -1771,7 +1771,7 @@
           ],
           "owner_login": "ohmyzsh",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/22552083?v=4",
-          "qa_reason": "周增 185706 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 185707 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "getify/You-Dont-Know-JS",
@@ -1790,7 +1790,7 @@
           "pushed_at": "2026-02-15T04:36:44Z",
           "open_issues_count": 2,
           "watchers_total": 5765,
-          "forks_total": 33608,
+          "forks_total": 33607,
           "license_name": "NOASSERTION",
           "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
           "matched_topics": [
@@ -1866,18 +1866,18 @@
           "html_url": "https://github.com/CyC2018/CS-Notes",
           "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
           "language": "Unknown",
-          "stars_total": 184053,
-          "weekly_stars": 184053,
+          "stars_total": 184054,
+          "weekly_stars": 184054,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 69.2,
           "created_at": "2018-02-13T14:56:24Z",
-          "updated_at": "2026-03-29T08:26:27Z",
+          "updated_at": "2026-03-29T08:39:24Z",
           "pushed_at": "2024-08-21T09:40:10Z",
           "open_issues_count": 195,
           "watchers_total": 5230,
-          "forks_total": 51109,
+          "forks_total": 51108,
           "license_name": "N/A",
           "homepage": "http://cyc2018.xyz",
           "matched_topics": [],
@@ -1903,12 +1903,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <a href=\"https://www.cyc2018.xyz\"> <img src=\"https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1\"></a> <a href=\"https://gitstar-ranking.com/repositories\"> <img src=\"https://badgen.net/badge/Rank/13?icon=github&color=4ab8a1\"></a> <a href=\"https://github.com/CyC2018/CS-Notes\"> <img src=\"https://badgen.net/github/stars/CyC2018/CS-Notes?icon=github&color=4a",
           "sparkline": [
-            184053
+            184054
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 184053
+              "stars_total": 184054
             }
           ],
           "newcomer": false,
@@ -1933,7 +1933,7 @@
           ],
           "owner_login": "CyC2018",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/36260787?v=4",
-          "qa_reason": "周增 184053 Star、存在异常增长、最近 584 天有代码推送"
+          "qa_reason": "周增 184054 Star、存在异常增长、最近 584 天有代码推送"
         },
         {
           "full_name": "microsoft/vscode",
@@ -1941,18 +1941,18 @@
           "html_url": "https://github.com/microsoft/vscode",
           "description": "Visual Studio Code",
           "language": "TypeScript",
-          "stars_total": 183158,
-          "weekly_stars": 183158,
+          "stars_total": 183159,
+          "weekly_stars": 183159,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.7,
           "created_at": "2015-09-03T20:23:38Z",
-          "updated_at": "2026-03-29T08:31:12Z",
+          "updated_at": "2026-03-29T08:43:16Z",
           "pushed_at": "2026-03-29T08:31:04Z",
           "open_issues_count": 15652,
           "watchers_total": 3403,
-          "forks_total": 38810,
+          "forks_total": 38811,
           "license_name": "MIT",
           "homepage": "https://code.visualstudio.com",
           "matched_topics": [],
@@ -1972,12 +1972,12 @@
           ],
           "readme_excerpt": "[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug) [![Gitter](https://img.shields.io/badge/chat-o",
           "sparkline": [
-            183158
+            183159
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 183158
+              "stars_total": 183159
             }
           ],
           "newcomer": false,
@@ -2002,7 +2002,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "周增 183158 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 183159 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "Significant-Gravitas/AutoGPT",
@@ -2093,18 +2093,18 @@
           "html_url": "https://github.com/n8n-io/n8n",
           "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
           "language": "TypeScript",
-          "stars_total": 181540,
-          "weekly_stars": 181540,
+          "stars_total": 181542,
+          "weekly_stars": 181542,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.6,
           "created_at": "2019-06-22T09:24:21Z",
-          "updated_at": "2026-03-29T08:28:45Z",
+          "updated_at": "2026-03-29T08:41:49Z",
           "pushed_at": "2026-03-29T02:25:27Z",
           "open_issues_count": 1430,
           "watchers_total": 1059,
-          "forks_total": 56268,
+          "forks_total": 56269,
           "license_name": "NOASSERTION",
           "homepage": "https://n8n.io",
           "matched_topics": [],
@@ -2154,12 +2154,12 @@
           ],
           "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments. ![n8n.io",
           "sparkline": [
-            181540
+            181542
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 181540
+              "stars_total": 181542
             }
           ],
           "newcomer": false,
@@ -2184,7 +2184,7 @@
           ],
           "owner_login": "n8n-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/45487711?v=4",
-          "qa_reason": "周增 181540 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 181542 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "jackfrued/Python-100-Days",
@@ -2199,7 +2199,7 @@
           "growth_rate": 1.0,
           "heat_score": 72.5,
           "created_at": "2018-03-01T16:05:52Z",
-          "updated_at": "2026-03-29T08:10:45Z",
+          "updated_at": "2026-03-29T08:44:36Z",
           "pushed_at": "2026-02-25T03:39:28Z",
           "open_issues_count": 693,
           "watchers_total": 6044,
@@ -2249,14 +2249,14 @@
           "html_url": "https://github.com/flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
-          "stars_total": 175753,
-          "weekly_stars": 175753,
+          "stars_total": 175752,
+          "weekly_stars": 175752,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.2,
           "created_at": "2015-03-06T22:54:58Z",
-          "updated_at": "2026-03-29T08:19:03Z",
+          "updated_at": "2026-03-29T08:40:20Z",
           "pushed_at": "2026-03-29T04:18:11Z",
           "open_issues_count": 12514,
           "watchers_total": 3463,
@@ -2308,12 +2308,12 @@
           ],
           "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
           "sparkline": [
-            175753
+            175752
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 175753
+              "stars_total": 175752
             }
           ],
           "newcomer": false,
@@ -2338,7 +2338,7 @@
           ],
           "owner_login": "flutter",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
-          "qa_reason": "周增 175753 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 175752 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "twbs/bootstrap",
@@ -2573,14 +2573,14 @@
           "html_url": "https://github.com/avelino/awesome-go",
           "description": "A curated list of awesome Go frameworks, libraries and software",
           "language": "Go",
-          "stars_total": 168520,
-          "weekly_stars": 168520,
+          "stars_total": 168523,
+          "weekly_stars": 168523,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 76.7,
           "created_at": "2014-07-06T13:42:15Z",
-          "updated_at": "2026-03-29T08:37:20Z",
+          "updated_at": "2026-03-29T08:43:30Z",
           "pushed_at": "2026-03-26T20:07:28Z",
           "open_issues_count": 171,
           "watchers_total": 2809,
@@ -2606,12 +2606,12 @@
           ],
           "readme_excerpt": "<a href=\"https://awesome-go.com/\"><img align=\"right\" src=\"https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png\" alt=\"awesome-go\" title=\"awesome-go\" /></a> [![Build Status](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom",
           "sparkline": [
-            168520
+            168523
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 168520
+              "stars_total": 168523
             }
           ],
           "newcomer": false,
@@ -2636,7 +2636,7 @@
           ],
           "owner_login": "avelino",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31996?v=4",
-          "qa_reason": "周增 168520 Star、存在异常增长、最近 2 天有代码推送"
+          "qa_reason": "周增 168523 Star、存在异常增长、最近 2 天有代码推送"
         },
         {
           "full_name": "ollama/ollama",
@@ -2905,7 +2905,7 @@
           "updated_at": "2026-03-29T08:27:43Z",
           "pushed_at": "2026-03-28T10:24:13Z",
           "open_issues_count": 2319,
-          "watchers_total": 1194,
+          "watchers_total": 1195,
           "forks_total": 32660,
           "license_name": "Apache-2.0",
           "homepage": "https://huggingface.co/transformers",
@@ -3065,14 +3065,14 @@
           "html_url": "https://github.com/f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars_total": 154527,
-          "weekly_stars": 154527,
+          "stars_total": 154528,
+          "weekly_stars": 154528,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 73.1,
           "created_at": "2022-12-05T13:54:13Z",
-          "updated_at": "2026-03-29T08:26:29Z",
+          "updated_at": "2026-03-29T08:39:29Z",
           "pushed_at": "2026-03-29T04:03:04Z",
           "open_issues_count": 39,
           "watchers_total": 1608,
@@ -3124,12 +3124,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt lib",
           "sparkline": [
-            154527
+            154528
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 154527
+              "stars_total": 154528
             }
           ],
           "newcomer": false,
@@ -3154,7 +3154,7 @@
           ],
           "owner_login": "f",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4",
-          "qa_reason": "周增 154527 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 154528 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "Snailclimb/JavaGuide",
@@ -3173,7 +3173,7 @@
           "pushed_at": "2026-03-26T15:53:57Z",
           "open_issues_count": 68,
           "watchers_total": 4453,
-          "forks_total": 46135,
+          "forks_total": 46134,
           "license_name": "Apache-2.0",
           "homepage": "https://javaguide.cn",
           "matched_topics": [],
@@ -3245,14 +3245,14 @@
           "html_url": "https://github.com/yt-dlp/yt-dlp",
           "description": "A feature-rich command-line audio/video downloader",
           "language": "Python",
-          "stars_total": 153774,
-          "weekly_stars": 153774,
+          "stars_total": 153775,
+          "weekly_stars": 153775,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 76.0,
           "created_at": "2020-10-26T04:22:55Z",
-          "updated_at": "2026-03-29T08:29:36Z",
+          "updated_at": "2026-03-29T08:43:43Z",
           "pushed_at": "2026-03-28T00:10:59Z",
           "open_issues_count": 2425,
           "watchers_total": 745,
@@ -3280,12 +3280,12 @@
           ],
           "readme_excerpt": "<!-- MANPAGE: BEGIN EXCLUDED SECTION --> <div align=\"center\"> [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme) [![Release version](https://img.shields.io/github/v/release/yt-dlp/yt-dlp?color=brightgreen&label=Download&style=for-the-badge)](#installation \"Installation\") [![PyPI](https://img.shields.io/badge/-PyPI-blue.svg?logo=pypi&labelColor=555555&style=for-the-badge)](",
           "sparkline": [
-            153774
+            153775
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 153774
+              "stars_total": 153775
             }
           ],
           "newcomer": false,
@@ -3310,7 +3310,7 @@
           ],
           "owner_login": "yt-dlp",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/79589310?v=4",
-          "qa_reason": "周增 153774 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 153775 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "airbnb/javascript",
@@ -3405,14 +3405,14 @@
           "html_url": "https://github.com/521xueweihan/HelloGitHub",
           "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
           "language": "Python",
-          "stars_total": 147828,
-          "weekly_stars": 147828,
+          "stars_total": 147830,
+          "weekly_stars": 147830,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 75.1,
           "created_at": "2016-05-04T06:24:11Z",
-          "updated_at": "2026-03-29T08:29:19Z",
+          "updated_at": "2026-03-29T08:43:33Z",
           "pushed_at": "2026-03-27T01:17:22Z",
           "open_issues_count": 311,
           "watchers_total": 4486,
@@ -3434,12 +3434,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif\"/> <br>中文 | <a href=\"README_en.md\">English</a> | <a href=\"README_ja.md\">日本語</a> <br>分享 GitHub 上有趣、入门级的开源项目。 <br>兴趣是最好的老师，HelloGitHub 帮你找到开源的乐趣！ </p> <p align=\"center\"> <a href=\"https://hellogithub.com/repository/d4aae58ddbf34f0799bf3e8f965e0d70\" target=\"_blank\"><img src=\"https://abroad.hellogithub.com/v1/widget",
           "sparkline": [
-            147828
+            147830
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 147828
+              "stars_total": 147830
             }
           ],
           "newcomer": false,
@@ -3464,7 +3464,7 @@
           ],
           "owner_login": "521xueweihan",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/8255800?v=4",
-          "qa_reason": "周增 147828 Star、存在异常增长、最近 2 天有代码推送"
+          "qa_reason": "周增 147830 Star、存在异常增长、最近 2 天有代码推送"
         },
         {
           "full_name": "langflow-ai/langflow",
@@ -3543,14 +3543,14 @@
           "html_url": "https://github.com/ytdl-org/youtube-dl",
           "description": "Command-line program to download videos from YouTube.com and other video sites",
           "language": "Python",
-          "stars_total": 139961,
-          "weekly_stars": 139961,
+          "stars_total": 139960,
+          "weekly_stars": 139960,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 69.0,
           "created_at": "2010-10-31T14:35:07Z",
-          "updated_at": "2026-03-29T08:20:44Z",
+          "updated_at": "2026-03-29T08:44:13Z",
           "pushed_at": "2026-02-19T16:45:25Z",
           "open_issues_count": 4119,
           "watchers_total": 2151,
@@ -3562,12 +3562,12 @@
           "all_topics": [],
           "readme_excerpt": "[![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI) youtube-dl - download videos from youtube.com or other video platforms - [INSTALLATION](#installation) - [DESCRIPTION](#description) - [OPTIONS](#options) - [CONFIGURATION](#configuration) - [OUTPUT TEMPLATE](#output-template) - [FORMAT SELECTION](#format-selection) - [V",
           "sparkline": [
-            139961
+            139960
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 139961
+              "stars_total": 139960
             }
           ],
           "newcomer": false,
@@ -3592,7 +3592,7 @@
           ],
           "owner_login": "ytdl-org",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/48381040?v=4",
-          "qa_reason": "周增 139961 Star、存在异常增长、最近 37 天有代码推送"
+          "qa_reason": "周增 139960 Star、存在异常增长、最近 37 天有代码推送"
         },
         {
           "full_name": "vercel/next.js",
@@ -3841,18 +3841,18 @@
           "html_url": "https://github.com/langgenius/dify",
           "description": "Production-ready platform for agentic workflow development.",
           "language": "TypeScript",
-          "stars_total": 134862,
-          "weekly_stars": 134862,
+          "stars_total": 134863,
+          "weekly_stars": 134863,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 74.9,
           "created_at": "2023-04-12T07:40:24Z",
-          "updated_at": "2026-03-29T08:34:18Z",
-          "pushed_at": "2026-03-29T06:08:00Z",
-          "open_issues_count": 811,
+          "updated_at": "2026-03-29T08:43:08Z",
+          "pushed_at": "2026-03-29T08:43:23Z",
+          "open_issues_count": 812,
           "watchers_total": 777,
-          "forks_total": 20992,
+          "forks_total": 20993,
           "license_name": "NOASSERTION",
           "homepage": "https://dify.ai",
           "matched_topics": [],
@@ -3902,12 +3902,12 @@
           ],
           "readme_excerpt": "![cover-v5-optimized](./images/GitHub_README_if.png) <p align=\"center\"> <a href=\"https://cloud.dify.ai\">Dify Cloud</a> · <a href=\"https://docs.dify.ai/getting-started/install-self-hosted\">Self-hosting</a> · <a href=\"https://docs.dify.ai\">Documentation</a> · <a href=\"https://dify.ai/pricing\">Dify edition overview</a> </p> <p align=\"center\"> <a href=\"https://dify.ai\" target=\"_blank\"> <img alt=\"Static Badge\" src=\"https:",
           "sparkline": [
-            134862
+            134863
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 134862
+              "stars_total": 134863
             }
           ],
           "newcomer": false,
@@ -3932,7 +3932,7 @@
           ],
           "owner_login": "langgenius",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/127165244?v=4",
-          "qa_reason": "周增 134862 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 134863 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
@@ -3940,18 +3940,18 @@
           "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "language": "Unknown",
-          "stars_total": 133573,
-          "weekly_stars": 133573,
+          "stars_total": 133572,
+          "weekly_stars": 133572,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 74.8,
           "created_at": "2025-03-05T16:38:29Z",
-          "updated_at": "2026-03-29T08:19:24Z",
+          "updated_at": "2026-03-29T08:42:09Z",
           "pushed_at": "2026-03-28T16:58:37Z",
           "open_issues_count": 142,
           "watchers_total": 1616,
-          "forks_total": 33679,
+          "forks_total": 33678,
           "license_name": "GPL-3.0",
           "homepage": "",
           "matched_topics": [],
@@ -4001,12 +4001,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> Support my work here: <a href=\"https://bags.fm/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Bags.fm</a> • <a href=\"https://jup.ag/tokens/DEffWzJyaFRNyA4ogUox631hfHuv3KLeCcpBh2ipBAGS\">Jupiter</a> • <a href=\"https://photon-sol.tinyastro.io/en/lp/Qa5ZCCwrWoPYckNXXMCAhCsw8gafgYFAu1Qes3Grgv5?handle=\">Photon</a> • <a href=\"https://dexscreener.com/solana/qa5zccwrwopycknxxmcahcsw8gafgyfau1qes3grgv5\">DEXSc",
           "sparkline": [
-            133573
+            133572
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 133573
+              "stars_total": 133572
             }
           ],
           "newcomer": false,
@@ -4031,7 +4031,7 @@
           ],
           "owner_login": "x1xhlol",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/185671340?v=4",
-          "qa_reason": "周增 133573 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 133572 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "golang/go",
@@ -4050,7 +4050,7 @@
           "pushed_at": "2026-03-28T20:08:02Z",
           "open_issues_count": 9912,
           "watchers_total": 3330,
-          "forks_total": 18883,
+          "forks_total": 18882,
           "license_name": "BSD-3-Clause",
           "homepage": "https://go.dev",
           "matched_topics": [],
@@ -4181,15 +4181,15 @@
           "html_url": "https://github.com/anomalyco/opencode",
           "description": "The open source coding agent.",
           "language": "TypeScript",
-          "stars_total": 132088,
-          "weekly_stars": 132088,
+          "stars_total": 132092,
+          "weekly_stars": 132092,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 74.7,
           "created_at": "2025-04-30T20:08:00Z",
-          "updated_at": "2026-03-29T08:33:51Z",
-          "pushed_at": "2026-03-29T08:34:51Z",
+          "updated_at": "2026-03-29T08:44:06Z",
+          "pushed_at": "2026-03-29T08:38:11Z",
           "open_issues_count": 6207,
           "watchers_total": 514,
           "forks_total": 14136,
@@ -4200,12 +4200,12 @@
           "all_topics": [],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://opencode.ai\"> <picture> <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\"> </picture> </a> </p> <p align=\"center\">The open source AI c",
           "sparkline": [
-            132088
+            132092
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 132088
+              "stars_total": 132092
             }
           ],
           "newcomer": false,
@@ -4230,7 +4230,7 @@
           ],
           "owner_login": "anomalyco",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/66570915?v=4",
-          "qa_reason": "周增 132088 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 132092 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "langchain-ai/langchain",
@@ -4238,14 +4238,14 @@
           "html_url": "https://github.com/langchain-ai/langchain",
           "description": "The agent engineering platform",
           "language": "Python",
-          "stars_total": 131444,
-          "weekly_stars": 131444,
+          "stars_total": 131445,
+          "weekly_stars": 131445,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 74.7,
           "created_at": "2022-10-17T02:58:36Z",
-          "updated_at": "2026-03-29T08:36:13Z",
+          "updated_at": "2026-03-29T08:40:28Z",
           "pushed_at": "2026-03-29T01:41:20Z",
           "open_issues_count": 497,
           "watchers_total": 816,
@@ -4297,12 +4297,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <a href=\"https://docs.langchain.com/oss/python/langchain/overview\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/images/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\".github/images/logo-light.svg\"> <img alt=\"LangChain Logo\" src=\".github/images/logo-dark.svg\" width=\"50%\"> </picture> </a> </div> <div align=\"center\"> <h3>The agent engineering platfor",
           "sparkline": [
-            131444
+            131445
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 131444
+              "stars_total": 131445
             }
           ],
           "newcomer": false,
@@ -4327,7 +4327,7 @@
           ],
           "owner_login": "langchain-ai",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/126733545?v=4",
-          "qa_reason": "周增 131444 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 131445 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "microsoft/PowerToys",
@@ -4418,14 +4418,14 @@
           "html_url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
           "language": "Python",
-          "stars_total": 129121,
-          "weekly_stars": 129121,
+          "stars_total": 129122,
+          "weekly_stars": 129122,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 74.5,
           "created_at": "2023-10-06T22:08:27Z",
-          "updated_at": "2026-03-29T08:26:29Z",
+          "updated_at": "2026-03-29T08:41:42Z",
           "pushed_at": "2026-03-29T03:18:00Z",
           "open_issues_count": 270,
           "watchers_total": 566,
@@ -4469,12 +4469,12 @@
           ],
           "readme_excerpt": "![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social) ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui) ![GitHub language count](https://img.shields.io/github/languages/co",
           "sparkline": [
-            129121
+            129122
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 129121
+              "stars_total": 129122
             }
           ],
           "newcomer": false,
@@ -4499,7 +4499,7 @@
           ],
           "owner_login": "open-webui",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/158137808?v=4",
-          "qa_reason": "周增 129121 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 129122 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "Chalarangelo/30-seconds-of-code",
@@ -4518,7 +4518,7 @@
           "pushed_at": "2026-03-29T01:12:03Z",
           "open_issues_count": 5,
           "watchers_total": 2593,
-          "forks_total": 12469,
+          "forks_total": 12468,
           "license_name": "CC-BY-4.0",
           "homepage": "https://30secondsofcode.org/",
           "matched_topics": [
@@ -4752,18 +4752,18 @@
           "html_url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "stars_total": 121479,
-          "weekly_stars": 121479,
+          "stars_total": 121494,
+          "weekly_stars": 121494,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 72.6,
           "created_at": "2025-10-09T19:45:18Z",
-          "updated_at": "2026-03-29T08:38:06Z",
+          "updated_at": "2026-03-29T08:45:03Z",
           "pushed_at": "2026-03-26T00:16:56Z",
           "open_issues_count": 194,
-          "watchers_total": 520,
-          "forks_total": 9874,
+          "watchers_total": 519,
+          "forks_total": 9875,
           "license_name": "MIT",
           "homepage": "",
           "matched_topics": [],
@@ -4771,12 +4771,12 @@
           "all_topics": [],
           "readme_excerpt": "Superpowers is a complete software development workflow for your coding agents, built on top of a set of composable \"skills\" and some initial instructions that make sure your agent uses them. It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. O",
           "sparkline": [
-            121479
+            121494
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 121479
+              "stars_total": 121494
             }
           ],
           "newcomer": false,
@@ -4801,7 +4801,7 @@
           ],
           "owner_login": "obra",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4",
-          "qa_reason": "周增 121479 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 121494 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "kubernetes/kubernetes",
@@ -5016,14 +5016,14 @@
           "html_url": "https://github.com/excalidraw/excalidraw",
           "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
           "language": "TypeScript",
-          "stars_total": 119726,
-          "weekly_stars": 119726,
+          "stars_total": 119727,
+          "weekly_stars": 119727,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 73.2,
           "created_at": "2020-01-02T01:04:43Z",
-          "updated_at": "2026-03-29T08:20:28Z",
+          "updated_at": "2026-03-29T08:43:37Z",
           "pushed_at": "2026-03-27T12:43:53Z",
           "open_issues_count": 2910,
           "watchers_total": 487,
@@ -5051,12 +5051,12 @@
           ],
           "readme_excerpt": "<a href=\"https://excalidraw.com/\" target=\"_blank\" rel=\"noopener\"> <picture> <source media=\"(prefers-color-scheme: dark)\" alt=\"Excalidraw\" srcset=\"https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2_dark.png\" /> <img alt=\"Excalidraw\" src=\"https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2.png\" /> </picture> </a> <h4 align=\"center\"> <a href=\"https://excal",
           "sparkline": [
-            119726
+            119727
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 119726
+              "stars_total": 119727
             }
           ],
           "newcomer": false,
@@ -5081,7 +5081,7 @@
           ],
           "owner_login": "excalidraw",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4",
-          "qa_reason": "周增 119726 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 119727 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "justjavac/free-programming-books-zh_CN",
@@ -5253,18 +5253,18 @@
           "html_url": "https://github.com/affaan-m/everything-claude-code",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 115351,
-          "weekly_stars": 115351,
+          "stars_total": 115362,
+          "weekly_stars": 115362,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 72.5,
           "created_at": "2026-01-18T00:51:51Z",
-          "updated_at": "2026-03-29T08:38:16Z",
+          "updated_at": "2026-03-29T08:44:46Z",
           "pushed_at": "2026-03-29T04:26:32Z",
           "open_issues_count": 101,
-          "watchers_total": 623,
-          "forks_total": 15014,
+          "watchers_total": 624,
+          "forks_total": 15015,
           "license_name": "MIT",
           "homepage": "https://ecc.tools",
           "matched_topics": [],
@@ -5290,12 +5290,12 @@
           ],
           "readme_excerpt": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) [![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/affaan",
           "sparkline": [
-            115351
+            115362
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 115351
+              "stars_total": 115362
             }
           ],
           "newcomer": true,
@@ -5320,7 +5320,7 @@
           ],
           "owner_login": "affaan-m",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4",
-          "qa_reason": "周增 115351 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 115362 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "iptv-org/iptv",
@@ -5475,9 +5475,9 @@
           "growth_rate": 1.0,
           "heat_score": 73.0,
           "created_at": "2010-03-23T18:58:01Z",
-          "updated_at": "2026-03-29T08:18:19Z",
-          "pushed_at": "2026-03-29T08:17:51Z",
-          "open_issues_count": 576,
+          "updated_at": "2026-03-29T08:43:28Z",
+          "pushed_at": "2026-03-29T08:43:24Z",
+          "open_issues_count": 575,
           "watchers_total": 2507,
           "forks_total": 36317,
           "license_name": "MIT",
@@ -5705,7 +5705,7 @@
           "heat_score": 72.5,
           "created_at": "2020-09-28T15:36:08Z",
           "updated_at": "2026-03-29T08:35:38Z",
-          "pushed_at": "2026-03-29T08:32:31Z",
+          "pushed_at": "2026-03-29T08:43:24Z",
           "open_issues_count": 111,
           "watchers_total": 569,
           "forks_total": 16459,
@@ -5794,14 +5794,14 @@
           "html_url": "https://github.com/Hack-with-Github/Awesome-Hacking",
           "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
           "language": "Unknown",
-          "stars_total": 109263,
-          "weekly_stars": 109263,
+          "stars_total": 109264,
+          "weekly_stars": 109264,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 59.8,
           "created_at": "2016-03-30T15:47:10Z",
-          "updated_at": "2026-03-29T08:31:28Z",
+          "updated_at": "2026-03-29T08:43:38Z",
           "pushed_at": "2025-01-18T01:48:02Z",
           "open_issues_count": 36,
           "watchers_total": 3968,
@@ -5833,12 +5833,12 @@
           ],
           "readme_excerpt": "![Awesome Hacking](awesome_hacking.jpg) **A collection of awesome lists for hackers, pentesters & security researchers.** Your [contributions](contributing.md) are always welcome ! Repository | Description ---- | ---- [Android Security](https://github.com/ashishb/android-security-awesome) \t\t\t| Collection of Android security related resources [AppSec](https://github.com/paragonie/awesome-appsec)\t\t\t\t\t\t\t\t| Resources for",
           "sparkline": [
-            109263
+            109264
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 109263
+              "stars_total": 109264
             }
           ],
           "newcomer": false,
@@ -5863,7 +5863,7 @@
           ],
           "owner_login": "Hack-with-Github",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/18143746?v=4",
-          "qa_reason": "周增 109263 Star、存在异常增长、最近 435 天有代码推送"
+          "qa_reason": "周增 109264 Star、存在异常增长、最近 435 天有代码推送"
         },
         {
           "full_name": "axios/axios",
@@ -6249,7 +6249,7 @@
           "pushed_at": "2024-10-12T06:51:36Z",
           "open_issues_count": 192,
           "watchers_total": 2629,
-          "forks_total": 13527,
+          "forks_total": 13526,
           "license_name": "NOASSERTION",
           "homepage": "",
           "matched_topics": [],
@@ -6362,18 +6362,18 @@
           "html_url": "https://github.com/clash-verge-rev/clash-verge-rev",
           "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
           "language": "TypeScript",
-          "stars_total": 106091,
-          "weekly_stars": 106091,
+          "stars_total": 106093,
+          "weekly_stars": 106093,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 72.5,
           "created_at": "2023-11-21T18:24:03Z",
-          "updated_at": "2026-03-29T08:38:22Z",
+          "updated_at": "2026-03-29T08:41:29Z",
           "pushed_at": "2026-03-28T18:07:05Z",
           "open_issues_count": 210,
           "watchers_total": 292,
-          "forks_total": 7698,
+          "forks_total": 7699,
           "license_name": "GPL-3.0",
           "homepage": "https://www.clashverge.dev",
           "matched_topics": [],
@@ -6399,12 +6399,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <img src=\"./src-tauri/icons/icon.png\" alt=\"Clash\" width=\"128\" /> <br> Continuation of <a href=\"https://github.com/zzzgydi/clash-verge\">Clash Verge</a> <br> </h1> <h3 align=\"center\"> A Clash Meta GUI based on <a href=\"https://github.com/tauri-apps/tauri\">Tauri</a>. </h3> <p align=\"center\"> Languages: <a href=\"./README.md\">简体中文</a> · <a href=\"./docs/README_en.md\">English</a> · <a href=\"./docs/README",
           "sparkline": [
-            106091
+            106093
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 106091
+              "stars_total": 106093
             }
           ],
           "newcomer": false,
@@ -6429,7 +6429,7 @@
           ],
           "owner_login": "clash-verge-rev",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/152534467?v=4",
-          "qa_reason": "周增 106091 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 106093 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "fatedier/frp",
@@ -6516,14 +6516,14 @@
           "html_url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
           "language": "Python",
-          "stars_total": 105302,
-          "weekly_stars": 105302,
+          "stars_total": 105309,
+          "weekly_stars": 105309,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 71.2,
           "created_at": "2025-09-22T15:53:31Z",
-          "updated_at": "2026-03-29T08:38:29Z",
+          "updated_at": "2026-03-29T08:44:01Z",
           "pushed_at": "2026-03-25T15:10:49Z",
           "open_issues_count": 604,
           "watchers_total": 730,
@@ -6539,12 +6539,12 @@
           ],
           "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents",
           "sparkline": [
-            105302
+            105309
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 105302
+              "stars_total": 105309
             }
           ],
           "newcomer": false,
@@ -6569,7 +6569,7 @@
           ],
           "owner_login": "anthropics",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/76263028?v=4",
-          "qa_reason": "周增 105302 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 105309 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "goldbergyoni/nodebestpractices",
@@ -6745,14 +6745,14 @@
           "html_url": "https://github.com/papers-we-love/papers-we-love",
           "description": "Papers from the computer science community to read and discuss.",
           "language": "Shell",
-          "stars_total": 104595,
-          "weekly_stars": 104595,
+          "stars_total": 104596,
+          "weekly_stars": 104596,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 66.6,
           "created_at": "2013-12-15T14:31:41Z",
-          "updated_at": "2026-03-29T07:25:20Z",
+          "updated_at": "2026-03-29T08:43:41Z",
           "pushed_at": "2026-03-26T09:31:12Z",
           "open_issues_count": 2,
           "watchers_total": 3153,
@@ -6780,12 +6780,12 @@
           ],
           "readme_excerpt": "﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg) [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV) **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find",
           "sparkline": [
-            104595
+            104596
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 104595
+              "stars_total": 104596
             }
           ],
           "newcomer": false,
@@ -6810,7 +6810,7 @@
           ],
           "owner_login": "papers-we-love",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6187757?v=4",
-          "qa_reason": "周增 104595 Star、存在异常增长、最近 2 天有代码推送"
+          "qa_reason": "周增 104596 Star、存在异常增长、最近 2 天有代码推送"
         },
         {
           "full_name": "Shubhamsaboo/awesome-llm-apps",
@@ -6818,14 +6818,14 @@
           "html_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
           "language": "Python",
-          "stars_total": 103887,
-          "weekly_stars": 103887,
+          "stars_total": 103888,
+          "weekly_stars": 103888,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 67.0,
           "created_at": "2024-04-29T05:30:25Z",
-          "updated_at": "2026-03-29T08:36:20Z",
+          "updated_at": "2026-03-29T08:41:30Z",
           "pushed_at": "2026-03-28T05:07:59Z",
           "open_issues_count": 3,
           "watchers_total": 1102,
@@ -6847,12 +6847,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/twitter",
           "sparkline": [
-            103887
+            103888
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 103887
+              "stars_total": 103888
             }
           ],
           "newcomer": false,
@@ -6877,7 +6877,7 @@
           ],
           "owner_login": "Shubhamsaboo",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31396011?v=4",
-          "qa_reason": "周增 103887 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 103888 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "facebook/create-react-app",
@@ -7088,14 +7088,14 @@
           "html_url": "https://github.com/jaywcjlove/awesome-mac",
           "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
           "language": "JavaScript",
-          "stars_total": 101055,
-          "weekly_stars": 101055,
+          "stars_total": 101056,
+          "weekly_stars": 101056,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 71.6,
           "created_at": "2016-07-17T15:33:47Z",
-          "updated_at": "2026-03-29T08:13:19Z",
+          "updated_at": "2026-03-29T08:43:45Z",
           "pushed_at": "2026-03-27T21:16:27Z",
           "open_issues_count": 232,
           "watchers_total": 1527,
@@ -7147,12 +7147,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> <sup>Special thanks to:</sup> <br> <br> <a href=\"https://screensage.pro/\"> <img alt=\"ScreenSage Pro\" width=\"400\" src=\"https://jaywcjlove.github.io/sponsor/screensage.png\"> </a> <br> <a href=\"https://screensage.pro/\">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a> <br><br> <a href=\"https://ip.im/\"> <img alt=\"IP.IM\" width=\"400\" src=\"https://jaywcjlove.github.",
           "sparkline": [
-            101055
+            101056
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 101055
+              "stars_total": 101056
             }
           ],
           "newcomer": false,
@@ -7177,7 +7177,7 @@
           ],
           "owner_login": "jaywcjlove",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/1680273?v=4",
-          "qa_reason": "周增 101055 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 101056 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "firecrawl/firecrawl",
@@ -7185,14 +7185,14 @@
           "html_url": "https://github.com/firecrawl/firecrawl",
           "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
           "language": "TypeScript",
-          "stars_total": 100128,
-          "weekly_stars": 100128,
+          "stars_total": 100131,
+          "weekly_stars": 100131,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 71.5,
           "created_at": "2024-04-15T21:02:29Z",
-          "updated_at": "2026-03-29T08:37:30Z",
+          "updated_at": "2026-03-29T08:44:06Z",
           "pushed_at": "2026-03-28T02:49:53Z",
           "open_issues_count": 239,
           "watchers_total": 325,
@@ -7244,12 +7244,12 @@
           ],
           "readme_excerpt": "<h3 align=\"center\"> <a name=\"readme-top\"></a> <img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\" height=\"200\" > </h3> <div align=\"center\"> <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\"> </a> <a href=\"https://pepy.tech/project/firecrawl-py\"> <img src=\"https://static.pepy.te",
           "sparkline": [
-            100128
+            100131
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 100128
+              "stars_total": 100131
             }
           ],
           "newcomer": false,
@@ -7274,7 +7274,7 @@
           ],
           "owner_login": "firecrawl",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/135057108?v=4",
-          "qa_reason": "周增 100128 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 100131 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "angular/angular",
@@ -7355,18 +7355,18 @@
           "html_url": "https://github.com/2dust/v2rayN",
           "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
           "language": "C#",
-          "stars_total": 100045,
-          "weekly_stars": 100045,
+          "stars_total": 100047,
+          "weekly_stars": 100047,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 67.4,
           "created_at": "2019-07-30T03:47:24Z",
-          "updated_at": "2026-03-29T08:36:38Z",
+          "updated_at": "2026-03-29T08:41:02Z",
           "pushed_at": "2026-03-29T07:13:29Z",
           "open_issues_count": 10,
           "watchers_total": 868,
-          "forks_total": 14403,
+          "forks_total": 14404,
           "license_name": "GPL-3.0",
           "homepage": "https://v2rayn.2dust.link",
           "matched_topics": [],
@@ -7398,12 +7398,12 @@
           ],
           "readme_excerpt": "A GUI client for Windows, Linux and macOS, support [Xray](https://github.com/XTLS/Xray-core) and [sing-box](https://github.com/SagerNet/sing-box) and [others](https://github.com/2dust/v2rayN/wiki/List-of-supported-cores) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/2dust/v2rayN)](https://github.com/2dust/v2rayN/commits/master) [![CodeFactor](https://www.codefactor.io/repository/github/2d",
           "sparkline": [
-            100045
+            100047
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 100045
+              "stars_total": 100047
             }
           ],
           "newcomer": false,
@@ -7428,7 +7428,7 @@
           ],
           "owner_login": "2dust",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31833384?v=4",
-          "qa_reason": "周增 100045 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 100047 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "ggml-org/llama.cpp",
@@ -7436,14 +7436,14 @@
           "html_url": "https://github.com/ggml-org/llama.cpp",
           "description": "LLM inference in C/C++",
           "language": "C++",
-          "stars_total": 99793,
-          "weekly_stars": 99793,
+          "stars_total": 99794,
+          "weekly_stars": 99794,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 72.0,
           "created_at": "2023-03-10T18:58:00Z",
-          "updated_at": "2026-03-29T08:36:58Z",
+          "updated_at": "2026-03-29T08:40:47Z",
           "pushed_at": "2026-03-29T08:01:14Z",
           "open_issues_count": 1296,
           "watchers_total": 653,
@@ -7459,12 +7459,12 @@
           ],
           "readme_excerpt": "![llama](https://user-images.githubusercontent.com/1991296/230134379-7181e485-c521-4d23-a0d6-f7b3b61ba524.png) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/ggml-org/llama.cpp)](https://github.com/ggml-org/llama.cpp/releases) [![Server](https://github.com/ggml-org/llama.cpp/actions/workflows/server.yml/badg",
           "sparkline": [
-            99793
+            99794
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 99793
+              "stars_total": 99794
             }
           ],
           "newcomer": false,
@@ -7489,7 +7489,7 @@
           ],
           "owner_login": "ggml-org",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/134263123?v=4",
-          "qa_reason": "周增 99793 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 99794 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "supabase/supabase",
@@ -7603,7 +7603,7 @@
           "created_at": "2025-04-17T17:04:31Z",
           "updated_at": "2026-03-29T08:32:07Z",
           "pushed_at": "2026-03-29T08:35:42Z",
-          "open_issues_count": 3215,
+          "open_issues_count": 3216,
           "watchers_total": 526,
           "forks_total": 12708,
           "license_name": "Apache-2.0",
@@ -7807,8 +7807,8 @@
         }
       ],
       "insights": [
-        "本周最热行业是 教育，前 10 名累计新增 1732671 Star。",
-        "增长最快的项目是 codecrafters-io/build-your-own-x，本周新增 484183 Star。",
+        "本周最热行业是 教育，前 10 名累计新增 1732674 Star。",
+        "增长最快的项目是 codecrafters-io/build-your-own-x，本周新增 484188 Star。",
         "本周共有 15 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。"
       ],
       "change_report": {
@@ -7874,18 +7874,18 @@
           "html_url": "https://github.com/codecrafters-io/build-your-own-x",
           "description": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 484183,
-          "weekly_stars": 484183,
+          "stars_total": 484188,
+          "weekly_stars": 484188,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 93.8,
           "created_at": "2018-05-09T12:03:18Z",
-          "updated_at": "2026-03-29T08:37:23Z",
+          "updated_at": "2026-03-29T08:44:14Z",
           "pushed_at": "2026-02-21T09:34:54Z",
           "open_issues_count": 458,
           "watchers_total": 6570,
-          "forks_total": 45556,
+          "forks_total": 45557,
           "license_name": "N/A",
           "homepage": "https://codecrafters.io",
           "matched_topics": [],
@@ -7907,12 +7907,12 @@
           ],
           "readme_excerpt": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner) This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * [3D Renderer](#build-your-own-3d-renderer) * [AI Model](#ai-model) * [Augmented Reality](#bui",
           "sparkline": [
-            484183
+            484188
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 484183
+              "stars_total": 484188
             }
           ],
           "newcomer": false,
@@ -7937,7 +7937,7 @@
           ],
           "owner_login": "codecrafters-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/58904235?v=4",
-          "qa_reason": "周增 484183 Star、存在异常增长、最近 35 天有代码推送"
+          "qa_reason": "周增 484188 Star、存在异常增长、最近 35 天有代码推送"
         },
         {
           "full_name": "sindresorhus/awesome",
@@ -7945,14 +7945,14 @@
           "html_url": "https://github.com/sindresorhus/awesome",
           "description": "😎 Awesome lists about all kinds of interesting topics",
           "language": "Unknown",
-          "stars_total": 449743,
-          "weekly_stars": 449743,
+          "stars_total": 449745,
+          "weekly_stars": 449745,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 91.5,
           "created_at": "2014-07-11T13:42:37Z",
-          "updated_at": "2026-03-29T08:37:28Z",
+          "updated_at": "2026-03-29T08:43:12Z",
           "pushed_at": "2026-03-09T07:59:57Z",
           "open_issues_count": 88,
           "watchers_total": 8074,
@@ -7976,12 +7976,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <img width=\"500\" height=\"350\" src=\"media/logo.svg\" alt=\"Awesome\"> <br> <br> <br> <br> <div> <sub>Check out my macOS app</sub> <br> <h2> <a href=\"https://sindresorhus.com/supercharge\">Supercharge</a> <br> <sup>Elevate your Mac experience</sup> </h2> </div> <br> <br> <br> <br> <hr> <p> <sup> <a href=\"https://github.com/sponsors/sindresorhus\">My open source work is supported by the community</a> </s",
           "sparkline": [
-            449743
+            449745
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 449743
+              "stars_total": 449745
             }
           ],
           "newcomer": false,
@@ -8006,7 +8006,7 @@
           ],
           "owner_login": "sindresorhus",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
-          "qa_reason": "周增 449743 Star、存在异常增长、最近 20 天有代码推送"
+          "qa_reason": "周增 449745 Star、存在异常增长、最近 20 天有代码推送"
         },
         {
           "full_name": "freeCodeCamp/freeCodeCamp",
@@ -8014,14 +8014,14 @@
           "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 438969,
-          "weekly_stars": 438969,
+          "stars_total": 438971,
+          "weekly_stars": 438971,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 96.9,
           "created_at": "2014-12-24T17:49:19Z",
-          "updated_at": "2026-03-29T08:36:32Z",
+          "updated_at": "2026-03-29T08:41:34Z",
           "pushed_at": "2026-03-28T15:32:18Z",
           "open_issues_count": 229,
           "watchers_total": 8531,
@@ -8067,12 +8067,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438969
+            438971
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438969
+              "stars_total": 438971
             }
           ],
           "newcomer": false,
@@ -8097,7 +8097,7 @@
           ],
           "owner_login": "freeCodeCamp",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
-          "qa_reason": "周增 438969 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 438971 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "public-apis/public-apis",
@@ -8105,18 +8105,18 @@
           "html_url": "https://github.com/public-apis/public-apis",
           "description": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 417142,
-          "weekly_stars": 417142,
+          "stars_total": 417141,
+          "weekly_stars": 417141,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 92.2,
           "created_at": "2016-03-20T23:49:42Z",
-          "updated_at": "2026-03-29T08:36:39Z",
+          "updated_at": "2026-03-29T08:44:36Z",
           "pushed_at": "2026-03-18T16:28:22Z",
           "open_issues_count": 1118,
           "watchers_total": 4576,
-          "forks_total": 45274,
+          "forks_total": 45275,
           "license_name": "MIT",
           "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
           "matched_topics": [],
@@ -8152,12 +8152,12 @@
           ],
           "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
           "sparkline": [
-            417142
+            417141
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 417142
+              "stars_total": 417141
             }
           ],
           "newcomer": false,
@@ -8182,7 +8182,7 @@
           ],
           "owner_login": "public-apis",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 417142 Star、存在异常增长、最近 10 天有代码推送"
+          "qa_reason": "周增 417141 Star、存在异常增长、最近 10 天有代码推送"
         },
         {
           "full_name": "EbookFoundation/free-programming-books",
@@ -8190,14 +8190,14 @@
           "html_url": "https://github.com/EbookFoundation/free-programming-books",
           "description": ":books: Freely available programming books",
           "language": "Python",
-          "stars_total": 384682,
-          "weekly_stars": 384682,
+          "stars_total": 384683,
+          "weekly_stars": 384683,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.2,
           "created_at": "2013-10-11T06:50:37Z",
-          "updated_at": "2026-03-29T08:33:49Z",
+          "updated_at": "2026-03-29T08:41:23Z",
           "pushed_at": "2026-03-24T15:26:23Z",
           "open_issues_count": 87,
           "watchers_total": 9786,
@@ -8223,12 +8223,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384682
+            384683
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384682
+              "stars_total": 384683
             }
           ],
           "newcomer": false,
@@ -8253,7 +8253,7 @@
           ],
           "owner_login": "EbookFoundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=4",
-          "qa_reason": "周增 384682 Star、存在异常增长、最近 4 天有代码推送"
+          "qa_reason": "周增 384683 Star、存在异常增长、最近 4 天有代码推送"
         },
         {
           "full_name": "kamranahmedse/developer-roadmap",
@@ -8272,7 +8272,7 @@
           "pushed_at": "2026-03-26T08:13:42Z",
           "open_issues_count": 38,
           "watchers_total": 6871,
-          "forks_total": 43866,
+          "forks_total": 43865,
           "license_name": "NOASSERTION",
           "homepage": "https://roadmap.sh",
           "matched_topics": [],
@@ -8441,18 +8441,18 @@
           "html_url": "https://github.com/openclaw/openclaw",
           "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "language": "TypeScript",
-          "stars_total": 339834,
-          "weekly_stars": 339834,
+          "stars_total": 339835,
+          "weekly_stars": 339835,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.1,
           "created_at": "2025-11-24T10:16:47Z",
-          "updated_at": "2026-03-29T08:37:10Z",
-          "pushed_at": "2026-03-29T08:36:41Z",
-          "open_issues_count": 16237,
+          "updated_at": "2026-03-29T08:44:33Z",
+          "pushed_at": "2026-03-29T08:42:05Z",
+          "open_issues_count": 16239,
           "watchers_total": 1681,
-          "forks_total": 66977,
+          "forks_total": 66981,
           "license_name": "MIT",
           "homepage": "https://openclaw.ai",
           "matched_topics": [],
@@ -8476,12 +8476,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"",
           "sparkline": [
-            339834
+            339835
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 339834
+              "stars_total": 339835
             }
           ],
           "newcomer": false,
@@ -8506,7 +8506,7 @@
           ],
           "owner_login": "openclaw",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4",
-          "qa_reason": "周增 339834 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 339835 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "jwasham/coding-interview-university",
@@ -8597,14 +8597,14 @@
           "html_url": "https://github.com/vinta/awesome-python",
           "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
           "language": "Python",
-          "stars_total": 289505,
-          "weekly_stars": 289505,
+          "stars_total": 289508,
+          "weekly_stars": 289508,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 82.3,
           "created_at": "2014-06-27T21:00:06Z",
-          "updated_at": "2026-03-29T08:37:10Z",
+          "updated_at": "2026-03-29T08:43:18Z",
           "pushed_at": "2026-03-29T07:23:32Z",
           "open_issues_count": 18,
           "watchers_total": 6096,
@@ -8630,12 +8630,12 @@
           ],
           "readme_excerpt": "An opinionated list of Python frameworks, libraries, tools, and resources. > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md). **AI & ML** - [AI and Agents](#ai-and-agents) - [Deep Learning](#deep-learning) - [Machine Learning](#machine-learning) - [Natural Language Processing](#natural-language-processing) - [Computer Vision](#computer-vision",
           "sparkline": [
-            289505
+            289508
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 289505
+              "stars_total": 289508
             }
           ],
           "newcomer": false,
@@ -8660,7 +8660,7 @@
           ],
           "owner_login": "vinta",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/652070?v=4",
-          "qa_reason": "周增 289505 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 289508 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "awesome-selfhosted/awesome-selfhosted",
@@ -8668,14 +8668,14 @@
           "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
           "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
           "language": "Unknown",
-          "stars_total": 282644,
-          "weekly_stars": 282644,
+          "stars_total": 282648,
+          "weekly_stars": 282648,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 79.8,
           "created_at": "2015-06-01T02:33:17Z",
-          "updated_at": "2026-03-29T08:37:13Z",
+          "updated_at": "2026-03-29T08:43:22Z",
           "pushed_at": "2026-03-25T15:20:34Z",
           "open_issues_count": 0,
           "watchers_total": 3128,
@@ -8705,12 +8705,12 @@
           ],
           "readme_excerpt": "[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome",
           "sparkline": [
-            282644
+            282648
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 282644
+              "stars_total": 282648
             }
           ],
           "newcomer": false,
@@ -8735,7 +8735,7 @@
           ],
           "owner_login": "awesome-selfhosted",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/24270415?v=4",
-          "qa_reason": "周增 282644 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 282648 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "996icu/996.ICU",
@@ -8886,7 +8886,7 @@
           "pushed_at": "2026-03-29T01:18:21Z",
           "open_issues_count": 1184,
           "watchers_total": 6668,
-          "forks_total": 50872,
+          "forks_total": 50871,
           "license_name": "MIT",
           "homepage": "https://react.dev",
           "matched_topics": [],
@@ -9010,7 +9010,7 @@
           "growth_rate": 1.0,
           "heat_score": 81.0,
           "created_at": "2016-07-16T09:44:01Z",
-          "updated_at": "2026-03-29T07:26:57Z",
+          "updated_at": "2026-03-29T08:42:43Z",
           "pushed_at": "2026-03-27T22:00:39Z",
           "open_issues_count": 907,
           "watchers_total": 5961,
@@ -9092,14 +9092,14 @@
           "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
           "language": "Unknown",
-          "stars_total": 212107,
-          "weekly_stars": 212107,
+          "stars_total": 212109,
+          "weekly_stars": 212109,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 71.3,
           "created_at": "2018-06-23T10:43:14Z",
-          "updated_at": "2026-03-29T08:31:11Z",
+          "updated_at": "2026-03-29T08:43:25Z",
           "pushed_at": "2024-11-19T14:00:38Z",
           "open_issues_count": 126,
           "watchers_total": 2718,
@@ -9151,12 +9151,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/trimstray/the-book-of-secret-knowledge\"> <img src=\"https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png\" alt=\"Master\"> </a> </p> <p align=\"center\">\"<i>Knowledge is powerful, be careful how you use it!</i>\"</p> <h4 align=\"center\">A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-li",
           "sparkline": [
-            212107
+            212109
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 212107
+              "stars_total": 212109
             }
           ],
           "newcomer": false,
@@ -9181,7 +9181,7 @@
           ],
           "owner_login": "trimstray",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31127917?v=4",
-          "qa_reason": "周增 212107 Star、存在异常增长、最近 494 天有代码推送"
+          "qa_reason": "周增 212109 Star、存在异常增长、最近 494 天有代码推送"
         },
         {
           "full_name": "vuejs/vue",
@@ -9200,7 +9200,7 @@
           "pushed_at": "2024-10-10T07:24:15Z",
           "open_issues_count": 621,
           "watchers_total": 5757,
-          "forks_total": 33837,
+          "forks_total": 33836,
           "license_name": "MIT",
           "homepage": "http://v2.vuejs.org",
           "matched_topics": [],
@@ -9461,14 +9461,14 @@
           "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 438969,
-          "weekly_stars": 438969,
+          "stars_total": 438971,
+          "weekly_stars": 438971,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 96.9,
           "created_at": "2014-12-24T17:49:19Z",
-          "updated_at": "2026-03-29T08:36:32Z",
+          "updated_at": "2026-03-29T08:41:34Z",
           "pushed_at": "2026-03-28T15:32:18Z",
           "open_issues_count": 229,
           "watchers_total": 8531,
@@ -9514,12 +9514,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438969
+            438971
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438969
+              "stars_total": 438971
             }
           ],
           "newcomer": false,
@@ -9544,7 +9544,7 @@
           ],
           "owner_login": "freeCodeCamp",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
-          "qa_reason": "周增 438969 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 438971 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "codecrafters-io/build-your-own-x",
@@ -9552,18 +9552,18 @@
           "html_url": "https://github.com/codecrafters-io/build-your-own-x",
           "description": "Master programming by recreating your favorite technologies from scratch.",
           "language": "Markdown",
-          "stars_total": 484183,
-          "weekly_stars": 484183,
+          "stars_total": 484188,
+          "weekly_stars": 484188,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 93.8,
           "created_at": "2018-05-09T12:03:18Z",
-          "updated_at": "2026-03-29T08:37:23Z",
+          "updated_at": "2026-03-29T08:44:14Z",
           "pushed_at": "2026-02-21T09:34:54Z",
           "open_issues_count": 458,
           "watchers_total": 6570,
-          "forks_total": 45556,
+          "forks_total": 45557,
           "license_name": "N/A",
           "homepage": "https://codecrafters.io",
           "matched_topics": [],
@@ -9585,12 +9585,12 @@
           ],
           "readme_excerpt": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner) This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand — Richard Feynman.* It's a great way to learn. * [3D Renderer](#build-your-own-3d-renderer) * [AI Model](#ai-model) * [Augmented Reality](#bui",
           "sparkline": [
-            484183
+            484188
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 484183
+              "stars_total": 484188
             }
           ],
           "newcomer": false,
@@ -9615,7 +9615,7 @@
           ],
           "owner_login": "codecrafters-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/58904235?v=4",
-          "qa_reason": "周增 484183 Star、存在异常增长、最近 35 天有代码推送"
+          "qa_reason": "周增 484188 Star、存在异常增长、最近 35 天有代码推送"
         },
         {
           "full_name": "public-apis/public-apis",
@@ -9623,18 +9623,18 @@
           "html_url": "https://github.com/public-apis/public-apis",
           "description": "A collective list of free APIs",
           "language": "Python",
-          "stars_total": 417142,
-          "weekly_stars": 417142,
+          "stars_total": 417141,
+          "weekly_stars": 417141,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 92.2,
           "created_at": "2016-03-20T23:49:42Z",
-          "updated_at": "2026-03-29T08:36:39Z",
+          "updated_at": "2026-03-29T08:44:36Z",
           "pushed_at": "2026-03-18T16:28:22Z",
           "open_issues_count": 1118,
           "watchers_total": 4576,
-          "forks_total": 45274,
+          "forks_total": 45275,
           "license_name": "MIT",
           "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
           "matched_topics": [],
@@ -9670,12 +9670,12 @@
           ],
           "readme_excerpt": "The Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years. <br > <p> <a href=\"https://apilay",
           "sparkline": [
-            417142
+            417141
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 417142
+              "stars_total": 417141
             }
           ],
           "newcomer": false,
@@ -9700,7 +9700,7 @@
           ],
           "owner_login": "public-apis",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/51121562?v=4",
-          "qa_reason": "周增 417142 Star、存在异常增长、最近 10 天有代码推送"
+          "qa_reason": "周增 417141 Star、存在异常增长、最近 10 天有代码推送"
         },
         {
           "full_name": "sindresorhus/awesome",
@@ -9708,14 +9708,14 @@
           "html_url": "https://github.com/sindresorhus/awesome",
           "description": "😎 Awesome lists about all kinds of interesting topics",
           "language": "Unknown",
-          "stars_total": 449743,
-          "weekly_stars": 449743,
+          "stars_total": 449745,
+          "weekly_stars": 449745,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 91.5,
           "created_at": "2014-07-11T13:42:37Z",
-          "updated_at": "2026-03-29T08:37:28Z",
+          "updated_at": "2026-03-29T08:43:12Z",
           "pushed_at": "2026-03-09T07:59:57Z",
           "open_issues_count": 88,
           "watchers_total": 8074,
@@ -9739,12 +9739,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> <img width=\"500\" height=\"350\" src=\"media/logo.svg\" alt=\"Awesome\"> <br> <br> <br> <br> <div> <sub>Check out my macOS app</sub> <br> <h2> <a href=\"https://sindresorhus.com/supercharge\">Supercharge</a> <br> <sup>Elevate your Mac experience</sup> </h2> </div> <br> <br> <br> <br> <hr> <p> <sup> <a href=\"https://github.com/sponsors/sindresorhus\">My open source work is supported by the community</a> </s",
           "sparkline": [
-            449743
+            449745
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 449743
+              "stars_total": 449745
             }
           ],
           "newcomer": false,
@@ -9769,7 +9769,7 @@
           ],
           "owner_login": "sindresorhus",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
-          "qa_reason": "周增 449743 Star、存在异常增长、最近 20 天有代码推送"
+          "qa_reason": "周增 449745 Star、存在异常增长、最近 20 天有代码推送"
         },
         {
           "full_name": "EbookFoundation/free-programming-books",
@@ -9777,14 +9777,14 @@
           "html_url": "https://github.com/EbookFoundation/free-programming-books",
           "description": ":books: Freely available programming books",
           "language": "Python",
-          "stars_total": 384682,
-          "weekly_stars": 384682,
+          "stars_total": 384683,
+          "weekly_stars": 384683,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.2,
           "created_at": "2013-10-11T06:50:37Z",
-          "updated_at": "2026-03-29T08:33:49Z",
+          "updated_at": "2026-03-29T08:41:23Z",
           "pushed_at": "2026-03-24T15:26:23Z",
           "open_issues_count": 87,
           "watchers_total": 9786,
@@ -9810,12 +9810,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384682
+            384683
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384682
+              "stars_total": 384683
             }
           ],
           "newcomer": false,
@@ -9840,7 +9840,7 @@
           ],
           "owner_login": "EbookFoundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=4",
-          "qa_reason": "周增 384682 Star、存在异常增长、最近 4 天有代码推送"
+          "qa_reason": "周增 384683 Star、存在异常增长、最近 4 天有代码推送"
         },
         {
           "full_name": "openclaw/openclaw",
@@ -9848,18 +9848,18 @@
           "html_url": "https://github.com/openclaw/openclaw",
           "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
           "language": "TypeScript",
-          "stars_total": 339834,
-          "weekly_stars": 339834,
+          "stars_total": 339835,
+          "weekly_stars": 339835,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.1,
           "created_at": "2025-11-24T10:16:47Z",
-          "updated_at": "2026-03-29T08:37:10Z",
-          "pushed_at": "2026-03-29T08:36:41Z",
-          "open_issues_count": 16237,
+          "updated_at": "2026-03-29T08:44:33Z",
+          "pushed_at": "2026-03-29T08:42:05Z",
+          "open_issues_count": 16239,
           "watchers_total": 1681,
-          "forks_total": 66977,
+          "forks_total": 66981,
           "license_name": "MIT",
           "homepage": "https://openclaw.ai",
           "matched_topics": [],
@@ -9883,12 +9883,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg\"> <img src=\"https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg\" alt=\"OpenClaw\" width=\"500\"> </picture> </p> <p align=\"center\"> <strong>EXFOLIATE! EXFOLIATE!</strong> </p> <p align=\"center\"> <a href=\"",
           "sparkline": [
-            339834
+            339835
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 339834
+              "stars_total": 339835
             }
           ],
           "newcomer": false,
@@ -9913,7 +9913,7 @@
           ],
           "owner_login": "openclaw",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/252820863?v=4",
-          "qa_reason": "周增 339834 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 339835 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "donnemartin/system-design-primer",
@@ -10017,7 +10017,7 @@
           "pushed_at": "2026-03-26T08:13:42Z",
           "open_issues_count": 38,
           "watchers_total": 6871,
-          "forks_total": 43866,
+          "forks_total": 43865,
           "license_name": "NOASSERTION",
           "homepage": "https://roadmap.sh",
           "matched_topics": [],
@@ -10112,7 +10112,7 @@
           "pushed_at": "2026-03-29T01:18:21Z",
           "open_issues_count": 1184,
           "watchers_total": 6668,
-          "forks_total": 50872,
+          "forks_total": 50871,
           "license_name": "MIT",
           "homepage": "https://react.dev",
           "matched_topics": [],
@@ -10172,14 +10172,14 @@
           "html_url": "https://github.com/vinta/awesome-python",
           "description": "An opinionated list of Python frameworks, libraries, tools, and resources.",
           "language": "Python",
-          "stars_total": 289505,
-          "weekly_stars": 289505,
+          "stars_total": 289508,
+          "weekly_stars": 289508,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 82.3,
           "created_at": "2014-06-27T21:00:06Z",
-          "updated_at": "2026-03-29T08:37:10Z",
+          "updated_at": "2026-03-29T08:43:18Z",
           "pushed_at": "2026-03-29T07:23:32Z",
           "open_issues_count": 18,
           "watchers_total": 6096,
@@ -10205,12 +10205,12 @@
           ],
           "readme_excerpt": "An opinionated list of Python frameworks, libraries, tools, and resources. > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md). **AI & ML** - [AI and Agents](#ai-and-agents) - [Deep Learning](#deep-learning) - [Machine Learning](#machine-learning) - [Natural Language Processing](#natural-language-processing) - [Computer Vision](#computer-vision",
           "sparkline": [
-            289505
+            289508
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 289505
+              "stars_total": 289508
             }
           ],
           "newcomer": false,
@@ -10235,7 +10235,7 @@
           ],
           "owner_login": "vinta",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/652070?v=4",
-          "qa_reason": "周增 289505 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 289508 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "TheAlgorithms/Python",
@@ -10250,7 +10250,7 @@
           "growth_rate": 1.0,
           "heat_score": 81.0,
           "created_at": "2016-07-16T09:44:01Z",
-          "updated_at": "2026-03-29T07:26:57Z",
+          "updated_at": "2026-03-29T08:42:43Z",
           "pushed_at": "2026-03-27T22:00:39Z",
           "open_issues_count": 907,
           "watchers_total": 5961,
@@ -10415,14 +10415,14 @@
           "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
           "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
           "language": "Unknown",
-          "stars_total": 282644,
-          "weekly_stars": 282644,
+          "stars_total": 282648,
+          "weekly_stars": 282648,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 79.8,
           "created_at": "2015-06-01T02:33:17Z",
-          "updated_at": "2026-03-29T08:37:13Z",
+          "updated_at": "2026-03-29T08:43:22Z",
           "pushed_at": "2026-03-25T15:20:34Z",
           "open_issues_count": 0,
           "watchers_total": 3128,
@@ -10452,12 +10452,12 @@
           ],
           "readme_excerpt": "[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome",
           "sparkline": [
-            282644
+            282648
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 282644
+              "stars_total": 282648
             }
           ],
           "newcomer": false,
@@ -10482,7 +10482,7 @@
           ],
           "owner_login": "awesome-selfhosted",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/24270415?v=4",
-          "qa_reason": "周增 282644 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 282648 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "tensorflow/tensorflow",
@@ -10565,14 +10565,14 @@
           "html_url": "https://github.com/ohmyzsh/ohmyzsh",
           "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
           "language": "Shell",
-          "stars_total": 185706,
-          "weekly_stars": 185706,
+          "stars_total": 185707,
+          "weekly_stars": 185707,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.9,
           "created_at": "2009-08-28T18:15:37Z",
-          "updated_at": "2026-03-29T08:29:43Z",
+          "updated_at": "2026-03-29T08:40:12Z",
           "pushed_at": "2026-03-29T06:02:30Z",
           "open_issues_count": 527,
           "watchers_total": 2606,
@@ -10616,12 +10616,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img src=\"https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png\" alt=\"Oh My Zsh\"></p> Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration. Sounds boring. Let's try again. **Oh My Zsh will not make you a 10x developer...but you may feel like one.** Once installed, your terminal shell will become the talk of the town _or your money back!_",
           "sparkline": [
-            185706
+            185707
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 185706
+              "stars_total": 185707
             }
           ],
           "newcomer": false,
@@ -10646,7 +10646,7 @@
           ],
           "owner_login": "ohmyzsh",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/22552083?v=4",
-          "qa_reason": "周增 185706 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 185707 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "microsoft/vscode",
@@ -10654,18 +10654,18 @@
           "html_url": "https://github.com/microsoft/vscode",
           "description": "Visual Studio Code",
           "language": "TypeScript",
-          "stars_total": 183158,
-          "weekly_stars": 183158,
+          "stars_total": 183159,
+          "weekly_stars": 183159,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.7,
           "created_at": "2015-09-03T20:23:38Z",
-          "updated_at": "2026-03-29T08:31:12Z",
+          "updated_at": "2026-03-29T08:43:16Z",
           "pushed_at": "2026-03-29T08:31:04Z",
           "open_issues_count": 15652,
           "watchers_total": 3403,
-          "forks_total": 38810,
+          "forks_total": 38811,
           "license_name": "MIT",
           "homepage": "https://code.visualstudio.com",
           "matched_topics": [],
@@ -10685,12 +10685,12 @@
           ],
           "readme_excerpt": "[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug) [![Gitter](https://img.shields.io/badge/chat-o",
           "sparkline": [
-            183158
+            183159
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 183158
+              "stars_total": 183159
             }
           ],
           "newcomer": false,
@@ -10715,7 +10715,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "周增 183158 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 183159 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "Significant-Gravitas/AutoGPT",
@@ -10806,18 +10806,18 @@
           "html_url": "https://github.com/n8n-io/n8n",
           "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
           "language": "TypeScript",
-          "stars_total": 181540,
-          "weekly_stars": 181540,
+          "stars_total": 181542,
+          "weekly_stars": 181542,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.6,
           "created_at": "2019-06-22T09:24:21Z",
-          "updated_at": "2026-03-29T08:28:45Z",
+          "updated_at": "2026-03-29T08:41:49Z",
           "pushed_at": "2026-03-29T02:25:27Z",
           "open_issues_count": 1430,
           "watchers_total": 1059,
-          "forks_total": 56268,
+          "forks_total": 56269,
           "license_name": "NOASSERTION",
           "homepage": "https://n8n.io",
           "matched_topics": [],
@@ -10867,12 +10867,12 @@
           ],
           "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a fair-code license, n8n lets you build powerful automations while maintaining full control over your data and deployments. ![n8n.io",
           "sparkline": [
-            181540
+            181542
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 181540
+              "stars_total": 181542
             }
           ],
           "newcomer": false,
@@ -10897,7 +10897,7 @@
           ],
           "owner_login": "n8n-io",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/45487711?v=4",
-          "qa_reason": "周增 181540 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 181542 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "flutter/flutter",
@@ -10905,14 +10905,14 @@
           "html_url": "https://github.com/flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
-          "stars_total": 175753,
-          "weekly_stars": 175753,
+          "stars_total": 175752,
+          "weekly_stars": 175752,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 78.2,
           "created_at": "2015-03-06T22:54:58Z",
-          "updated_at": "2026-03-29T08:19:03Z",
+          "updated_at": "2026-03-29T08:40:20Z",
           "pushed_at": "2026-03-29T04:18:11Z",
           "open_issues_count": 12514,
           "watchers_total": 3463,
@@ -10964,12 +10964,12 @@
           ],
           "readme_excerpt": "<a href=\"https://flutter.dev/\"> <h1 align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png\"> <img alt=\"Flutter\" src=\"https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png\"> </picture> </h1> </a> [![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](",
           "sparkline": [
-            175753
+            175752
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 175753
+              "stars_total": 175752
             }
           ],
           "newcomer": false,
@@ -10994,7 +10994,7 @@
           ],
           "owner_login": "flutter",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14101776?v=4",
-          "qa_reason": "周增 175753 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 175752 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "twbs/bootstrap",
@@ -11231,7 +11231,7 @@
           "updated_at": "2026-03-29T08:27:43Z",
           "pushed_at": "2026-03-28T10:24:13Z",
           "open_issues_count": 2319,
-          "watchers_total": 1194,
+          "watchers_total": 1195,
           "forks_total": 32660,
           "license_name": "Apache-2.0",
           "homepage": "https://huggingface.co/transformers",
@@ -11318,14 +11318,14 @@
           "html_url": "https://github.com/avelino/awesome-go",
           "description": "A curated list of awesome Go frameworks, libraries and software",
           "language": "Go",
-          "stars_total": 168520,
-          "weekly_stars": 168520,
+          "stars_total": 168523,
+          "weekly_stars": 168523,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 76.7,
           "created_at": "2014-07-06T13:42:15Z",
-          "updated_at": "2026-03-29T08:37:20Z",
+          "updated_at": "2026-03-29T08:43:30Z",
           "pushed_at": "2026-03-26T20:07:28Z",
           "open_issues_count": 171,
           "watchers_total": 2809,
@@ -11351,12 +11351,12 @@
           ],
           "readme_excerpt": "<a href=\"https://awesome-go.com/\"><img align=\"right\" src=\"https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png\" alt=\"awesome-go\" title=\"awesome-go\" /></a> [![Build Status](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom",
           "sparkline": [
-            168520
+            168523
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 168520
+              "stars_total": 168523
             }
           ],
           "newcomer": false,
@@ -11381,7 +11381,7 @@
           ],
           "owner_login": "avelino",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31996?v=4",
-          "qa_reason": "周增 168520 Star、存在异常增长、最近 2 天有代码推送"
+          "qa_reason": "周增 168523 Star、存在异常增长、最近 2 天有代码推送"
         },
         {
           "full_name": "996icu/996.ICU",
@@ -11509,18 +11509,18 @@
           "html_url": "https://github.com/affaan-m/everything-claude-code",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "stars_total": 115351,
-          "weekly_stars": 115351,
+          "stars_total": 115362,
+          "weekly_stars": 115362,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 72.5,
           "created_at": "2026-01-18T00:51:51Z",
-          "updated_at": "2026-03-29T08:38:16Z",
+          "updated_at": "2026-03-29T08:44:46Z",
           "pushed_at": "2026-03-29T04:26:32Z",
           "open_issues_count": 101,
-          "watchers_total": 623,
-          "forks_total": 15014,
+          "watchers_total": 624,
+          "forks_total": 15015,
           "license_name": "MIT",
           "homepage": "https://ecc.tools",
           "matched_topics": [],
@@ -11546,12 +11546,12 @@
           ],
           "readme_excerpt": "**Language:** English | [Português (Brasil)](docs/pt-BR/README.md) | [简体中文](README.zh-CN.md) | [繁體中文](docs/zh-TW/README.md) | [日本語](docs/ja-JP/README.md) | [한국어](docs/ko-KR/README.md) | [Türkçe](docs/tr/README.md) [![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/affaan",
           "sparkline": [
-            115351
+            115362
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 115351
+              "stars_total": 115362
             }
           ],
           "newcomer": true,
@@ -11576,7 +11576,7 @@
           ],
           "owner_login": "affaan-m",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4",
-          "qa_reason": "周增 115351 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 115362 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "RKiding/Awesome-finance-skills",
@@ -11584,14 +11584,14 @@
           "html_url": "https://github.com/RKiding/Awesome-finance-skills",
           "description": "A collection of Awesome Finance Agent Skills for free and easy to start | 一系列开源免费的金融分析Agent Skills",
           "language": "Python",
-          "stars_total": 1261,
-          "weekly_stars": 1261,
+          "stars_total": 1262,
+          "weekly_stars": 1262,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 49.2,
           "created_at": "2026-01-31T06:04:45Z",
-          "updated_at": "2026-03-29T08:23:45Z",
+          "updated_at": "2026-03-29T08:46:45Z",
           "pushed_at": "2026-03-29T05:03:47Z",
           "open_issues_count": 0,
           "watchers_total": 5,
@@ -11615,12 +11615,12 @@
           ],
           "readme_excerpt": "> **Transform your AI agent into a Wall Street analyst in seconds.** > > A plug-and-play skill collection that empowers LLMs with **real-time news**, **stock data**, **sentiment analysis**, **logic visualization**, and **market prediction** capabilities. > > 🚀 **New:** [DeepEar](https://github.com/HKUSTDial/DeepEar) Live Demo (Free Lite Version) is now online: [https://deepear.vercel.app/](https://deepear.vercel.app/",
           "sparkline": [
-            1261
+            1262
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 1261
+              "stars_total": 1262
             }
           ],
           "newcomer": true,
@@ -11645,7 +11645,7 @@
           ],
           "owner_login": "RKiding",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/85390760?v=4",
-          "qa_reason": "周增 1261 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 1262 Star、近 90 天创建、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "polymarket-dev/Polymarket-Arbitrage-Bot",
@@ -11660,10 +11660,10 @@
           "growth_rate": 1.0,
           "heat_score": 43.8,
           "created_at": "2026-03-25T19:14:42Z",
-          "updated_at": "2026-03-29T08:31:39Z",
+          "updated_at": "2026-03-29T08:47:39Z",
           "pushed_at": "2026-03-25T19:27:09Z",
           "open_issues_count": 0,
-          "watchers_total": 247,
+          "watchers_total": 249,
           "forks_total": 773,
           "license_name": "N/A",
           "homepage": "",
@@ -12813,14 +12813,14 @@
           "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
           "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
           "language": "TypeScript",
-          "stars_total": 438969,
-          "weekly_stars": 438969,
+          "stars_total": 438971,
+          "weekly_stars": 438971,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 96.9,
           "created_at": "2014-12-24T17:49:19Z",
-          "updated_at": "2026-03-29T08:36:32Z",
+          "updated_at": "2026-03-29T08:41:34Z",
           "pushed_at": "2026-03-28T15:32:18Z",
           "open_issues_count": 229,
           "watchers_total": 8531,
@@ -12866,12 +12866,12 @@
           ],
           "readme_excerpt": "[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/) [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/) [![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay) [![LFX Active Contri",
           "sparkline": [
-            438969
+            438971
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 438969
+              "stars_total": 438971
             }
           ],
           "newcomer": false,
@@ -12896,7 +12896,7 @@
           ],
           "owner_login": "freeCodeCamp",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/9892522?v=4",
-          "qa_reason": "周增 438969 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 438971 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "EbookFoundation/free-programming-books",
@@ -12904,14 +12904,14 @@
           "html_url": "https://github.com/EbookFoundation/free-programming-books",
           "description": ":books: Freely available programming books",
           "language": "Python",
-          "stars_total": 384682,
-          "weekly_stars": 384682,
+          "stars_total": 384683,
+          "weekly_stars": 384683,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 90.2,
           "created_at": "2013-10-11T06:50:37Z",
-          "updated_at": "2026-03-29T08:33:49Z",
+          "updated_at": "2026-03-29T08:41:23Z",
           "pushed_at": "2026-03-24T15:26:23Z",
           "open_issues_count": 87,
           "watchers_total": 9786,
@@ -12937,12 +12937,12 @@
           ],
           "readme_excerpt": "<div align=\"center\" markdown=\"1\"> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160; [![License: CC BY 4.0](https://img.shields.io/github/license/EbookFoundation/free-programming-books)](https://creativecommons.org/licenses/by/4.0/)&#160; [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfe",
           "sparkline": [
-            384682
+            384683
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 384682
+              "stars_total": 384683
             }
           ],
           "newcomer": false,
@@ -12967,7 +12967,7 @@
           ],
           "owner_login": "EbookFoundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=4",
-          "qa_reason": "周增 384682 Star、存在异常增长、最近 4 天有代码推送"
+          "qa_reason": "周增 384683 Star、存在异常增长、最近 4 天有代码推送"
         },
         {
           "full_name": "TheAlgorithms/Python",
@@ -12982,7 +12982,7 @@
           "growth_rate": 1.0,
           "heat_score": 81.0,
           "created_at": "2016-07-16T09:44:01Z",
-          "updated_at": "2026-03-29T07:26:57Z",
+          "updated_at": "2026-03-29T08:42:43Z",
           "pushed_at": "2026-03-27T22:00:39Z",
           "open_issues_count": 907,
           "watchers_total": 5961,
@@ -13075,7 +13075,7 @@
           "pushed_at": "2026-02-15T04:36:44Z",
           "open_issues_count": 2,
           "watchers_total": 5765,
-          "forks_total": 33608,
+          "forks_total": 33607,
           "license_name": "NOASSERTION",
           "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
           "matched_topics": [
@@ -13162,7 +13162,7 @@
           "pushed_at": "2026-03-29T01:12:03Z",
           "open_issues_count": 5,
           "watchers_total": 2593,
-          "forks_total": 12469,
+          "forks_total": 12468,
           "license_name": "CC-BY-4.0",
           "homepage": "https://30secondsofcode.org/",
           "matched_topics": [
@@ -15360,8 +15360,8 @@
           "html_url": "https://github.com/gsantner/markor",
           "description": "Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..",
           "language": "Java",
-          "stars_total": 5335,
-          "weekly_stars": 5335,
+          "stars_total": 5336,
+          "weekly_stars": 5336,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -15423,12 +15423,12 @@
           ],
           "readme_excerpt": "[![GitHub releases](https://img.shields.io/github/tag/gsantner/markor.svg)](https://github.com/gsantner/markor/releases) [![GitHub downloads](https://img.shields.io/github/downloads/gsantner/markor/total.svg?logo=github&logoColor=lime)](https://github.com/gsantner/markor/releases) [![Translate on Crowdin](https://img.shields.io/badge/translate-crowdin-green.svg)](https://crowdin.com/project/markor) [![Community Discu",
           "sparkline": [
-            5335
+            5336
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 5335
+              "stars_total": 5336
             }
           ],
           "newcomer": false,
@@ -15453,7 +15453,7 @@
           ],
           "owner_login": "gsantner",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6735650?v=4",
-          "qa_reason": "周增 5335 Star、存在异常增长、最近 4 天有代码推送"
+          "qa_reason": "周增 5336 Star、存在异常增长、最近 4 天有代码推送"
         },
         {
           "full_name": "JuliaPluto/Pluto.jl",
@@ -15527,7 +15527,7 @@
             {
               "full_name": "particify/arsnova",
               "html_url": "https://github.com/particify/arsnova",
-              "heat_score": 29.5
+              "heat_score": 29.3
             }
           ],
           "owner_login": "JuliaPluto",
@@ -17271,14 +17271,14 @@
           "html_url": "https://github.com/K-Dense-AI/claude-scientific-skills",
           "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
           "language": "Python",
-          "stars_total": 16593,
-          "weekly_stars": 16593,
+          "stars_total": 16594,
+          "weekly_stars": 16594,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 56.7,
           "created_at": "2025-10-19T20:54:15Z",
-          "updated_at": "2026-03-29T08:23:27Z",
+          "updated_at": "2026-03-29T08:42:20Z",
           "pushed_at": "2026-03-25T21:40:33Z",
           "open_issues_count": 23,
           "watchers_total": 104,
@@ -17328,12 +17328,12 @@
           ],
           "readme_excerpt": "> **New: [K-Dense BYOK](https://github.com/K-Dense-AI/k-dense-byok)** — A free, open-source AI co-scientist that runs on your desktop, powered by Claude Scientific Skills. Bring your own API keys, pick from 40+ models, and get a full research workspace with web search, file handling, 250+ scientific databases, and access to all 170+ skills in this repo. Your data stays on your computer, and you can optionally scale t",
           "sparkline": [
-            16593
+            16594
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 16593
+              "stars_total": 16594
             }
           ],
           "newcomer": false,
@@ -17358,7 +17358,7 @@
           ],
           "owner_login": "K-Dense-AI",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/238572432?v=4",
-          "qa_reason": "周增 16593 Star、存在异常增长、最近 3 天有代码推送"
+          "qa_reason": "周增 16594 Star、存在异常增长、最近 3 天有代码推送"
         },
         {
           "full_name": "kmario23/deep-learning-drizzle",
@@ -18401,14 +18401,14 @@
           "html_url": "https://github.com/sokrypton/ColabFold",
           "description": "Making Protein folding accessible to all!",
           "language": "Jupyter Notebook",
-          "stars_total": 2694,
-          "weekly_stars": 2694,
+          "stars_total": 2695,
+          "weekly_stars": 2695,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 52.7,
           "created_at": "2021-07-19T23:24:37Z",
-          "updated_at": "2026-03-28T16:50:17Z",
+          "updated_at": "2026-03-29T08:41:38Z",
           "pushed_at": "2026-03-17T06:52:32Z",
           "open_issues_count": 391,
           "watchers_total": 53,
@@ -18432,12 +18432,12 @@
           ],
           "readme_excerpt": "For details of what was changed in v1.6.1, see [change log](https://github.com/sokrypton/ColabFold/wiki/v1.6.1)! <p align=\"center\"><img src=\"https://github.com/sokrypton/ColabFold/raw/main/.github/ColabFold_Marv_Logo.png\" height=\"250\"/></p> | Notebooks                                                                                                                                        | monomers | complexes | mmseqs2",
           "sparkline": [
-            2694
+            2695
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 2694
+              "stars_total": 2695
             }
           ],
           "newcomer": false,
@@ -18462,7 +18462,7 @@
           ],
           "owner_login": "sokrypton",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/4187522?v=4",
-          "qa_reason": "周增 2694 Star、存在异常增长、最近 12 天有代码推送"
+          "qa_reason": "周增 2695 Star、存在异常增长、最近 12 天有代码推送"
         },
         {
           "full_name": "fastenhealth/fasten-onprem",
@@ -18698,7 +18698,7 @@
           "pushed_at": "2024-09-12T13:11:08Z",
           "open_issues_count": 2,
           "watchers_total": 65,
-          "forks_total": 441,
+          "forks_total": 442,
           "license_name": "N/A",
           "homepage": "",
           "matched_topics": [
@@ -18752,14 +18752,14 @@
           "html_url": "https://github.com/scverse/scanpy",
           "description": "Single-cell analysis in Python. Scales to >100M cells.",
           "language": "Python",
-          "stars_total": 2394,
-          "weekly_stars": 2394,
+          "stars_total": 2395,
+          "weekly_stars": 2395,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 55.5,
           "created_at": "2017-01-29T11:31:11Z",
-          "updated_at": "2026-03-28T12:29:47Z",
+          "updated_at": "2026-03-29T08:41:56Z",
           "pushed_at": "2026-03-27T16:49:23Z",
           "open_issues_count": 559,
           "watchers_total": 50,
@@ -18793,12 +18793,12 @@
           ],
           "readme_excerpt": "[![Stars](https://img.shields.io/github/stars/scverse/scanpy?style=flat&logo=GitHub&color=yellow)](https://github.com/scverse/scanpy/stargazers) [![PyPI](https://img.shields.io/pypi/v/scanpy)](https://pypi.org/project/scanpy) [![PyPI Downloads](https://img.shields.io/pepy/dt/scanpy?logo=pypi)](https://pepy.tech/project/scanpy) [![Conda Forge](https://img.shields.io/conda/vn/conda-forge/scanpy) ![Conda Forge Downloads",
           "sparkline": [
-            2394
+            2395
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 2394
+              "stars_total": 2395
             }
           ],
           "newcomer": false,
@@ -18823,7 +18823,7 @@
           ],
           "owner_login": "scverse",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/95305807?v=4",
-          "qa_reason": "周增 2394 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 2395 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "Slicer/Slicer",
@@ -19588,14 +19588,14 @@
           "html_url": "https://github.com/allenai/scispacy",
           "description": "A full spaCy pipeline and models for scientific/biomedical documents.",
           "language": "Python",
-          "stars_total": 1936,
-          "weekly_stars": 1936,
+          "stars_total": 1937,
+          "weekly_stars": 1937,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
-          "heat_score": 42.9,
+          "heat_score": 43.6,
           "created_at": "2018-09-24T21:45:52Z",
-          "updated_at": "2026-03-26T12:30:45Z",
+          "updated_at": "2026-03-29T08:42:22Z",
           "pushed_at": "2025-12-04T07:49:16Z",
           "open_issues_count": 40,
           "watchers_total": 46,
@@ -19623,12 +19623,12 @@
           ],
           "readme_excerpt": "<p align=\"center\"><img width=\"50%\" src=\"docs/scispacy-logo.png\" /></p> This repository contains custom pipes and models related to using spaCy for scientific documents. In particular, there is a custom tokenizer that adds tokenization rules on top of spaCy's rule-based tokenizer, a POS tagger and syntactic parser trained on biomedical data and an entity span detection model. Separately, there are also NER models for",
           "sparkline": [
-            1936
+            1937
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 1936
+              "stars_total": 1937
             }
           ],
           "newcomer": false,
@@ -19653,7 +19653,7 @@
           ],
           "owner_login": "allenai",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/5667695?v=4",
-          "qa_reason": "周增 1936 Star、存在异常增长、最近 115 天有代码推送"
+          "qa_reason": "周增 1937 Star、存在异常增长、最近 115 天有代码推送"
         },
         {
           "full_name": "broadinstitute/gatk",
@@ -21292,8 +21292,8 @@
           "html_url": "https://github.com/ethereum/go-ethereum",
           "description": "Go implementation of the Ethereum protocol",
           "language": "Go",
-          "stars_total": 50968,
-          "weekly_stars": 50968,
+          "stars_total": 50967,
+          "weekly_stars": 50967,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -21325,12 +21325,12 @@
           ],
           "readme_excerpt": "Golang execution layer implementation of the Ethereum protocol. [![API Reference]( https://pkg.go.dev/badge/github.com/ethereum/go-ethereum )](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc) [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum) [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch",
           "sparkline": [
-            50968
+            50967
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 50968
+              "stars_total": 50967
             }
           ],
           "newcomer": false,
@@ -21355,7 +21355,7 @@
           ],
           "owner_login": "ethereum",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6250754?v=4",
-          "qa_reason": "周增 50968 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 50967 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "microsoft/qlib",
@@ -21363,8 +21363,8 @@
           "html_url": "https://github.com/microsoft/qlib",
           "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
           "language": "Python",
-          "stars_total": 39460,
-          "weekly_stars": 39460,
+          "stars_total": 39461,
+          "weekly_stars": 39461,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -21422,12 +21422,12 @@
           ],
           "readme_excerpt": "[![Python Versions](https://img.shields.io/pypi/pyversions/pyqlib.svg?logo=python&logoColor=white)](https://pypi.org/project/pyqlib/#files) [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/pyqlib/#files) [![PypI Versions](https://img.shields.io/pypi/v/pyqlib)](https://pypi.org/project/pyqlib/#history) [![Upload Python Package](https://github.c",
           "sparkline": [
-            39460
+            39461
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 39460
+              "stars_total": 39461
             }
           ],
           "newcomer": false,
@@ -21452,7 +21452,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "周增 39460 Star、存在异常增长、最近 18 天有代码推送"
+          "qa_reason": "周增 39461 Star、存在异常增长、最近 18 天有代码推送"
         },
         {
           "full_name": "vnpy/vnpy",
@@ -25299,14 +25299,14 @@
           "html_url": "https://github.com/f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
           "language": "HTML",
-          "stars_total": 154527,
-          "weekly_stars": 154527,
+          "stars_total": 154528,
+          "weekly_stars": 154528,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 73.1,
           "created_at": "2022-12-05T13:54:13Z",
-          "updated_at": "2026-03-29T08:26:29Z",
+          "updated_at": "2026-03-29T08:39:29Z",
           "pushed_at": "2026-03-29T04:03:04Z",
           "open_issues_count": 39,
           "watchers_total": 1608,
@@ -25358,12 +25358,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://prompts.chat\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://prompts.chat/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://prompts.chat/logo.svg\"> <img height=\"60\" alt=\"prompts.chat\" src=\"https://prompts.chat/logo.svg\"> </picture> <br> prompts.chat </a> </h1> <p align=\"center\"> <strong>The world's largest open-source prompt lib",
           "sparkline": [
-            154527
+            154528
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 154527
+              "stars_total": 154528
             }
           ],
           "newcomer": false,
@@ -25388,7 +25388,7 @@
           ],
           "owner_login": "f",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/196477?v=4",
-          "qa_reason": "周增 154527 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 154528 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "rasbt/LLMs-from-scratch",
@@ -25489,18 +25489,18 @@
           "html_url": "https://github.com/hacksider/Deep-Live-Cam",
           "description": "real time face swap and one-click video deepfake with only a single image",
           "language": "Python",
-          "stars_total": 84645,
-          "weekly_stars": 84645,
+          "stars_total": 84652,
+          "weekly_stars": 84652,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 70.0,
           "created_at": "2023-09-24T13:19:31Z",
-          "updated_at": "2026-03-29T08:40:12Z",
+          "updated_at": "2026-03-29T08:49:24Z",
           "pushed_at": "2026-03-28T20:54:34Z",
           "open_issues_count": 106,
           "watchers_total": 520,
-          "forks_total": 12357,
+          "forks_total": 12358,
           "license_name": "AGPL-3.0",
           "homepage": "https://deeplivecam.net/",
           "matched_topics": [
@@ -25548,12 +25548,12 @@
           ],
           "readme_excerpt": "<h1 align=\"center\">Deep-Live-Cam 2.1</h1> <p align=\"center\"> Real-time face swap and video deepfake with a single click and only a single image. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/11395\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/11395\" alt=\"hacksider%2FDeep-Live-Cam | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> <p ali",
           "sparkline": [
-            84645
+            84652
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 84645
+              "stars_total": 84652
             }
           ],
           "newcomer": false,
@@ -25578,7 +25578,7 @@
           ],
           "owner_login": "hacksider",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/1267200?v=4",
-          "qa_reason": "周增 84645 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 84652 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "Developer-Y/cs-video-courses",
@@ -25691,7 +25691,7 @@
           "growth_rate": 1.0,
           "heat_score": 69.6,
           "created_at": "2018-12-24T14:30:48Z",
-          "updated_at": "2026-03-29T08:36:32Z",
+          "updated_at": "2026-03-29T08:48:07Z",
           "pushed_at": "2026-03-29T05:37:58Z",
           "open_issues_count": 207,
           "watchers_total": 1233,
@@ -26024,8 +26024,8 @@
           "html_url": "https://github.com/FlowiseAI/Flowise",
           "description": "Build AI Agents, Visually",
           "language": "TypeScript",
-          "stars_total": 51204,
-          "weekly_stars": 51204,
+          "stars_total": 51205,
+          "weekly_stars": 51205,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -26035,7 +26035,7 @@
           "pushed_at": "2026-03-27T09:01:54Z",
           "open_issues_count": 826,
           "watchers_total": 346,
-          "forks_total": 24000,
+          "forks_total": 23999,
           "license_name": "NOASSERTION",
           "homepage": "https://flowiseai.com",
           "matched_topics": [
@@ -26081,12 +26081,12 @@
           ],
           "readme_excerpt": "<!-- markdownlint-disable MD030 --> <p align=\"center\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_white.svg#gh-light-mode-only\"> <img src=\"https://github.com/FlowiseAI/Flowise/blob/main/images/flowise_dark.svg#gh-dark-mode-only\"> </p> <div align=\"center\"> [![Release Notes](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases) [![Discord](",
           "sparkline": [
-            51204
+            51205
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 51204
+              "stars_total": 51205
             }
           ],
           "newcomer": false,
@@ -26111,7 +26111,7 @@
           ],
           "owner_login": "FlowiseAI",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/128289781?v=4",
-          "qa_reason": "周增 51204 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 51205 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "x64dbg/x64dbg",
@@ -26301,18 +26301,18 @@
           "html_url": "https://github.com/jingyaogong/minimind",
           "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
           "language": "Python",
-          "stars_total": 44423,
-          "weekly_stars": 44423,
+          "stars_total": 44424,
+          "weekly_stars": 44424,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 62.1,
           "created_at": "2024-07-27T04:34:12Z",
-          "updated_at": "2026-03-29T08:41:09Z",
+          "updated_at": "2026-03-29T08:48:06Z",
           "pushed_at": "2026-03-27T13:20:12Z",
           "open_issues_count": 29,
           "watchers_total": 229,
-          "forks_total": 5330,
+          "forks_total": 5331,
           "license_name": "Apache-2.0",
           "homepage": "https://jingyaogong.github.io/minimind",
           "matched_topics": [
@@ -26328,12 +26328,12 @@
           ],
           "readme_excerpt": "<div align=\"center\"> ![logo](./images/logo.png) </div> <div align=\"center\"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind) [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers) [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE) [![GitHub last commit](h",
           "sparkline": [
-            44423
+            44424
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 44423
+              "stars_total": 44424
             }
           ],
           "newcomer": false,
@@ -26358,7 +26358,7 @@
           ],
           "owner_login": "jingyaogong",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/62287848?v=4",
-          "qa_reason": "周增 44423 Star、存在异常增长、最近 1 天有代码推送"
+          "qa_reason": "周增 44424 Star、存在异常增长、最近 1 天有代码推送"
         },
         {
           "full_name": "NaiboWang/EasySpider",
@@ -26745,7 +26745,7 @@
           "growth_rate": 1.0,
           "heat_score": 64.5,
           "created_at": "2024-04-09T10:51:32Z",
-          "updated_at": "2026-03-29T04:48:56Z",
+          "updated_at": "2026-03-29T08:47:44Z",
           "pushed_at": "2026-03-27T12:24:05Z",
           "open_issues_count": 283,
           "watchers_total": 188,
@@ -26922,14 +26922,14 @@
           "html_url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
           "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
           "language": "Unknown",
-          "stars_total": 32537,
-          "weekly_stars": 32537,
+          "stars_total": 32539,
+          "weekly_stars": 32539,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
           "heat_score": 53.1,
           "created_at": "2021-01-02T12:08:37Z",
-          "updated_at": "2026-03-29T08:38:45Z",
+          "updated_at": "2026-03-29T08:44:22Z",
           "pushed_at": "2025-08-01T11:54:09Z",
           "open_issues_count": 61,
           "watchers_total": 674,
@@ -26971,12 +26971,12 @@
           ],
           "readme_excerpt": "***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!** ![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif) Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linke",
           "sparkline": [
-            32537
+            32539
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 32537
+              "stars_total": 32539
             }
           ],
           "newcomer": false,
@@ -27001,7 +27001,7 @@
           ],
           "owner_login": "ashishpatel26",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/3095771?v=4",
-          "qa_reason": "周增 32537 Star、存在异常增长、最近 239 天有代码推送"
+          "qa_reason": "周增 32539 Star、存在异常增长、最近 239 天有代码推送"
         },
         {
           "full_name": "Lightning-AI/pytorch-lightning",
@@ -27430,8 +27430,8 @@
           "html_url": "https://github.com/microsoft/semantic-kernel",
           "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
           "language": "C#",
-          "stars_total": 27584,
-          "weekly_stars": 27584,
+          "stars_total": 27585,
+          "weekly_stars": 27585,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -27463,12 +27463,12 @@
           ],
           "readme_excerpt": "**Build intelligent AI agents and multi-agent systems with this enterprise-ready orchestration framework** [![License: MIT](https://img.shields.io/github/license/microsoft/semantic-kernel)](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE) [![Python package](https://img.shields.io/pypi/v/semantic-kernel)](https://pypi.org/project/semantic-kernel/) [![Nuget package](https://img.shields.io/nuget/vpre/Micr",
           "sparkline": [
-            27584
+            27585
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 27584
+              "stars_total": 27585
             }
           ],
           "newcomer": false,
@@ -27493,7 +27493,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "周增 27584 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 27585 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "simstudioai/sim",
@@ -27598,8 +27598,8 @@
           "html_url": "https://github.com/e2b-dev/awesome-ai-agents",
           "description": "A list of AI autonomous agents",
           "language": "Unknown",
-          "stars_total": 26944,
-          "weekly_stars": 26944,
+          "stars_total": 26945,
+          "weekly_stars": 26945,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -27647,12 +27647,12 @@
           ],
           "readme_excerpt": "<!-- TBD: - Add to visual: - LLM Stack - Promptly - Devon - vortic ai - UFO - GPT Swarm - Eidolon - NexusGPT - Brain Soup - L2MAC Add to readme list: - Codeium - tinybio - Semantix AI Agents - add when they have english version - NoteWizard - only if it's AI agent - TBD test - Postbot (TBD - check more) --> <h1 align=\"center\"> 🔮 Awesome AI Agents <p align=\"center\"> <a href=\"https://discord.gg/U7KEcGErtQ\" target=\"_bla",
           "sparkline": [
-            26944
+            26945
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 26944
+              "stars_total": 26945
             }
           ],
           "newcomer": false,
@@ -27677,7 +27677,7 @@
           ],
           "owner_login": "e2b-dev",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/129434473?v=4",
-          "qa_reason": "周增 26944 Star、存在异常增长、最近 395 天有代码推送"
+          "qa_reason": "周增 26945 Star、存在异常增长、最近 395 天有代码推送"
         },
         {
           "full_name": "invoke-ai/InvokeAI",
@@ -28484,7 +28484,7 @@
           "growth_rate": 1.0,
           "heat_score": 61.7,
           "created_at": "2025-08-05T21:28:30Z",
-          "updated_at": "2026-03-29T08:33:35Z",
+          "updated_at": "2026-03-29T08:46:17Z",
           "pushed_at": "2026-03-29T03:09:35Z",
           "open_issues_count": 83,
           "watchers_total": 123,
@@ -28646,8 +28646,8 @@
           "html_url": "https://github.com/nautechsystems/nautilus_trader",
           "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
           "language": "Rust",
-          "stars_total": 21483,
-          "weekly_stars": 21483,
+          "stars_total": 21484,
+          "weekly_stars": 21484,
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 1.0,
@@ -28695,12 +28695,12 @@
           ],
           "readme_excerpt": "[![codecov](https://codecov.io/gh/nautechsystems/nautilus_trader/branch/master/graph/badge.svg?token=DXO9QQI40H)](https://codecov.io/gh/nautechsystems/nautilus_trader) [![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsystems/nautilus_trader) ![pythons](https://img.shields.io/pypi/pyversions/nautilus_trader) ![pypi-version](https://img.shields.io/pypi/v/nauti",
           "sparkline": [
-            21483
+            21484
           ],
           "history_points": [
             {
               "date": "2026-03-29",
-              "stars_total": 21483
+              "stars_total": 21484
             }
           ],
           "newcomer": false,
@@ -28725,7 +28725,7 @@
           ],
           "owner_login": "nautechsystems",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/33360632?v=4",
-          "qa_reason": "周增 21483 Star、存在异常增长、最近 0 天有代码推送"
+          "qa_reason": "周增 21484 Star、存在异常增长、最近 0 天有代码推送"
         },
         {
           "full_name": "huggingface/datasets",
@@ -29685,8 +29685,8 @@
     }
   },
   "executive_summary": [
-    "本周最热行业是 教育，前 10 名累计新增 1732671 Star。",
-    "增长最快的项目是 codecrafters-io/build-your-own-x，本周新增 484183 Star。",
+    "本周最热行业是 教育，前 10 名累计新增 1732674 Star。",
+    "增长最快的项目是 codecrafters-io/build-your-own-x，本周新增 484188 Star。",
     "本周共有 15 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。",
     "检测到 25 个异常增长项目，说明榜单中存在明显的爆发型仓库。"
   ],
