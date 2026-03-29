@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 18:23:16 CST",
+  "generated_at": "2026-03-29 18:46:09 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -2740,7 +2740,7 @@
             {
               "full_name": "huggingface/transformers",
               "html_url": "https://github.com/huggingface/transformers",
-              "heat_score": 52.0
+              "heat_score": 51.6
             },
             {
               "full_name": "dyad-sh/dyad",
@@ -2930,7 +2930,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 52.0,
+          "heat_score": 51.6,
           "created_at": "2018-10-29T13:56:00Z",
           "updated_at": "2026-03-29T08:27:43Z",
           "pushed_at": "2026-03-28T10:24:13Z",
@@ -3014,7 +3014,7 @@
           ],
           "owner_login": "huggingface",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "DigitalPlatDev/FreeDomain",
@@ -3615,9 +3615,9 @@
               "heat_score": 52.4
             },
             {
-              "full_name": "huggingface/transformers",
-              "html_url": "https://github.com/huggingface/transformers",
-              "heat_score": 52.0
+              "full_name": "langflow-ai/langflow",
+              "html_url": "https://github.com/langflow-ai/langflow",
+              "heat_score": 51.8
             }
           ],
           "owner_login": "ytdl-org",
@@ -7103,9 +7103,9 @@
               "heat_score": 52.4
             },
             {
-              "full_name": "huggingface/transformers",
-              "html_url": "https://github.com/huggingface/transformers",
-              "heat_score": 52.0
+              "full_name": "langflow-ai/langflow",
+              "html_url": "https://github.com/langflow-ai/langflow",
+              "heat_score": 51.8
             }
           ],
           "owner_login": "deepseek-ai",
@@ -8899,7 +8899,7 @@
             {
               "full_name": "huggingface/transformers",
               "html_url": "https://github.com/huggingface/transformers",
-              "heat_score": 52.0
+              "heat_score": 51.6
             },
             {
               "full_name": "dyad-sh/dyad",
@@ -8914,103 +8914,6 @@
           ],
           "owner_login": "ollama",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/151674099?v=4",
-          "qa_reason": "最近 0 天有代码推送"
-        },
-        {
-          "full_name": "huggingface/transformers",
-          "name": "transformers",
-          "html_url": "https://github.com/huggingface/transformers",
-          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-          "language": "Python",
-          "stars_total": 158514,
-          "weekly_stars": 0,
-          "growth_4w": 0,
-          "growth_12w": 0,
-          "growth_rate": 0.0,
-          "heat_score": 52.0,
-          "created_at": "2018-10-29T13:56:00Z",
-          "updated_at": "2026-03-29T08:27:43Z",
-          "pushed_at": "2026-03-28T10:24:13Z",
-          "open_issues_count": 2319,
-          "watchers_total": 1194,
-          "forks_total": 32660,
-          "license_name": "Apache-2.0",
-          "homepage": "https://huggingface.co/transformers",
-          "matched_topics": [],
-          "topics": [
-            "audio",
-            "deep-learning",
-            "deepseek",
-            "gemma",
-            "glm",
-            "hacktoberfest",
-            "llm",
-            "machine-learning",
-            "model-hub",
-            "natural-language-processing",
-            "nlp",
-            "pretrained-models",
-            "python",
-            "pytorch",
-            "pytorch-transformers",
-            "qwen",
-            "speech-recognition",
-            "transformer",
-            "vlm"
-          ],
-          "all_topics": [
-            "audio",
-            "deep-learning",
-            "deepseek",
-            "gemma",
-            "glm",
-            "hacktoberfest",
-            "llm",
-            "machine-learning",
-            "model-hub",
-            "natural-language-processing",
-            "nlp",
-            "pretrained-models",
-            "python",
-            "pytorch",
-            "pytorch-transformers",
-            "qwen",
-            "speech-recognition",
-            "transformer",
-            "vlm"
-          ],
-          "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WA",
-          "sparkline": [
-            158514
-          ],
-          "history_points": [
-            {
-              "date": "2026-03-29",
-              "stars_total": 158514
-            }
-          ],
-          "newcomer": false,
-          "anomaly": false,
-          "section_streak": 2,
-          "related_repos": [
-            {
-              "full_name": "huggingface/datasets",
-              "html_url": "https://github.com/huggingface/datasets",
-              "heat_score": 45.4
-            },
-            {
-              "full_name": "explosion/spaCy",
-              "html_url": "https://github.com/explosion/spaCy",
-              "heat_score": 47.9
-            },
-            {
-              "full_name": "kornia/kornia",
-              "html_url": "https://github.com/kornia/kornia",
-              "heat_score": 43.3
-            }
-          ],
-          "owner_login": "huggingface",
-          "owner_avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4",
           "qa_reason": "最近 0 天有代码推送"
         },
         {
@@ -9170,6 +9073,103 @@
           "owner_login": "vercel",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/14985020?v=4",
           "qa_reason": "最近 0 天有代码推送"
+        },
+        {
+          "full_name": "huggingface/transformers",
+          "name": "transformers",
+          "html_url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars_total": 158514,
+          "weekly_stars": 0,
+          "growth_4w": 0,
+          "growth_12w": 0,
+          "growth_rate": 0.0,
+          "heat_score": 51.6,
+          "created_at": "2018-10-29T13:56:00Z",
+          "updated_at": "2026-03-29T08:27:43Z",
+          "pushed_at": "2026-03-28T10:24:13Z",
+          "open_issues_count": 2319,
+          "watchers_total": 1194,
+          "forks_total": 32660,
+          "license_name": "Apache-2.0",
+          "homepage": "https://huggingface.co/transformers",
+          "matched_topics": [],
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "all_topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WA",
+          "sparkline": [
+            158514
+          ],
+          "history_points": [
+            {
+              "date": "2026-03-29",
+              "stars_total": 158514
+            }
+          ],
+          "newcomer": false,
+          "anomaly": false,
+          "section_streak": 2,
+          "related_repos": [
+            {
+              "full_name": "huggingface/datasets",
+              "html_url": "https://github.com/huggingface/datasets",
+              "heat_score": 45.4
+            },
+            {
+              "full_name": "explosion/spaCy",
+              "html_url": "https://github.com/explosion/spaCy",
+              "heat_score": 47.9
+            },
+            {
+              "full_name": "kornia/kornia",
+              "html_url": "https://github.com/kornia/kornia",
+              "heat_score": 43.3
+            }
+          ],
+          "owner_login": "huggingface",
+          "owner_avatar_url": "https://avatars.githubusercontent.com/u/25720743?v=4",
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "langgenius/dify",
@@ -10000,7 +10000,26 @@
       "change_report": {
         "new_entries": [],
         "dropped_entries": [],
-        "rank_movers": []
+        "rank_movers": [
+          {
+            "full_name": "huggingface/transformers",
+            "current_rank": 15,
+            "previous_rank": 13,
+            "delta": -2
+          },
+          {
+            "full_name": "langflow-ai/langflow",
+            "current_rank": 13,
+            "previous_rank": 14,
+            "delta": 1
+          },
+          {
+            "full_name": "vercel/next.js",
+            "current_rank": 14,
+            "previous_rank": 15,
+            "delta": 1
+          }
+        ]
       }
     },
     "newcomers": {
@@ -18981,7 +19000,7 @@
           ],
           "owner_login": "shardeum",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/98940804?v=4",
-          "qa_reason": "最近 194 天有代码推送"
+          "qa_reason": "最近 195 天有代码推送"
         },
         {
           "full_name": "bigint/hey",
@@ -22771,7 +22790,7 @@
             {
               "full_name": "microsoft/AI-For-Beginners",
               "html_url": "https://github.com/microsoft/AI-For-Beginners",
-              "heat_score": 41.4
+              "heat_score": 41.1
             },
             {
               "full_name": "Significant-Gravitas/AutoGPT",
@@ -23433,7 +23452,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 41.4,
+          "heat_score": 41.1,
           "created_at": "2021-03-03T16:27:36Z",
           "updated_at": "2026-03-29T08:17:47Z",
           "pushed_at": "2026-03-21T10:38:25Z",
@@ -23501,7 +23520,7 @@
           ],
           "owner_login": "microsoft",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
-          "qa_reason": "最近 7 天有代码推送"
+          "qa_reason": "最近 8 天有代码推送"
         },
         {
           "full_name": "jingyaogong/minimind",
@@ -25324,7 +25343,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 46.4,
+          "heat_score": 46.0,
           "created_at": "2017-06-30T10:55:37Z",
           "updated_at": "2026-03-29T04:51:47Z",
           "pushed_at": "2026-03-27T10:25:56Z",
@@ -25412,7 +25431,7 @@
           ],
           "owner_login": "Tencent",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/18461506?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "harvard-edge/cs249r_book",
@@ -26381,7 +26400,7 @@
             {
               "full_name": "Tencent/ncnn",
               "html_url": "https://github.com/Tencent/ncnn",
-              "heat_score": 46.4
+              "heat_score": 46.0
             },
             {
               "full_name": "huggingface/datasets",
@@ -26876,7 +26895,32 @@
     "本周没有检测到有效的周增长数据。",
     "本周共有 0 个近 90 天新项目进入新秀候选池，其中 0 个热度表现突出。"
   ],
-  "weekly_changes": {},
+  "weekly_changes": {
+    "heat": {
+      "new_entries": [],
+      "dropped_entries": [],
+      "rank_movers": [
+        {
+          "full_name": "huggingface/transformers",
+          "current_rank": 15,
+          "previous_rank": 13,
+          "delta": -2
+        },
+        {
+          "full_name": "langflow-ai/langflow",
+          "current_rank": 13,
+          "previous_rank": 14,
+          "delta": 1
+        },
+        {
+          "full_name": "vercel/next.js",
+          "current_rank": 14,
+          "previous_rank": 15,
+          "delta": 1
+        }
+      ]
+    }
+  },
   "qa_examples": [
     "本周 AI 赛道最值得关注的 5 个项目是什么？",
     "教育行业里哪些仓库在持续上榜？",
