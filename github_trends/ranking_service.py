@@ -111,13 +111,28 @@ def build_dashboard(
         "summary_cards": summary_cards,
         "primary_tabs": [
             {
-                "key": "overview",
-                "label": "榜单总览",
-                "secondary": ["global", "weekly", "heat", "newcomers"],
+                "key": "global",
+                "label": "全球",
+                "secondary": ["global"],
+            },
+            {
+                "key": "weekly",
+                "label": "周增长",
+                "secondary": ["weekly"],
+            },
+            {
+                "key": "heat",
+                "label": "热度",
+                "secondary": ["heat"],
+            },
+            {
+                "key": "newcomers",
+                "label": "新秀",
+                "secondary": ["newcomers"],
             },
             {
                 "key": "industries",
-                "label": "行业观察",
+                "label": "行业",
                 "secondary": [f"industry.{item.key}" for item in industries],
             },
         ],
@@ -588,6 +603,14 @@ def _build_summary_cards(repos: dict[str, dict[str, Any]], sections: dict[str, d
     )
     fastest_repo = sections["weekly"]["repos"][0] if sections["weekly"]["repos"] else None
     newcomer_count = sum(1 for repo in repos.values() if repo["newcomer"] and repo["weekly_stars"] > 0)
+    anomaly_count = sum(1 for repo in repos.values() if repo["anomaly"])
+    new_entry_count = len(
+        {
+            item["full_name"]
+            for report in [section["change_report"] for section in sections.values()]
+            for item in report["new_entries"]
+        }
+    )
     return [
         {
             "label": "本周最热行业",
@@ -603,23 +626,27 @@ def _build_summary_cards(repos: dict[str, dict[str, Any]], sections: dict[str, d
         },
         {
             "label": "新上榜数量",
-            "value": str(
-                len(
-                    {
-                        item["full_name"]
-                        for report in [section["change_report"] for section in sections.values()]
-                        for item in report["new_entries"]
-                    }
-                )
-            ),
+            "value": str(new_entry_count),
             "description": "统计所有榜单中的新进入项目",
-            "tone": "slate",
+            "tone": "sky",
+        },
+        {
+            "label": "异常项目数",
+            "value": str(anomaly_count),
+            "description": "周增长明显偏离历史中枢",
+            "tone": "coral",
+        },
+        {
+            "label": "新秀项目数",
+            "value": str(newcomer_count),
+            "description": "近 90 天创建且本周仍在上涨",
+            "tone": "sky",
         },
         {
             "label": "总监控仓库数",
             "value": str(len(repos)),
             "description": "当前周用于分析与推荐的仓库池",
-            "tone": "sky",
+            "tone": "slate",
         },
     ]
 
