@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 21:31:05 CST",
+  "generated_at": "2026-03-29 22:09:01 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -1428,7 +1428,7 @@
           ],
           "owner_login": "trimstray",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/31127917?v=4",
-          "qa_reason": "最近 494 天有代码推送"
+          "qa_reason": "最近 495 天有代码推送"
         },
         {
           "full_name": "vuejs/vue",
@@ -3353,7 +3353,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 45.8,
+          "heat_score": 45.7,
           "created_at": "2012-11-01T23:13:50Z",
           "updated_at": "2026-03-29T07:37:40Z",
           "pushed_at": "2026-02-24T14:05:16Z",
@@ -3427,7 +3427,7 @@
           ],
           "owner_login": "airbnb",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/698437?v=4",
-          "qa_reason": "最近 32 天有代码推送"
+          "qa_reason": "最近 33 天有代码推送"
         },
         {
           "full_name": "521xueweihan/HelloGitHub",
@@ -6679,7 +6679,7 @@
             {
               "full_name": "airbnb/javascript",
               "html_url": "https://github.com/airbnb/javascript",
-              "heat_score": 45.8
+              "heat_score": 45.7
             },
             {
               "full_name": "leemonade/leemons",
@@ -15079,7 +15079,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 32.2,
+          "heat_score": 32.1,
           "created_at": "2014-08-27T00:59:21Z",
           "updated_at": "2026-03-29T07:52:03Z",
           "pushed_at": "2026-02-28T13:48:14Z",
@@ -15133,7 +15133,7 @@
           ],
           "owner_login": "danielecook",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/1536935?v=4",
-          "qa_reason": "最近 28 天有代码推送"
+          "qa_reason": "最近 29 天有代码推送"
         },
         {
           "full_name": "OpenHealthForAll/open-health",
@@ -15453,7 +15453,7 @@
             {
               "full_name": "MedMNIST/MedMNIST",
               "html_url": "https://github.com/MedMNIST/MedMNIST",
-              "heat_score": 24.8
+              "heat_score": 24.4
             },
             {
               "full_name": "FreedomIntelligence/Awesome-AI4Med",
@@ -17141,8 +17141,8 @@
               "heat_score": 26.4
             },
             {
-              "full_name": "MedMNIST/MedMNIST",
-              "html_url": "https://github.com/MedMNIST/MedMNIST",
+              "full_name": "jeya-maria-jose/Medical-Transformer",
+              "html_url": "https://github.com/jeya-maria-jose/Medical-Transformer",
               "heat_score": 24.8
             }
           ],
@@ -18134,7 +18134,7 @@
             {
               "full_name": "danielecook/Awesome-Bioinformatics",
               "html_url": "https://github.com/danielecook/Awesome-Bioinformatics",
-              "heat_score": 32.2
+              "heat_score": 32.1
             },
             {
               "full_name": "hsiaoyi0504/awesome-cheminformatics",
@@ -18771,7 +18771,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 44.8,
+          "heat_score": 44.5,
           "created_at": "2021-02-02T10:00:16Z",
           "updated_at": "2026-03-29T06:50:03Z",
           "pushed_at": "2026-03-19T13:48:25Z",
@@ -18837,7 +18837,7 @@
           ],
           "owner_login": "anoma",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/87261362?v=4",
-          "qa_reason": "最近 9 天有代码推送"
+          "qa_reason": "最近 10 天有代码推送"
         },
         {
           "full_name": "linera-io/linera-protocol",
@@ -19201,7 +19201,7 @@
             {
               "full_name": "datahaven-xyz/datahaven",
               "html_url": "https://github.com/datahaven-xyz/datahaven",
-              "heat_score": 39.0
+              "heat_score": 38.5
             },
             {
               "full_name": "monero-project/monero",
@@ -19459,7 +19459,7 @@
             {
               "full_name": "anoma/anoma",
               "html_url": "https://github.com/anoma/anoma",
-              "heat_score": 44.8
+              "heat_score": 44.5
             },
             {
               "full_name": "berty/berty",
@@ -21069,9 +21069,9 @@
               "heat_score": 38.5
             },
             {
-              "full_name": "anoma/anoma",
-              "html_url": "https://github.com/anoma/anoma",
-              "heat_score": 44.8
+              "full_name": "monero-project/monero",
+              "html_url": "https://github.com/monero-project/monero",
+              "heat_score": 44.7
             }
           ],
           "owner_login": "lightningnetwork",
@@ -21259,7 +21259,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 39.0,
+          "heat_score": 38.5,
           "created_at": "2025-03-06T14:35:59Z",
           "updated_at": "2026-03-29T06:49:52Z",
           "pushed_at": "2026-03-27T13:45:22Z",
@@ -21323,7 +21323,7 @@
           ],
           "owner_login": "datahaven-xyz",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/207200851?v=4",
-          "qa_reason": "最近 1 天有代码推送"
+          "qa_reason": "最近 2 天有代码推送"
         },
         {
           "full_name": "IBAX-io/go-ibax",
@@ -21994,7 +21994,7 @@
             {
               "full_name": "qunzhongwang/trading_competition",
               "html_url": "https://github.com/qunzhongwang/trading_competition",
-              "heat_score": 14.7
+              "heat_score": 14.4
             }
           ],
           "owner_login": "crestalnetwork",
@@ -22288,7 +22288,7 @@
             {
               "full_name": "anoma/anoma",
               "html_url": "https://github.com/anoma/anoma",
-              "heat_score": 44.8
+              "heat_score": 44.5
             },
             {
               "full_name": "lightningnetwork/lnd",
@@ -26841,7 +26841,7 @@
             {
               "full_name": "anoma/anoma",
               "html_url": "https://github.com/anoma/anoma",
-              "heat_score": 44.8
+              "heat_score": 44.5
             },
             {
               "full_name": "berty/berty",
