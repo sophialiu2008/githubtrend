@@ -1,6 +1,6 @@
 {
   "title": "GitHub 行业趋势看板 AI",
-  "generated_at": "2026-03-29 17:49:10 CST",
+  "generated_at": "2026-03-29 18:23:16 CST",
   "snapshot_date": "2026-03-29",
   "has_history": true,
   "tracked_repo_count": 679,
@@ -21,7 +21,7 @@
     },
     {
       "label": "新上榜数量",
-      "value": "2",
+      "value": "0",
       "description": "统计所有榜单中的新进入项目",
       "tone": "sky"
     },
@@ -4141,7 +4141,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 40.8,
+          "heat_score": 40.7,
           "created_at": "2020-02-19T09:01:23Z",
           "updated_at": "2026-03-29T08:24:25Z",
           "pushed_at": "2026-02-28T10:07:31Z",
@@ -4203,7 +4203,7 @@
           ],
           "owner_login": "labuladong",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/37220920?v=4",
-          "qa_reason": "最近 28 天有代码推送"
+          "qa_reason": "最近 29 天有代码推送"
         },
         {
           "full_name": "anomalyco/opencode",
@@ -5345,7 +5345,7 @@
             {
               "full_name": "Coinversaa/mcp-server",
               "html_url": "https://github.com/Coinversaa/mcp-server",
-              "heat_score": 15.1
+              "heat_score": 15.0
             }
           ],
           "owner_login": "affaan-m",
@@ -5704,7 +5704,7 @@
             {
               "full_name": "bigint/hey",
               "html_url": "https://github.com/bigint/hey",
-              "heat_score": 37.7
+              "heat_score": 37.5
             },
             {
               "full_name": "CaviraOSS/PageLM",
@@ -6062,7 +6062,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 51.0,
+          "heat_score": 50.5,
           "created_at": "2014-01-04T16:05:36Z",
           "updated_at": "2026-03-29T08:26:15Z",
           "pushed_at": "2026-03-28T10:15:46Z",
@@ -6122,7 +6122,7 @@
           ],
           "owner_login": "godotengine",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/6318500?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "microsoft/TypeScript",
@@ -7043,7 +7043,7 @@
             {
               "full_name": "argotorg/solidity",
               "html_url": "https://github.com/argotorg/solidity",
-              "heat_score": 47.1
+              "heat_score": 46.7
             },
             {
               "full_name": "x64dbg/x64dbg",
@@ -7884,28 +7884,7 @@
       ],
       "change_report": {
         "new_entries": [],
-        "dropped_entries": [
-          {
-            "full_name": "public-apis/public-apis",
-            "previous_rank": 1
-          },
-          {
-            "full_name": "flutter/flutter",
-            "previous_rank": 2
-          },
-          {
-            "full_name": "ytdl-org/youtube-dl",
-            "previous_rank": 3
-          },
-          {
-            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-            "previous_rank": 4
-          },
-          {
-            "full_name": "ethereum/go-ethereum",
-            "previous_rank": 5
-          }
-        ],
+        "dropped_entries": [],
         "rank_movers": []
       }
     },
@@ -9834,7 +9813,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "langgenius/dify",
@@ -9990,7 +9969,7 @@
           ],
           "newcomer": false,
           "anomaly": false,
-          "section_streak": 1,
+          "section_streak": 2,
           "related_repos": [
             {
               "full_name": "linsa-io/books",
@@ -10019,58 +9998,9 @@
         "异常增长标记可帮助识别由热点事件驱动的项目。"
       ],
       "change_report": {
-        "new_entries": [
-          {
-            "full_name": "open-webui/open-webui",
-            "rank": 23
-          },
-          {
-            "full_name": "EbookFoundation/free-programming-books",
-            "rank": 25
-          }
-        ],
-        "dropped_entries": [
-          {
-            "full_name": "ethereum/go-ethereum",
-            "previous_rank": 4
-          },
-          {
-            "full_name": "ytdl-org/youtube-dl",
-            "previous_rank": 5
-          }
-        ],
-        "rank_movers": [
-          {
-            "full_name": "public-apis/public-apis",
-            "current_rank": 24,
-            "previous_rank": 3,
-            "delta": -21
-          },
-          {
-            "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-            "current_rank": 17,
-            "previous_rank": 2,
-            "delta": -15
-          },
-          {
-            "full_name": "flutter/flutter",
-            "current_rank": 10,
-            "previous_rank": 1,
-            "delta": -9
-          },
-          {
-            "full_name": "freeCodeCamp/freeCodeCamp",
-            "current_rank": 1,
-            "previous_rank": 6,
-            "delta": 5
-          },
-          {
-            "full_name": "openclaw/openclaw",
-            "current_rank": 2,
-            "previous_rank": 7,
-            "delta": 5
-          }
-        ]
+        "new_entries": [],
+        "dropped_entries": [],
+        "rank_movers": []
       }
     },
     "newcomers": {
@@ -12215,7 +12145,7 @@
             {
               "full_name": "mortbopet/Ripes",
               "html_url": "https://github.com/mortbopet/Ripes",
-              "heat_score": 33.6
+              "heat_score": 33.5
             },
             {
               "full_name": "krahets/hello-algo",
@@ -12600,7 +12530,7 @@
             {
               "full_name": "mortbopet/Ripes",
               "html_url": "https://github.com/mortbopet/Ripes",
-              "heat_score": 33.6
+              "heat_score": 33.5
             },
             {
               "full_name": "krahets/hello-algo",
@@ -13036,7 +12966,7 @@
           ],
           "owner_login": "algorithmica-org",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/51334463?v=4",
-          "qa_reason": "最近 594 天有代码推送"
+          "qa_reason": "最近 595 天有代码推送"
         },
         {
           "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
@@ -13684,7 +13614,7 @@
             {
               "full_name": "trifectatechfoundation/teach-rs",
               "html_url": "https://github.com/trifectatechfoundation/teach-rs",
-              "heat_score": 34.4
+              "heat_score": 34.2
             },
             {
               "full_name": "mahmoud/awesome-python-applications",
@@ -14040,7 +13970,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 34.4,
+          "heat_score": 34.2,
           "created_at": "2022-10-07T12:08:59Z",
           "updated_at": "2026-03-26T14:32:13Z",
           "pushed_at": "2026-03-20T10:23:05Z",
@@ -14092,7 +14022,7 @@
           ],
           "owner_login": "trifectatechfoundation",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/172280662?v=4",
-          "qa_reason": "最近 8 天有代码推送"
+          "qa_reason": "最近 9 天有代码推送"
         },
         {
           "full_name": "mortbopet/Ripes",
@@ -14105,7 +14035,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 33.6,
+          "heat_score": 33.5,
           "created_at": "2017-10-27T06:06:08Z",
           "updated_at": "2026-03-28T11:56:25Z",
           "pushed_at": "2026-02-18T09:53:08Z",
@@ -14169,7 +14099,7 @@
           ],
           "owner_login": "mortbopet",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/16338943?v=4",
-          "qa_reason": "最近 38 天有代码推送"
+          "qa_reason": "最近 39 天有代码推送"
         },
         {
           "full_name": "ob-f/OpenBot",
@@ -15643,7 +15573,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 30.7,
+          "heat_score": 30.5,
           "created_at": "2018-03-23T07:29:50Z",
           "updated_at": "2026-03-27T10:13:37Z",
           "pushed_at": "2026-03-05T12:56:25Z",
@@ -16054,7 +15984,7 @@
             {
               "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
               "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
-              "heat_score": 30.7
+              "heat_score": 30.5
             },
             {
               "full_name": "linhandev/dataset",
@@ -16726,7 +16656,7 @@
           ],
           "owner_login": "cornerstonejs",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/34072764?v=4",
-          "qa_reason": "最近 751 天有代码推送"
+          "qa_reason": "最近 752 天有代码推送"
         },
         {
           "full_name": "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging",
@@ -16885,7 +16815,7 @@
             {
               "full_name": "tanghaibao/jcvi",
               "html_url": "https://github.com/tanghaibao/jcvi",
-              "heat_score": 29.8
+              "heat_score": 29.7
             },
             {
               "full_name": "samtools/htslib",
@@ -17655,7 +17585,7 @@
             {
               "full_name": "315386775/DeepLearing-Interview-Awesome-2024",
               "html_url": "https://github.com/315386775/DeepLearing-Interview-Awesome-2024",
-              "heat_score": 30.7
+              "heat_score": 30.5
             }
           ],
           "owner_login": "albarqouni",
@@ -17758,7 +17688,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 28.9,
+          "heat_score": 28.6,
           "created_at": "2016-02-28T10:04:40Z",
           "updated_at": "2026-03-27T09:51:51Z",
           "pushed_at": "2026-02-27T13:25:06Z",
@@ -17963,7 +17893,7 @@
             {
               "full_name": "lightaime/deep_gcns_torch",
               "html_url": "https://github.com/lightaime/deep_gcns_torch",
-              "heat_score": 24.0
+              "heat_score": 23.8
             }
           ],
           "owner_login": "sunlabuiuc",
@@ -18813,7 +18743,7 @@
             {
               "full_name": "constverum/Quantdom",
               "html_url": "https://github.com/constverum/Quantdom",
-              "heat_score": 20.9
+              "heat_score": 20.8
             },
             {
               "full_name": "microsoft/qlib",
@@ -19064,7 +18994,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 37.7,
+          "heat_score": 37.5,
           "created_at": "2022-03-19T15:01:46Z",
           "updated_at": "2026-03-28T16:14:45Z",
           "pushed_at": "2026-03-06T10:01:55Z",
@@ -19142,7 +19072,7 @@
           ],
           "owner_login": "bigint",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/69431456?v=4",
-          "qa_reason": "最近 22 天有代码推送"
+          "qa_reason": "最近 23 天有代码推送"
         },
         {
           "full_name": "argotorg/solidity",
@@ -19155,7 +19085,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 47.1,
+          "heat_score": 46.7,
           "created_at": "2015-08-17T12:27:26Z",
           "updated_at": "2026-03-29T05:16:02Z",
           "pushed_at": "2026-03-28T10:11:20Z",
@@ -19219,7 +19149,7 @@
           ],
           "owner_login": "argotorg",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/181838465?v=4",
-          "qa_reason": "最近 0 天有代码推送"
+          "qa_reason": "最近 1 天有代码推送"
         },
         {
           "full_name": "zama-ai/fhevm",
@@ -19352,7 +19282,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             }
           ],
           "owner_login": "bitcoinbook",
@@ -19370,7 +19300,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 40.5,
+          "heat_score": 40.1,
           "created_at": "2016-08-10T15:07:54Z",
           "updated_at": "2026-03-28T19:51:07Z",
           "pushed_at": "2026-03-25T10:03:51Z",
@@ -19442,7 +19372,7 @@
           ],
           "owner_login": "ethereumbook",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/20952070?v=4",
-          "qa_reason": "最近 3 天有代码推送"
+          "qa_reason": "最近 4 天有代码推送"
         },
         {
           "full_name": "amark/gun",
@@ -19539,7 +19469,7 @@
             {
               "full_name": "bigint/hey",
               "html_url": "https://github.com/bigint/hey",
-              "heat_score": 37.7
+              "heat_score": 37.5
             }
           ],
           "owner_login": "amark",
@@ -20220,7 +20150,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             }
           ],
           "owner_login": "AmazingAng",
@@ -20290,7 +20220,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             },
             {
               "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -20463,7 +20393,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             }
           ],
           "owner_login": "OffcierCia",
@@ -20637,7 +20567,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             }
           ],
           "owner_login": "foundry-rs",
@@ -21545,7 +21475,7 @@
           ],
           "owner_login": "kroma-network",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/126645000?v=4",
-          "qa_reason": "最近 484 天有代码推送"
+          "qa_reason": "最近 485 天有代码推送"
         },
         {
           "full_name": "MystenLabs/sui",
@@ -21677,7 +21607,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             },
             {
               "full_name": "OffcierCia/DeFi-Developer-Road-Map",
@@ -21735,7 +21665,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             },
             {
               "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -21903,7 +21833,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             },
             {
               "full_name": "UFund-Me/Qbot",
@@ -22279,7 +22209,7 @@
             {
               "full_name": "bigint/hey",
               "html_url": "https://github.com/bigint/hey",
-              "heat_score": 37.7
+              "heat_score": 37.5
             },
             {
               "full_name": "ethers-io/ethers.js",
@@ -22435,7 +22365,7 @@
             {
               "full_name": "ethereumbook/ethereumbook",
               "html_url": "https://github.com/ethereumbook/ethereumbook",
-              "heat_score": 40.5
+              "heat_score": 40.1
             }
           ],
           "owner_login": "Dapp-Learning-DAO",
@@ -23952,7 +23882,7 @@
           "growth_4w": 0,
           "growth_12w": 0,
           "growth_rate": 0.0,
-          "heat_score": 38.3,
+          "heat_score": 38.0,
           "created_at": "2023-05-18T10:08:02Z",
           "updated_at": "2026-03-28T09:52:36Z",
           "pushed_at": "2024-05-18T17:51:40Z",
@@ -24955,7 +24885,7 @@
           ],
           "owner_login": "e2b-dev",
           "owner_avatar_url": "https://avatars.githubusercontent.com/u/129434473?v=4",
-          "qa_reason": "最近 395 天有代码推送"
+          "qa_reason": "最近 396 天有代码推送"
         },
         {
           "full_name": "invoke-ai/InvokeAI",
@@ -26921,7 +26851,7 @@
             {
               "full_name": "bigint/hey",
               "html_url": "https://github.com/bigint/hey",
-              "heat_score": 37.7
+              "heat_score": 37.5
             }
           ],
           "owner_login": "amark",
@@ -26946,88 +26876,7 @@
     "本周没有检测到有效的周增长数据。",
     "本周共有 0 个近 90 天新项目进入新秀候选池，其中 0 个热度表现突出。"
   ],
-  "weekly_changes": {
-    "weekly": {
-      "new_entries": [],
-      "dropped_entries": [
-        {
-          "full_name": "public-apis/public-apis",
-          "previous_rank": 1
-        },
-        {
-          "full_name": "flutter/flutter",
-          "previous_rank": 2
-        },
-        {
-          "full_name": "ytdl-org/youtube-dl",
-          "previous_rank": 3
-        },
-        {
-          "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "previous_rank": 4
-        },
-        {
-          "full_name": "ethereum/go-ethereum",
-          "previous_rank": 5
-        }
-      ],
-      "rank_movers": []
-    },
-    "heat": {
-      "new_entries": [
-        {
-          "full_name": "open-webui/open-webui",
-          "rank": 23
-        },
-        {
-          "full_name": "EbookFoundation/free-programming-books",
-          "rank": 25
-        }
-      ],
-      "dropped_entries": [
-        {
-          "full_name": "ethereum/go-ethereum",
-          "previous_rank": 4
-        },
-        {
-          "full_name": "ytdl-org/youtube-dl",
-          "previous_rank": 5
-        }
-      ],
-      "rank_movers": [
-        {
-          "full_name": "public-apis/public-apis",
-          "current_rank": 24,
-          "previous_rank": 3,
-          "delta": -21
-        },
-        {
-          "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-          "current_rank": 17,
-          "previous_rank": 2,
-          "delta": -15
-        },
-        {
-          "full_name": "flutter/flutter",
-          "current_rank": 10,
-          "previous_rank": 1,
-          "delta": -9
-        },
-        {
-          "full_name": "freeCodeCamp/freeCodeCamp",
-          "current_rank": 1,
-          "previous_rank": 6,
-          "delta": 5
-        },
-        {
-          "full_name": "openclaw/openclaw",
-          "current_rank": 2,
-          "previous_rank": 7,
-          "delta": 5
-        }
-      ]
-    }
-  },
+  "weekly_changes": {},
   "qa_examples": [
     "本周 AI 赛道最值得关注的 5 个项目是什么？",
     "教育行业里哪些仓库在持续上榜？",

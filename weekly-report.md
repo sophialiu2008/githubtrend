@@ -1,6 +1,6 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-03-29 17:49:10 CST
+- 生成时间: 2026-03-29 18:23:16 CST
 - 观测仓库数: 679
 
 ## 本周摘要
@@ -11,7 +11,7 @@
 ## 趋势卡片
 - 本周最热行业: 教育 (按前 10 名累计周增长计算)
 - 增长最快项目: 暂无 (历史不足)
-- 新上榜数量: 2 (统计所有榜单中的新进入项目)
+- 新上榜数量: 0 (统计所有榜单中的新进入项目)
 - 异常项目数: 0 (周增长明显偏离历史中枢)
 - 新秀项目数: 0 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 679 (当前周用于分析与推荐的仓库池)
@@ -35,9 +35,3 @@
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 
 ## 本周变化报告
-### 周增长榜 Top 20
-- 掉榜: public-apis/public-apis、flutter/flutter、ytdl-org/youtube-dl、x1xhlol/system-prompts-and-models-of-ai-tools、ethereum/go-ethereum
-### 热度评分榜 Top 25
-- 新上榜: open-webui/open-webui、EbookFoundation/free-programming-books
-- 掉榜: ethereum/go-ethereum、ytdl-org/youtube-dl
-- 排名变化: public-apis/public-apis (3→24)、x1xhlol/system-prompts-and-models-of-ai-tools (2→17)、flutter/flutter (1→10)、freeCodeCamp/freeCodeCamp (6→1)、openclaw/openclaw (7→2)
