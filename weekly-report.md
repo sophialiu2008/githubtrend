@@ -1,20 +1,20 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-04-06 00:38:04 CST
+- 生成时间: 2026-04-13 00:41:32 CST
 - 观测仓库数: 679
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 14834 Star。
-- 增长最快的项目是 ultraworkers/claw-code，本周新增 169968 Star。
-- 本周共有 12 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 23 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 本周最热行业是 医学，前 10 名累计新增 18913 Star。
+- 增长最快的项目是 microsoft/markitdown，本周新增 104081 Star。
+- 本周共有 11 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 检测到 6 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
-- 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: ultraworkers/claw-code (周增 169968 Star)
+- 本周最热行业: 医学 (按前 10 名累计周增长计算)
+- 增长最快项目: microsoft/markitdown (周增 104081 Star)
 - 新上榜数量: 10 (统计所有榜单中的新进入项目)
-- 异常项目数: 116 (周增长明显偏离历史中枢)
-- 新秀项目数: 12 (近 90 天创建且本周仍在上涨)
+- 异常项目数: 18 (周增长明显偏离历史中枢)
+- 新秀项目数: 11 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 679 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
@@ -37,28 +37,26 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: ultraworkers/claw-code、anthropics/claude-code
-- 掉榜: Anduin2017/HowToCook、pytorch/pytorch
-- 排名变化: affaan-m/everything-claude-code (65→47)、anthropics/skills (83→74)、obra/superpowers (59→53)、microsoft/generative-ai-for-beginners (75→80)、angular/angular (95→100)
+- 新上榜: microsoft/markitdown
+- 掉榜: angular/angular
+- 排名变化: obra/superpowers (53→46)、firecrawl/firecrawl (91→84)、anthropics/claude-code (77→71)、ultraworkers/claw-code (33→28)、anthropics/skills (74→69)
 ### 周增长榜 Top 20
-- 新上榜: ultraworkers/claw-code、anthropics/claude-code、sherlock-project/sherlock、mukul975/Anthropic-Cybersecurity-Skills、noob-hackers/infect
-- 掉榜: trimstray/the-book-of-secret-knowledge、clash-verge-rev/clash-verge-rev、jingyaogong/minimind、awesome-selfhosted/awesome-selfhosted、vinta/awesome-python
-- 排名变化: codecrafters-io/build-your-own-x (9→20)、thedotmack/claude-mem (5→14)、hacksider/Deep-Live-Cam (4→11)、freeCodeCamp/freeCodeCamp (10→16)、f/prompts.chat (17→13)
+- 新上榜: microsoft/markitdown、K-Dense-AI/scientific-agent-skills、clash-verge-rev/clash-verge-rev、ggml-org/llama.cpp、521xueweihan/HelloGitHub
+- 掉榜: sherlock-project/sherlock、mukul975/Anthropic-Cybersecurity-Skills、hacksider/Deep-Live-Cam、noob-hackers/infect、freeCodeCamp/freeCodeCamp
+- 排名变化: codecrafters-io/build-your-own-x (20→12)、anthropics/claude-code (2→9)、ultraworkers/claw-code (1→4)、thedotmack/claude-mem (14→11)、sindresorhus/awesome (15→13)
 ### 热度评分榜 Top 25
-- 新上榜: ultraworkers/claw-code、anthropics/claude-code、mukul975/Anthropic-Cybersecurity-Skills、flutter/flutter、sherlock-project/sherlock
-- 掉榜: hacksider/Deep-Live-Cam、thedotmack/claude-mem、anthropics/skills、public-apis/public-apis、clash-verge-rev/clash-verge-rev
-- 排名变化: tensorflow/tensorflow (22→8)、microsoft/vscode (23→10)、Significant-Gravitas/AutoGPT (24→11)、firecrawl/firecrawl (8→20)、ohmyzsh/ohmyzsh (18→9)
+- 新上榜: microsoft/markitdown、K-Dense-AI/scientific-agent-skills、TheAlgorithms/Python、EbookFoundation/free-programming-books、anthropics/skills
+- 掉榜: mukul975/Anthropic-Cybersecurity-Skills、sherlock-project/sherlock、huggingface/transformers、firecrawl/firecrawl、langflow-ai/langflow
+- 排名变化: anthropics/claude-code (2→22)、ollama/ollama (21→11)、n8n-io/n8n (17→10)、Significant-Gravitas/AutoGPT (11→17)、yt-dlp/yt-dlp (18→24)
 ### 新秀榜 Top 20
-- 新上榜: ultraworkers/claw-code、mukul975/Anthropic-Cybersecurity-Skills、getpaykit/paykit、soghayarmahmoud/procode-edu-pulse-lms、Leo-luxy/GP_ANA
-- 掉榜: AdroitAnandAI/RRG-Sector-Rotation-India、waylandzhang/ai-quant-book、I-am-Uchenna/regime-allocation-strategy
-- 排名变化: RKiding/Awesome-finance-skills (2→6)、GarethManning/claude-education-skills (4→8)、affaan-m/everything-claude-code (1→2)
+- 新上榜: chipfighter/gaokao_tutor、Rezzecup/TraderLeadFinder
+- 掉榜: Leo-luxy/GP_ANA、miaohancheng/llm_stock_report、chasemetoyer/Backtesting-Engine
+- 排名变化: soghayarmahmoud/procode-edu-pulse-lms (5→8)、getpaykit/paykit (4→3)、mukul975/Anthropic-Cybersecurity-Skills (3→4)、GarethManning/claude-education-skills (8→7)、yh2072/edgameclaw (10→9)
 ### 教育行业榜 Top 50
-- 新上榜: brootware/awesome-cyber-security-university
-- 掉榜: pshenok/server-survival
-- 排名变化: gsantner/markor (32→31)、JuliaPluto/Pluto.jl (33→32)、Kaustubh-Natuskar/moreThanFAANGM (34→33)、algorithmica-org/algorithmica (35→34)、PetoiCamp/OpenCat-Quadruped-Robot (36→35)
+- 排名变化: grantjenks/free-python-games (40→39)、EbTech/rust-algorithms (39→40)、rathena/rathena (45→44)、MTrajK/coding-problems (44→45)
 ### 医学行业榜 Top 50
-- 排名变化: openmrs/openmrs-core (37→36)、ivmartel/dwv (36→37)
-### 财经行业榜 Top 50
-- 排名变化: AI4Finance-Foundation/FinGPT (15→14)、amark/gun (14→15)、ghostfolio/ghostfolio (35→34)、dvf/blockchain (34→35)
+- 新上榜: K-Dense-AI/scientific-agent-skills
+- 掉榜: K-Dense-AI/claude-scientific-skills
+- 排名变化: ai-boost/awesome-ai-for-science (48→46)、DLTK/DLTK (46→47)、MultiQC/MultiQC (47→48)
 ### 科技行业榜 Top 50
-- 排名变化: Tencent/ncnn (34→37)、harvard-edge/cs249r_book (35→33)、sherlock-project/sherlock (6→5)、Developer-Y/cs-video-courses (5→6)、thedotmack/claude-mem (15→14)
+- 排名变化: thedotmack/claude-mem (14→11)、microsoft/AI-For-Beginners (12→14)、x64dbg/x64dbg (11→12)、simstudioai/sim (27→26)、microsoft/semantic-kernel (26→27)
