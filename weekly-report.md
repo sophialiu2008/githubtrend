@@ -1,19 +1,19 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-05-04 00:52:39 CST
+- 生成时间: 2026-05-11 01:01:06 CST
 - 观测仓库数: 678
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 6665 Star。
-- 增长最快的项目是 forrestchang/andrej-karpathy-skills，本周新增 108180 Star。
+- 本周最热行业是 财经，前 10 名累计新增 43439 Star。
+- 增长最快的项目是 juspay/hyperswitch，本周新增 42575 Star。
 - 本周共有 9 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 1 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 检测到 2 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
-- 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: forrestchang/andrej-karpathy-skills (周增 108180 Star)
-- 新上榜数量: 11 (统计所有榜单中的新进入项目)
-- 异常项目数: 17 (周增长明显偏离历史中枢)
+- 本周最热行业: 财经 (按前 10 名累计周增长计算)
+- 增长最快项目: juspay/hyperswitch (周增 42575 Star)
+- 新上榜数量: 10 (统计所有榜单中的新进入项目)
+- 异常项目数: 11 (周增长明显偏离历史中枢)
 - 新秀项目数: 9 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 678 (当前周用于分析与推荐的仓库池)
 
@@ -23,13 +23,13 @@
 - 榜单头部主要语言是 JavaScript / Python，技术栈集中度比较明显。
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 ### 医学行业榜 Top 50
-- 本周增长主要由 bioinformatics / healthcare 驱动，说明该行业的热门仓库更集中在这些子赛道。
+- 本周增长主要由 healthcare / bioinformatics 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 未知 / Python，技术栈集中度比较明显。
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 ### 财经行业榜 Top 50
 - 本周增长主要由 fintech / blockchain 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 Rust / Python，技术栈集中度比较明显。
-- 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
+- 当前行业榜中有 1 个近 90 天新项目，适合关注新秀信号。
 ### 科技行业榜 Top 50
 - 本周增长主要由 artificial-intelligence / cybersecurity 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 Python / Jupyter Notebook，技术栈集中度比较明显。
@@ -37,26 +37,24 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: forrestchang/andrej-karpathy-skills
-- 掉榜: microsoft/terminal
-- 排名变化: NousResearch/hermes-agent (69→60)、obra/superpowers (36→30)、facebook/react-native (61→64)、firecrawl/firecrawl (78→75)、GrowingGit/GitHub-Chinese-Top-Charts (87→90)
+- 排名变化: forrestchang/andrej-karpathy-skills (88→65)、NousResearch/hermes-agent (60→49)、obra/superpowers (30→25)、affaan-m/everything-claude-code (35→31)、microsoft/markitdown (70→67)
 ### 周增长榜 Top 20
-- 新上榜: forrestchang/andrej-karpathy-skills、soxoj/maigret、HunxByts/GhostTrack、rmurai0610/MASt3R-SLAM、donnemartin/system-design-primer
-- 掉榜: nilbuild/developer-roadmap、ultraworkers/claw-code、clash-verge-rev/clash-verge-rev、ggml-org/llama.cpp、trimstray/the-book-of-secret-knowledge
-- 排名变化: public-apis/public-apis (19→7)、codecrafters-io/build-your-own-x (6→17)、microsoft/markitdown (7→15)、anthropics/claude-code (13→20)、anomalyco/opencode (9→6)
+- 新上榜: juspay/hyperswitch、HKUDS/Vibe-Trading、clash-verge-rev/clash-verge-rev、DigitalPlatDev/FreeDomain
+- 掉榜: Fincept-Corporation/FinceptTerminal、HunxByts/GhostTrack、rmurai0610/MASt3R-SLAM、donnemartin/system-design-primer
+- 排名变化: firecrawl/firecrawl (18→10)、anthropics/skills (12→7)、anthropics/claude-code (20→15)、public-apis/public-apis (7→9)、thedotmack/claude-mem (9→11)
 ### 热度评分榜 Top 25
-- 新上榜: forrestchang/andrej-karpathy-skills、public-apis/public-apis、sindresorhus/awesome、anthropics/skills、firecrawl/firecrawl
-- 掉榜: nilbuild/developer-roadmap、Fincept-Corporation/FinceptTerminal、flutter/flutter、EbookFoundation/free-programming-books、Genymobile/scrcpy
-- 排名变化: ultraworkers/claw-code (7→21)、anomalyco/opencode (12→9)、tensorflow/tensorflow (10→13)、obra/superpowers (8→6)、langflow-ai/langflow (21→23)
+- 新上榜: juspay/hyperswitch、EbookFoundation/free-programming-books、anthropics/claude-code、clash-verge-rev/clash-verge-rev、flutter/flutter
+- 掉榜: ollama/ollama、twbs/bootstrap、huggingface/transformers、langflow-ai/langflow、langgenius/dify
+- 排名变化: firecrawl/firecrawl (22→11)、ultraworkers/claw-code (21→15)、facebook/react (10→16)、tensorflow/tensorflow (13→19)、ohmyzsh/ohmyzsh (14→20)
 ### 新秀榜 Top 20
-- 新上榜: QuantBrainteasers/awesome-quant-interview-prep
-- 掉榜: RKiding/Awesome-finance-skills、chipfighter/gaokao_tutor、yh2072/edgameclaw
-- 排名变化: colinsweany/quant-trade (4→7)、GarethManning/claude-education-skills (7→5)、EternaHybridExchange/eterna-mcp (11→9)、HKUDS/Vibe-Trading (3→2)、mukul975/Anthropic-Cybersecurity-Skills (2→3)
+- 新上榜: ClawBio/ClawBio、GarethManning/education-agent-skills、Leo-Hawking/IMC-Prosperity-4-Review
+- 掉榜: GarethManning/claude-education-skills、QuantBrainteasers/awesome-quant-interview-prep、EternaHybridExchange/eterna-mcp
+- 排名变化: mukul975/Anthropic-Cybersecurity-Skills (3→6)、HKUDS/Vibe-Trading (2→3)、getpaykit/paykit (4→5)、colinsweany/quant-trade (7→8)、SirhanMacx/Claw-ED (8→9)
 ### 医学行业榜 Top 50
-- 新上榜: the-momentum/open-wearables
-- 掉榜: crazyhottommy/getting-started-with-genomics-tools-and-resources
-- 排名变化: sunlabuiuc/PyHealth (45→43)、shenwei356/seqkit (43→44)、lh3/seqtk (44→45)、ai-boost/awesome-ai-for-science (46→47)、DLTK/DLTK (47→48)
+- 排名变化: the-momentum/open-wearables (46→41)、Slicer/Slicer (23→22)、scverse/scanpy (22→23)、medplum/medplum (27→26)、hapifhir/hapi-fhir (26→27)
 ### 财经行业榜 Top 50
-- 排名变化: Fincept-Corporation/FinceptTerminal (19→15)、amark/gun (15→16)、UFund-Me/Qbot (16→17)、diem/diem (17→18)、hyperledger/fabric (18→19)
+- 新上榜: juspay/hyperswitch、HKUDS/Vibe-Trading
+- 掉榜: ethereum/ethereum-org-website、tendermint/tendermint
+- 排名变化: AI4Finance-Foundation/FinGPT (14→16)、crestalnetwork/intentkit (46→48)、aptos-labs/aptos-core (47→49)、wondertrader/wondertrader (48→50)、microsoft/qlib (4→5)
 ### 科技行业榜 Top 50
-- 排名变化: soxoj/maigret (48→36)、Tencent/ncnn (36→37)、wechaty/wechaty (37→38)、nautechsystems/nautilus_trader (38→39)、recommenders-team/recommenders (39→40)
+- 排名变化: soxoj/maigret (36→28)、lucidrains/vit-pytorch (31→33)、thedotmack/claude-mem (8→7)、OpenHands/OpenHands (7→8)、invoke-ai/InvokeAI (28→29)
