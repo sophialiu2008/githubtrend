@@ -1,26 +1,26 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-06-01 01:10:59 CST
+- 生成时间: 2026-06-08 01:20:44 CST
 - 观测仓库数: 677
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 5094 Star。
-- 增长最快的项目是 mattpocock/skills，本周新增 112925 Star。
-- 本周共有 12 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 5 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 本周最热行业是 科技，前 10 名累计新增 3520 Star。
+- 增长最快的项目是 jaywcjlove/awesome-mac，本周新增 105365 Star。
+- 本周共有 14 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 检测到 2 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: mattpocock/skills (周增 112925 Star)
-- 新上榜数量: 9 (统计所有榜单中的新进入项目)
-- 异常项目数: 20 (周增长明显偏离历史中枢)
-- 新秀项目数: 12 (近 90 天创建且本周仍在上涨)
+- 增长最快项目: jaywcjlove/awesome-mac (周增 105365 Star)
+- 新上榜数量: 14 (统计所有榜单中的新进入项目)
+- 异常项目数: 19 (周增长明显偏离历史中枢)
+- 新秀项目数: 14 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 677 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
 ### 教育行业榜 Top 50
 - 本周增长主要由 education 驱动，说明该行业的热门仓库更集中在这些子赛道。
-- 榜单头部主要语言是 JavaScript / 未知，技术栈集中度比较明显。
+- 榜单头部主要语言是 JavaScript / Python，技术栈集中度比较明显。
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 ### 医学行业榜 Top 50
 - 本周增长主要由 bioinformatics / healthcare 驱动，说明该行业的热门仓库更集中在这些子赛道。
@@ -37,26 +37,28 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: mattpocock/skills、garrytan/gstack
-- 掉榜: jaywcjlove/awesome-mac、google-gemini/gemini-cli
-- 排名变化: microsoft/markitdown (67→60)、multica-ai/andrej-karpathy-skills (48→43)、NousResearch/hermes-agent (38→34)、denoland/deno (92→96)、affaan-m/ECC (24→21)
+- 新上榜: jaywcjlove/awesome-mac
+- 掉榜: goldbergyoni/nodebestpractices
+- 排名变化: mattpocock/skills (84→74)、microsoft/markitdown (60→52)、NousResearch/hermes-agent (34→28)、garrytan/gstack (100→95)、github/spec-kit (93→89)
 ### 周增长榜 Top 20
-- 新上榜: mattpocock/skills、garrytan/gstack、microsoft/markitdown、DigitalPlatDev/FreeDomain、unicity-sphere/sphere-sdk
-- 掉榜: asgeirtj/system_prompts_leaks、slymnoyann/hey-1、liyupi/ai-guide、apache/caldera、earthtojake/text-to-cad
-- 排名变化: github/spec-kit (2→18)、msitarzewski/agency-agents (3→19)、codecrafters-io/build-your-own-x (20→10)、trimstray/the-book-of-secret-knowledge (13→20)、firecrawl/firecrawl (17→13)
+- 新上榜: jaywcjlove/awesome-mac、itheima1/BlockChain、jwasham/coding-interview-university、yt-dlp/yt-dlp、HKUDS/Vibe-Trading
+- 掉榜: unicity-sphere/sphere-sdk、mukul975/Anthropic-Cybersecurity-Skills、thedotmack/claude-mem、msitarzewski/agency-agents、trimstray/the-book-of-secret-knowledge
+- 排名变化: garrytan/gstack (2→13)、DigitalPlatDev/FreeDomain (8→16)、mattpocock/skills (1→5)、anomalyco/opencode (14→10)、microsoft/markitdown (5→2)
 ### 热度评分榜 Top 25
-- 新上榜: garrytan/gstack、mattpocock/skills、unicity-sphere/sphere-sdk、public-apis/public-apis、microsoft/markitdown
-- 掉榜: github/spec-kit、msitarzewski/agency-agents、asgeirtj/system_prompts_leaks、slymnoyann/hey-1、apache/caldera
-- 排名变化: affaan-m/ECC (1→13)、ohmyzsh/ohmyzsh (17→22)、NousResearch/hermes-agent (8→4)、freeCodeCamp/freeCodeCamp (9→6)、openclaw/openclaw (10→7)
+- 新上榜: jaywcjlove/awesome-mac、yt-dlp/yt-dlp、flutter/flutter、anthropics/claude-code、twbs/bootstrap
+- 掉榜: mattpocock/skills、unicity-sphere/sphere-sdk、deepinv/deepinv、EbookFoundation/free-programming-books、huggingface/transformers
+- 排名变化: garrytan/gstack (1→24)、ohmyzsh/ohmyzsh (22→16)、avelino/awesome-go (24→18)、public-apis/public-apis (8→3)、anthropics/skills (16→11)
 ### 新秀榜 Top 20
-- 新上榜: garrytan/gstack、mohanadtr/edutraceapp、SirhanMacx/Claw-ED、MisakaMikoto128/china-astock-quant
-- 掉榜: mukul975/Anthropic-Cybersecurity-Skills、ClawBio/ClawBio、tail258/QuantSandbox、QuantBrainteasers/awesome-quant-interview-prep、colinsweany/quant-trade
-- 排名变化: zhongweiv/hermes-edu-skills (5→3)、earthtojake/text-to-cad (2→4)、HKUDS/Vibe-Trading (3→5)、studyield/studyield (10→8)、ultraworkers/claw-code (1→2)
+- 新上榜: beltromatti/get-it、mohanvd/edutraceapp、tfrmma/game-theory-trading-strats、Krexibd/quant-trading、Grahamovernightly/edgefindr
+- 掉榜: zhongweiv/hermes-edu-skills、mohanadtr/edutraceapp、GarethManning/education-agent-skills、MisakaMikoto128/china-astock-quant、yh2072/edgameclaw
+- 排名变化: studyield/studyield (8→13)、yebof/quant-agent (9→12)、HKUDS/Vibe-Trading (5→3)、earthtojake/text-to-cad (4→5)
 ### 教育行业榜 Top 50
-- 排名变化: pshenok/server-survival (32→31)、hneemann/Digital (31→32)
+- 排名变化: trifectatechfoundation/teach-rs (49→48)、MTrajK/coding-problems (48→49)
 ### 医学行业榜 Top 50
-- 排名变化: the-momentum/open-wearables (41→40)、lh3/bwa (40→41)、ai-boost/awesome-ai-for-science (45→44)、sunlabuiuc/PyHealth (44→45)
+- 排名变化: the-momentum/open-wearables (40→38)、ai-boost/awesome-ai-for-science (44→42)、ivmartel/dwv (38→39)、galaxyproject/galaxy (39→40)、InsightSoftwareConsortium/ITK (42→43)
 ### 财经行业榜 Top 50
-- 排名变化: brokermr810/QuantDinger (50→47)、HKUDS/Vibe-Trading (34→32)、ethers-io/ethers.js (32→33)、ghostfolio/ghostfolio (33→34)、cosmos/cosmos-sdk (47→48)
+- 排名变化: HKUDS/Vibe-Trading (32→26)、Fincept-Corporation/FinceptTerminal (14→11)、brokermr810/QuantDinger (47→44)、argotorg/solidity (11→12)、zama-ai/fhevm (12→13)
 ### 科技行业榜 Top 50
-- 排名变化: soxoj/maigret (23→22)、AMAI-GmbH/AI-Expert-Roadmap (22→23)、HandsOnLLM/Hands-On-Large-Language-Models (31→30)、The-Art-of-Hacking/h4cker (30→31)、yamadashy/repomix (33→32)
+- 新上榜: Alibaba-NLP/DeepResearch
+- 掉榜: amark/gun
+- 排名变化: soxoj/maigret (22→21)、Lightning-AI/pytorch-lightning (21→22)、nautechsystems/nautilus_trader (38→37)、Tencent/ncnn (37→38)
