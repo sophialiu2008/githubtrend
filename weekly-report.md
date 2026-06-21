@@ -1,20 +1,20 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-06-15 01:22:27 CST
+- 生成时间: 2026-06-22 01:29:56 CST
 - 观测仓库数: 677
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 3517 Star。
-- 增长最快的项目是 react/react，本周新增 245844 Star。
-- 本周共有 9 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 本周最热行业是 教育，前 10 名累计新增 7057 Star。
+- 增长最快的项目是 owainlewis/awesome-artificial-intelligence，本周新增 14925 Star。
+- 本周共有 10 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
 - 检测到 3 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
-- 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: react/react (周增 245844 Star)
-- 新上榜数量: 10 (统计所有榜单中的新进入项目)
-- 异常项目数: 15 (周增长明显偏离历史中枢)
-- 新秀项目数: 9 (近 90 天创建且本周仍在上涨)
+- 本周最热行业: 教育 (按前 10 名累计周增长计算)
+- 增长最快项目: owainlewis/awesome-artificial-intelligence (周增 14925 Star)
+- 新上榜数量: 11 (统计所有榜单中的新进入项目)
+- 异常项目数: 20 (周增长明显偏离历史中枢)
+- 新秀项目数: 10 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 677 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
@@ -37,30 +37,22 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: react/react、react/react-native
-- 掉榜: facebook/react、facebook/react-native
-- 排名变化: msitarzewski/agency-agents (94→85)、mattpocock/skills (74→66)、multica-ai/andrej-karpathy-skills (41→37)、garrytan/gstack (95→91)、NousResearch/hermes-agent (28→25)
+- 排名变化: iptv-org/iptv (75→69)、mattpocock/skills (66→61)、github/spec-kit (89→85)、NousResearch/hermes-agent (25→22)、multica-ai/andrej-karpathy-skills (37→34)
 ### 周增长榜 Top 20
-- 新上榜: react/react、react/react-native、infinition/Bjorn、msitarzewski/agency-agents、iptv-org/iptv
-- 掉榜: jaywcjlove/awesome-mac、itheima1/BlockChain、jwasham/coding-interview-university、anthropics/claude-code、yt-dlp/yt-dlp
-- 排名变化: codecrafters-io/build-your-own-x (9→15)、microsoft/markitdown (2→7)、garrytan/gstack (13→18)、affaan-m/ECC (4→8)、multica-ai/andrej-karpathy-skills (6→9)
+- 新上榜: owainlewis/awesome-artificial-intelligence、freeCodeCamp/freeCodeCamp、asgeirtj/system_prompts_leaks、mukul975/Anthropic-Cybersecurity-Skills
+- 掉榜: react/react、react/react-native、infinition/Bjorn、maziyarpanahi/openmed
+- 排名变化: iptv-org/iptv (13→4)、msitarzewski/agency-agents (10→19)、firecrawl/firecrawl (14→9)、multica-ai/andrej-karpathy-skills (9→6)、github/spec-kit (17→14)
 ### 热度评分榜 Top 25
-- 新上榜: react/react、react/react-native、maziyarpanahi/openmed、EbookFoundation/free-programming-books、trekhleb/javascript-algorithms
-- 掉榜: jaywcjlove/awesome-mac、microsoft/markitdown、facebook/react、anthropics/skills、affaan-m/ECC
-- 排名变化: firecrawl/firecrawl (14→21)、ohmyzsh/ohmyzsh (16→23)、NousResearch/hermes-agent (2→8)、yt-dlp/yt-dlp (10→14)、Significant-Gravitas/AutoGPT (20→16)
+- 新上榜: owainlewis/awesome-artificial-intelligence、mattpocock/skills、iptv-org/iptv、affaan-m/ECC、github/spec-kit
+- 掉榜: react/react、react/react-native、maziyarpanahi/openmed、trekhleb/javascript-algorithms、tensorflow/tensorflow
+- 排名变化: firecrawl/firecrawl (21→7)、EbookFoundation/free-programming-books (10→22)、ollama/ollama (18→24)、openclaw/openclaw (6→11)、obra/superpowers (7→3)
 ### 新秀榜 Top 20
-- 新上榜: colinsweany/quant-trade
-- 掉榜: garrytan/gstack、tfrmma/game-theory-trading-strats、Grahamovernightly/edgefindr、SirhanMacx/Claw-ED、yebof/quant-agent
-- 排名变化: studyield/studyield (13→7)、Leo-luxy/GP_ANA (11→6)、beltromatti/get-it (4→1)、Krexibd/quant-trading (8→5)、mohanvd/edutraceapp (6→8)
-### 教育行业榜 Top 50
-- 排名变化: hneemann/Digital (32→31)、pshenok/server-survival (31→32)
+- 新上榜: abocchi1/polymarket-trading-bot、Venkat5599/Tenki、QuantBrainteasers/awesome-quant-interview-prep
+- 掉榜: Leo-luxy/GP_ANA、mohanvd/edutraceapp
+- 排名变化: beltromatti/get-it (1→5)、Krexibd/quant-trading (5→8)、studyield/studyield (7→9)、ultraworkers/claw-code (2→1)、colinsweany/quant-trade (9→10)
 ### 医学行业榜 Top 50
-- 新上榜: maziyarpanahi/openmed
-- 掉榜: AIM-Harvard/pyradiomics
-- 排名变化: the-momentum/open-wearables (38→35)、allenai/scispacy (32→34)、black0017/MedicalZooPytorch (34→36)、nitrain/nitrain (35→37)、openmrs/openmrs-core (36→38)
+- 排名变化: the-momentum/open-wearables (35→33)、maziyarpanahi/openmed (15→14)、linhandev/dataset (14→15)、broadinstitute/gatk (33→34)、allenai/scispacy (34→35)
 ### 财经行业榜 Top 50
-- 排名变化: brokermr810/QuantDinger (44→39)、HKUDS/Vibe-Trading (26→25)、smartcontractkit/full-blockchain-solidity-course-py (25→26)、ghostfolio/ghostfolio (34→33)、ethers-io/ethers.js (33→34)
+- 排名变化: brokermr810/QuantDinger (39→36)、bitcoinbook/bitcoinbook (14→13)、zama-ai/fhevm (13→14)、getlago/lago (32→31)、akaunting/akaunting (31→32)
 ### 科技行业榜 Top 50
-- 新上榜: elder-plinius/L1B3RT4S
-- 掉榜: Alibaba-NLP/DeepResearch
-- 排名变化: The-Art-of-Hacking/h4cker (31→29)、thedotmack/claude-mem (7→6)、Developer-Y/cs-video-courses (6→7)、invoke-ai/InvokeAI (29→30)、HandsOnLLM/Hands-On-Large-Language-Models (30→31)
+- 排名变化: simstudioai/sim (26→25)、ZuzooVn/machine-learning-for-software-engineers (25→26)、vercel/ai (36→35)、harvard-edge/cs249r_book (35→36)、marimo-team/marimo (45→44)
