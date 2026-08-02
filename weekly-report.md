@@ -1,20 +1,20 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-07-27 01:00:12 CST
+- 生成时间: 2026-08-03 01:02:20 CST
 - 观测仓库数: 678
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 3630 Star。
-- 增长最快的项目是 nextlevelbuilder/ui-ux-pro-max-skill，本周新增 110340 Star。
-- 本周共有 12 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 2 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 本周最热行业是 科技，前 10 名累计新增 9397 Star。
+- 增长最快的项目是 KeygraphHQ/shannon，本周新增 46355 Star。
+- 本周共有 11 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 检测到 3 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: nextlevelbuilder/ui-ux-pro-max-skill (周增 110340 Star)
-- 新上榜数量: 12 (统计所有榜单中的新进入项目)
-- 异常项目数: 11 (周增长明显偏离历史中枢)
-- 新秀项目数: 12 (近 90 天创建且本周仍在上涨)
+- 增长最快项目: KeygraphHQ/shannon (周增 46355 Star)
+- 新上榜数量: 11 (统计所有榜单中的新进入项目)
+- 异常项目数: 17 (周增长明显偏离历史中枢)
+- 新秀项目数: 11 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 678 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
@@ -37,28 +37,24 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: nextlevelbuilder/ui-ux-pro-max-skill
-- 掉榜: papers-we-love/papers-we-love
-- 排名变化: mattpocock/skills (40→29)、microsoft/vscode (29→32)、msitarzewski/agency-agents (67→64)、multica-ai/andrej-karpathy-skills (27→25)、anomalyco/opencode (30→28)
+- 排名变化: mattpocock/skills (29→23)、massgravel/Microsoft-Activation-Scripts (37→34)、Shubhamsaboo/awesome-llm-apps (74→71)、farion1231/cc-switch (82→79)、tensorflow/tensorflow (24→26)
 ### 周增长榜 Top 20
-- 新上榜: nextlevelbuilder/ui-ux-pro-max-skill、simonlin1212/a-stock-data、simonlin1212/TradingAgents-astock、earthtojake/text-to-cad、DigitalPlatDev/FreeDomain
-- 掉榜: jaywcjlove/awesome-mac、immich-app/immich、OpenByteInc/QuantDinger、ob-f/OpenBot、github/spec-kit
-- 排名变化: HKUDS/Vibe-Trading (6→12)、msitarzewski/agency-agents (13→8)、sindresorhus/awesome (16→11)、NousResearch/hermes-agent (9→5)、firecrawl/firecrawl (11→7)
+- 新上榜: KeygraphHQ/shannon、openai/codex-security、microsoft/AI-For-Beginners、yt-dlp/yt-dlp、awesome-selfhosted/awesome-selfhosted
+- 掉榜: simonlin1212/a-stock-data、msitarzewski/agency-agents、simonlin1212/TradingAgents-astock、HKUDS/Vibe-Trading、DigitalPlatDev/FreeDomain
+- 排名变化: Shubhamsaboo/awesome-llm-apps (6→17)、nextlevelbuilder/ui-ux-pro-max-skill (1→11)、affaan-m/ECC (15→6)、usestrix/strix (20→14)、anomalyco/opencode (14→10)
 ### 热度评分榜 Top 25
-- 新上榜: nextlevelbuilder/ui-ux-pro-max-skill、simonlin1212/a-stock-data、trekhleb/javascript-algorithms、flutter/flutter、twbs/bootstrap
-- 掉榜: jaywcjlove/awesome-mac、immich-app/immich、OpenByteInc/QuantDinger、microsoft/markitdown、langgenius/dify
-- 排名变化: codecrafters-io/build-your-own-x (5→13)、public-apis/public-apis (11→4)、EbookFoundation/free-programming-books (16→20)、n8n-io/n8n (15→12)、tensorflow/tensorflow (17→14)
+- 新上榜: KeygraphHQ/shannon、openai/codex-security、521xueweihan/HelloGitHub、clash-verge-rev/clash-verge-rev、langgenius/dify
+- 掉榜: simonlin1212/a-stock-data、trekhleb/javascript-algorithms、avelino/awesome-go、twbs/bootstrap、anthropics/skills
+- 排名变化: nextlevelbuilder/ui-ux-pro-max-skill (1→25)、farion1231/cc-switch (24→14)、affaan-m/ECC (17→10)、public-apis/public-apis (4→11)、codecrafters-io/build-your-own-x (13→19)
 ### 新秀榜 Top 20
-- 新上榜: simonlin1212/a-stock-data、simonlin1212/TradingAgents-astock、simonlin1212/global-stock-data、shigella520/MindTrain、pseudo-longinus/quant-buddy-view
-- 掉榜: earthtojake/text-to-cad、Krexibd/quant-trading-toolkit、gameworkerkim/cassandra-ai
-- 排名变化: ZeKaiNie/universal-examprep-skill (4→8)、Krexibd/quant-trading (7→10)、alfred1994/alpha-pilot (8→11)、simonlin1212/Vibe-Research (3→5)、beltromatti/get-it (5→7)
+- 新上榜: openai/codex-security、aipoch/open-science、JudgePeach/math-question-bank、Venkat5599/Tenki
+- 掉榜: pseudo-longinus/quant-buddy-view、beltromatti/get-it、MisakaMikoto128/china-astock-quant、Krexibd/quant-trading、alfred1994/alpha-pilot
+- 排名变化: simonlin1212/a-stock-data (1→5)、simonlin1212/TradingAgents-astock (2→6)、simonlin1212/global-stock-data (3→7)、shigella520/MindTrain (4→8)、simonlin1212/Vibe-Research (5→3)
 ### 医学行业榜 Top 50
-- 排名变化: sokrypton/ColabFold (19→18)、FreedomIntelligence/Awesome-AI4Med (18→19)、hapifhir/hapi-fhir (27→26)、xinario/awesome-gan-for-medical-imaging (26→27)、the-momentum/open-wearables (29→28)
+- 排名变化: aipoch/medical-research-skills (48→45)、medplum/medplum (23→21)、sfikas/medical-imaging-datasets (21→22)、Slicer/Slicer (22→23)、sunlabuiuc/PyHealth (44→43)
 ### 财经行业榜 Top 50
-- 新上榜: simonlin1212/a-stock-data
-- 掉榜: crestalnetwork/intentkit
-- 排名变化: HKUDS/Vibe-Trading (14→12)、xbtlin/ai-berkshire (26→24)、vnpy/vnpy (6→5)、juspay/hyperswitch (5→6)、argotorg/solidity (12→13)
+- 排名变化: simonlin1212/a-stock-data (42→38)、Fincept-Corporation/FinceptTerminal (11→10)、slymnoyann/hey-1 (10→11)、AmazingAng/WTF-Solidity (26→25)、smartcontractkit/full-blockchain-solidity-course-js (25→26)
 ### 科技行业榜 Top 50
-- 新上榜: stefan-jansen/machine-learning-for-trading
-- 掉榜: camel-ai/owl
-- 排名变化: usestrix/strix (17→15)、NaiboWang/EasySpider (15→16)、Kong/kong (16→17)、ItzCrazyKns/Vane (19→18)、XingangPan/DragGAN (18→19)
+- 新上榜: KeygraphHQ/shannon
+- 掉榜: stefan-jansen/machine-learning-for-trading
+- 排名变化: microsoft/AI-For-Beginners (13→10)、XingangPan/DragGAN (19→22)、ItzCrazyKns/Vane (18→20)、FlowiseAI/Flowise (10→11)、WerWolv/ImHex (11→12)
