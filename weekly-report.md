@@ -1,31 +1,31 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-08-03 01:02:20 CST
+- 生成时间: 2026-08-10 00:38:33 CST
 - 观测仓库数: 678
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 9397 Star。
-- 增长最快的项目是 KeygraphHQ/shannon，本周新增 46355 Star。
-- 本周共有 11 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 本周最热行业是 科技，前 10 名累计新增 10395 Star。
+- 增长最快的项目是 feder-cr/Jobs_Applier_AI_Agent_AIHawk，本周新增 30135 Star。
+- 本周共有 13 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
 - 检测到 3 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: KeygraphHQ/shannon (周增 46355 Star)
-- 新上榜数量: 11 (统计所有榜单中的新进入项目)
-- 异常项目数: 17 (周增长明显偏离历史中枢)
-- 新秀项目数: 11 (近 90 天创建且本周仍在上涨)
+- 增长最快项目: feder-cr/Jobs_Applier_AI_Agent_AIHawk (周增 30135 Star)
+- 新上榜数量: 12 (统计所有榜单中的新进入项目)
+- 异常项目数: 14 (周增长明显偏离历史中枢)
+- 新秀项目数: 13 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 678 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
 ### 教育行业榜 Top 50
-- 本周增长主要由 education 驱动，说明该行业的热门仓库更集中在这些子赛道。
-- 榜单头部主要语言是 JavaScript / Python，技术栈集中度比较明显。
+- 本周增长主要由 education / robotics 驱动，说明该行业的热门仓库更集中在这些子赛道。
+- 榜单头部主要语言是 JavaScript / 未知，技术栈集中度比较明显。
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 ### 医学行业榜 Top 50
 - 本周增长主要由 bioinformatics / healthcare 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 Python / 未知，技术栈集中度比较明显。
-- 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
+- 当前行业榜中有 1 个近 90 天新项目，适合关注新秀信号。
 ### 财经行业榜 Top 50
 - 本周增长主要由 fintech / blockchain 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 Rust / Python，技术栈集中度比较明显。
@@ -37,24 +37,30 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 排名变化: mattpocock/skills (29→23)、massgravel/Microsoft-Activation-Scripts (37→34)、Shubhamsaboo/awesome-llm-apps (74→71)、farion1231/cc-switch (82→79)、tensorflow/tensorflow (24→26)
+- 排名变化: nextlevelbuilder/ui-ux-pro-max-skill (94→91)、mattpocock/skills (23→21)、firecrawl/firecrawl (51→49)、clash-verge-rev/clash-verge-rev (68→66)、labuladong/fucking-algorithm (67→69)
 ### 周增长榜 Top 20
-- 新上榜: KeygraphHQ/shannon、openai/codex-security、microsoft/AI-For-Beginners、yt-dlp/yt-dlp、awesome-selfhosted/awesome-selfhosted
-- 掉榜: simonlin1212/a-stock-data、msitarzewski/agency-agents、simonlin1212/TradingAgents-astock、HKUDS/Vibe-Trading、DigitalPlatDev/FreeDomain
-- 排名变化: Shubhamsaboo/awesome-llm-apps (6→17)、nextlevelbuilder/ui-ux-pro-max-skill (1→11)、affaan-m/ECC (15→6)、usestrix/strix (20→14)、anomalyco/opencode (14→10)
+- 新上榜: feder-cr/Jobs_Applier_AI_Agent_AIHawk、hemanth/functional-programming-jargon、microsoft/generative-ai-for-beginners、donnemartin/system-design-primer、msitarzewski/agency-agents
+- 掉榜: KeygraphHQ/shannon、openai/codex-security、earthtojake/text-to-cad、yt-dlp/yt-dlp、awesome-selfhosted/awesome-selfhosted
+- 排名变化: affaan-m/ECC (6→19)、usestrix/strix (14→8)、multica-ai/andrej-karpathy-skills (12→17)、nextlevelbuilder/ui-ux-pro-max-skill (11→15)、firecrawl/firecrawl (8→5)
 ### 热度评分榜 Top 25
-- 新上榜: KeygraphHQ/shannon、openai/codex-security、521xueweihan/HelloGitHub、clash-verge-rev/clash-verge-rev、langgenius/dify
-- 掉榜: simonlin1212/a-stock-data、trekhleb/javascript-algorithms、avelino/awesome-go、twbs/bootstrap、anthropics/skills
-- 排名变化: nextlevelbuilder/ui-ux-pro-max-skill (1→25)、farion1231/cc-switch (24→14)、affaan-m/ECC (17→10)、public-apis/public-apis (4→11)、codecrafters-io/build-your-own-x (13→19)
+- 新上榜: feder-cr/Jobs_Applier_AI_Agent_AIHawk、hemanth/functional-programming-jargon、usestrix/strix、Comfy-Org/ComfyUI、anthropics/skills
+- 掉榜: KeygraphHQ/shannon、openai/codex-security、521xueweihan/HelloGitHub、ohmyzsh/ohmyzsh、flutter/flutter
+- 排名变化: EbookFoundation/free-programming-books (16→24)、tensorflow/tensorflow (17→23)、firecrawl/firecrawl (9→5)、public-apis/public-apis (11→7)、freeCodeCamp/freeCodeCamp (6→10)
 ### 新秀榜 Top 20
-- 新上榜: openai/codex-security、aipoch/open-science、JudgePeach/math-question-bank、Venkat5599/Tenki
-- 掉榜: pseudo-longinus/quant-buddy-view、beltromatti/get-it、MisakaMikoto128/china-astock-quant、Krexibd/quant-trading、alfred1994/alpha-pilot
-- 排名变化: simonlin1212/a-stock-data (1→5)、simonlin1212/TradingAgents-astock (2→6)、simonlin1212/global-stock-data (3→7)、shigella520/MindTrain (4→8)、simonlin1212/Vibe-Research (5→3)
+- 新上榜: xuzhougeng/wisp-science、laurensa453/polymarket-btc-5m-clob-hedge-ladder-bot、BlindingHoolio/btc-5m-market-trading-bot
+- 掉榜: Venkat5599/Tenki
+- 排名变化: JudgePeach/math-question-bank (4→8)、shigella520/MindTrain (8→12)、simonlin1212/Vibe-Research (3→5)、simonlin1212/global-stock-data (7→9)、ZeKaiNie/universal-examprep-skill (9→11)
+### 教育行业榜 Top 50
+- 新上榜: hemanth/functional-programming-jargon
+- 掉榜: mortbopet/Ripes
+- 排名变化: mikesprague/udacity-nanodegrees (28→30)、mahmoud/awesome-python-applications (14→15)、getify/Functional-Light-JS (15→16)、iggredible/Learn-Vim (16→17)、Hacker0x01/hacker101 (17→18)
 ### 医学行业榜 Top 50
-- 排名变化: aipoch/medical-research-skills (48→45)、medplum/medplum (23→21)、sfikas/medical-imaging-datasets (21→22)、Slicer/Slicer (22→23)、sunlabuiuc/PyHealth (44→43)
+- 新上榜: aipoch/open-science
+- 掉榜: DLTK/DLTK
+- 排名变化: ai4s-research/awesome-ai-for-science (41→39)、sunlabuiuc/PyHealth (43→45)、InsightSoftwareConsortium/ITK (44→46)、Slicer/Slicer (23→22)、sfikas/medical-imaging-datasets (22→23)
 ### 财经行业榜 Top 50
-- 排名变化: simonlin1212/a-stock-data (42→38)、Fincept-Corporation/FinceptTerminal (11→10)、slymnoyann/hey-1 (10→11)、AmazingAng/WTF-Solidity (26→25)、smartcontractkit/full-blockchain-solidity-course-js (25→26)
+- 排名变化: HKUDS/Vibe-Trading (12→10)、Fincept-Corporation/FinceptTerminal (10→11)、slymnoyann/hey-1 (11→12)、smartcontractkit/full-blockchain-solidity-course-js (26→25)、AmazingAng/WTF-Solidity (25→26)
 ### 科技行业榜 Top 50
-- 新上榜: KeygraphHQ/shannon
-- 掉榜: stefan-jansen/machine-learning-for-trading
-- 排名变化: microsoft/AI-For-Beginners (13→10)、XingangPan/DragGAN (19→22)、ItzCrazyKns/Vane (18→20)、FlowiseAI/Flowise (10→11)、WerWolv/ImHex (11→12)
+- 新上榜: feder-cr/Jobs_Applier_AI_Agent_AIHawk
+- 掉榜: elder-plinius/L1B3RT4S
+- 排名变化: ZuzooVn/machine-learning-for-software-engineers (29→31)、invoke-ai/InvokeAI (33→35)、marimo-team/marimo (42→44)、OpenHands/OpenHands (8→7)、Developer-Y/cs-video-courses (7→8)
