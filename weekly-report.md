@@ -1,21 +1,21 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-09-14 02:35:52 CST
-- 观测仓库数: 677
+- 生成时间: 2026-09-21 02:32:30 CST
+- 观测仓库数: 676
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 4130 Star。
-- 增长最快的项目是 browser-use/browser-use，本周新增 114474 Star。
-- 本周共有 7 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 6 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 本周最热行业是 科技，前 10 名累计新增 5459 Star。
+- 增长最快的项目是 deepseek-ai/deepseek-harness，本周新增 8674 Star。
+- 本周共有 9 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 检测到 2 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: browser-use/browser-use (周增 114474 Star)
-- 新上榜数量: 8 (统计所有榜单中的新进入项目)
-- 异常项目数: 18 (周增长明显偏离历史中枢)
-- 新秀项目数: 7 (近 90 天创建且本周仍在上涨)
-- 总监控仓库数: 677 (当前周用于分析与推荐的仓库池)
+- 增长最快项目: deepseek-ai/deepseek-harness (周增 8674 Star)
+- 新上榜数量: 9 (统计所有榜单中的新进入项目)
+- 异常项目数: 14 (周增长明显偏离历史中枢)
+- 新秀项目数: 9 (近 90 天创建且本周仍在上涨)
+- 总监控仓库数: 676 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
 ### 教育行业榜 Top 50
@@ -37,28 +37,26 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 新上榜: browser-use/browser-use
-- 掉榜: d3/d3
-- 排名变化: DietrichGebert/ponytail (79→72)、openai/codex (88→85)、electron/electron (86→89)、yt-dlp/yt-dlp (35→33)、ohmyzsh/ohmyzsh (33→35)
+- 排名变化: DietrichGebert/ponytail (72→64)、golang/go (67→70)、microsoft/PowerToys (68→71)、nextlevelbuilder/ui-ux-pro-max-skill (83→80)、Graphify-Labs/graphify (96→93)
 ### 周增长榜 Top 20
-- 新上榜: browser-use/browser-use、slymnoyann/hey.xyz、microsoft/markitdown、github/spec-kit、multica-ai/andrej-karpathy-skills
-- 掉榜: VoltAgent/awesome-design-md、questdb/questdb、antoniaci/blackbird、K-Dense-AI/scientific-agent-skills、aipoch/open-science
-- 排名变化: obra/superpowers (17→8)、jingyaogong/minimind (11→20)、public-apis/public-apis (14→9)、harry0703/MoneyPrinterTurbo (20→15)、firecrawl/firecrawl (15→11)
+- 新上榜: BitterSecurity/Decepticon、echo-loop/Echo-Loop、Graphify-Labs/graphify、anthropics/claude-code、msitarzewski/agency-agents
+- 掉榜: browser-use/browser-use、slymnoyann/hey.xyz、multica-ai/andrej-karpathy-skills、torvalds/linux、jingyaogong/minimind
+- 排名变化: affaan-m/ECC (6→2)、sindresorhus/awesome (14→10)、microsoft/markitdown (7→11)、public-apis/public-apis (9→13)、nextlevelbuilder/ui-ux-pro-max-skill (19→15)
 ### 热度评分榜 Top 25
-- 新上榜: browser-use/browser-use、slymnoyann/hey.xyz、microsoft/markitdown、COMBINE-lab/salmon、EbookFoundation/free-programming-books
-- 掉榜: VoltAgent/awesome-design-md、questdb/questdb、aipoch/open-science、sindresorhus/awesome、synthetic-sciences/openscience
-- 排名变化: mattpocock/skills (3→20)、DietrichGebert/ponytail (6→23)、react/react (16→10)、obra/superpowers (11→7)、openclaw/openclaw (8→5)
+- 新上榜: deepseek-ai/deepseek-harness、BitterSecurity/Decepticon、echo-loop/Echo-Loop、Graphify-Labs/graphify、anthropics/claude-code
+- 掉榜: browser-use/browser-use、slymnoyann/hey.xyz、react/react、COMBINE-lab/salmon、EbookFoundation/free-programming-books
+- 排名变化: openclaw/openclaw (5→25)、DietrichGebert/ponytail (23→5)、freeCodeCamp/freeCodeCamp (6→23)、mattpocock/skills (20→4)、public-apis/public-apis (3→9)
 ### 新秀榜 Top 20
-- 新上榜: 2233admin/qmtcli
-- 掉榜: DietrichGebert/ponytail、xingwudao/xquant-beginner、ZeKaiNie/universal-examprep-skill、pseudo-longinus/quant-buddy-view、gameworkerkim/cassandra-ai
-- 排名变化: openai/codex-security (6→2)、deepseek-ai/deepseek-harness (4→1)、simonlin1212/Vibe-Research (7→5)、xuzhougeng/wisp-science (8→6)、aipoch/open-science (2→3)
+- 新上榜: gprokaznik4-bit/CryptoGridMaster-Bot、pseudo-longinus/quant-buddy-view、AsakiriLingo/asakiri-studio
+- 掉榜: 2233admin/qmtcli
+- 排名变化: synthetic-sciences/openscience (4→5)、simonlin1212/Vibe-Research (5→6)、xuzhougeng/wisp-science (6→7)
 ### 教育行业榜 Top 50
-- 排名变化: virgiliojr94/book-to-skill (13→12)、JushBJJ/Mr.-Ranedeer-AI-Tutor (12→13)、anu0012/awesome-computer-science-opportunities (42→41)、berwin/Blog (41→42)、MariaLetta/free-gophers-pack (45→44)
+- 新上榜: echo-loop/Echo-Loop
+- 掉榜: rathena/rathena
+- 排名变化: brycewang-stanford/Auto-Empirical-Research-Skills (48→46)、0atman/noboilerplate (46→47)、antonio-morales/Fuzzing101 (47→48)、yhzhang0128/egos-2000 (49→50)
 ### 医学行业榜 Top 50
-- 排名变化: aipoch/open-science (15→12)、aipoch/medical-research-skills (44→41)、OpenHealthForAll/open-health (12→13)、seandavi/awesome-single-cell (13→14)、google/deepvariant (14→15)
+- 排名变化: aipoch/open-science (12→10)、OHIF/Viewers (10→11)、danielecook/Awesome-Bioinformatics (11→12)、medplum/medplum (23→22)、MrGiovanni/UNetPlusPlus (22→23)
 ### 财经行业榜 Top 50
-- 新上榜: slymnoyann/hey.xyz
-- 掉榜: slymnoyann/hey-1
-- 排名变化: Fincept-Corporation/FinceptTerminal (11→10)、shardeum/shardeum (10→11)、xbtlin/ai-berkshire (23→22)、AI4Finance-Foundation/FinRL (22→23)
+- 排名变化: HKUDS/Vibe-Trading (8→7)、anoma/anoma (7→8)、AmazingAng/WTF-Solidity (26→25)、smartcontractkit/full-blockchain-solidity-course-js (25→26)
 ### 科技行业榜 Top 50
-- 排名变化: nautechsystems/nautilus_trader (33→31)、smicallef/spiderfoot (46→44)、ZuzooVn/machine-learning-for-software-engineers (31→32)、microsoft/semantic-kernel (32→33)、invoke-ai/InvokeAI (36→35)
+- 排名变化: usestrix/strix (11→10)、commaai/openpilot (10→11)、harvard-edge/cs249r_book (36→35)、invoke-ai/InvokeAI (35→36)、smicallef/spiderfoot (44→43)
