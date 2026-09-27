@@ -1,20 +1,20 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-09-21 02:32:30 CST
+- 生成时间: 2026-09-28 03:39:07 CST
 - 观测仓库数: 676
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 5459 Star。
-- 增长最快的项目是 deepseek-ai/deepseek-harness，本周新增 8674 Star。
-- 本周共有 9 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
+- 本周最热行业是 科技，前 10 名累计新增 4735 Star。
+- 增长最快的项目是 crowdsecurity/crowdsec，本周新增 14985 Star。
+- 本周共有 10 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
 - 检测到 2 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: deepseek-ai/deepseek-harness (周增 8674 Star)
-- 新上榜数量: 9 (统计所有榜单中的新进入项目)
+- 增长最快项目: crowdsecurity/crowdsec (周增 14985 Star)
+- 新上榜数量: 11 (统计所有榜单中的新进入项目)
 - 异常项目数: 14 (周增长明显偏离历史中枢)
-- 新秀项目数: 9 (近 90 天创建且本周仍在上涨)
+- 新秀项目数: 10 (近 90 天创建且本周仍在上涨)
 - 总监控仓库数: 676 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
@@ -27,7 +27,7 @@
 - 榜单头部主要语言是 Python / 未知，技术栈集中度比较明显。
 - 当前行业榜中有 2 个近 90 天新项目，适合关注新秀信号。
 ### 财经行业榜 Top 50
-- 本周增长主要由 fintech / blockchain 驱动，说明该行业的热门仓库更集中在这些子赛道。
+- 本周增长主要由 fintech 驱动，说明该行业的热门仓库更集中在这些子赛道。
 - 榜单头部主要语言是 Rust / Python，技术栈集中度比较明显。
 - 当前行业榜中有 0 个近 90 天新项目，适合关注新秀信号。
 ### 科技行业榜 Top 50
@@ -37,26 +37,24 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 排名变化: DietrichGebert/ponytail (72→64)、golang/go (67→70)、microsoft/PowerToys (68→71)、nextlevelbuilder/ui-ux-pro-max-skill (83→80)、Graphify-Labs/graphify (96→93)
+- 排名变化: microsoft/markitdown (39→37)、getify/You-Dont-Know-JS (40→42)、github/spec-kit (72→70)、golang/go (70→72)、farion1231/cc-switch (76→74)
 ### 周增长榜 Top 20
-- 新上榜: BitterSecurity/Decepticon、echo-loop/Echo-Loop、Graphify-Labs/graphify、anthropics/claude-code、msitarzewski/agency-agents
-- 掉榜: browser-use/browser-use、slymnoyann/hey.xyz、multica-ai/andrej-karpathy-skills、torvalds/linux、jingyaogong/minimind
-- 排名变化: affaan-m/ECC (6→2)、sindresorhus/awesome (14→10)、microsoft/markitdown (7→11)、public-apis/public-apis (9→13)、nextlevelbuilder/ui-ux-pro-max-skill (19→15)
+- 新上榜: crowdsecurity/crowdsec、farion1231/cc-switch、brootware/awesome-cyber-security-university、clash-verge-rev/clash-verge-rev、codecrafters-io/build-your-own-x
+- 掉榜: BitterSecurity/Decepticon、echo-loop/Echo-Loop、microsoft/markitdown、anthropics/claude-code、github/spec-kit
+- 排名变化: Graphify-Labs/graphify (7→13)、anomalyco/opencode (17→20)、DietrichGebert/ponytail (3→5)、sindresorhus/awesome (10→8)、deepseek-ai/deepseek-harness (1→2)
 ### 热度评分榜 Top 25
-- 新上榜: deepseek-ai/deepseek-harness、BitterSecurity/Decepticon、echo-loop/Echo-Loop、Graphify-Labs/graphify、anthropics/claude-code
-- 掉榜: browser-use/browser-use、slymnoyann/hey.xyz、react/react、COMBINE-lab/salmon、EbookFoundation/free-programming-books
-- 排名变化: openclaw/openclaw (5→25)、DietrichGebert/ponytail (23→5)、freeCodeCamp/freeCodeCamp (6→23)、mattpocock/skills (20→4)、public-apis/public-apis (3→9)
+- 新上榜: crowdsecurity/crowdsec、farion1231/cc-switch、yt-dlp/yt-dlp、brootware/awesome-cyber-security-university、avelino/awesome-go
+- 掉榜: BitterSecurity/Decepticon、echo-loop/Echo-Loop、microsoft/markitdown、msitarzewski/agency-agents、github/spec-kit
+- 排名变化: clash-verge-rev/clash-verge-rev (21→11)、freeCodeCamp/freeCodeCamp (23→14)、Graphify-Labs/graphify (8→16)、openclaw/openclaw (25→18)、anthropics/claude-code (13→19)
 ### 新秀榜 Top 20
-- 新上榜: gprokaznik4-bit/CryptoGridMaster-Bot、pseudo-longinus/quant-buddy-view、AsakiriLingo/asakiri-studio
-- 掉榜: 2233admin/qmtcli
-- 排名变化: synthetic-sciences/openscience (4→5)、simonlin1212/Vibe-Research (5→6)、xuzhougeng/wisp-science (6→7)
+- 新上榜: jundizhou/easy-stock、Simreal-AI/Xitadel-QuantBench、shigella520/MindTrain、codejunkie99/rosterroom
+- 掉榜: gprokaznik4-bit/CryptoGridMaster-Bot、pseudo-longinus/quant-buddy-view、AsakiriLingo/asakiri-studio
+- 排名变化: aipoch/open-science (3→5)、openai/codex-security (2→3)、synthetic-sciences/openscience (5→6)、simonlin1212/Vibe-Research (6→7)、xuzhougeng/wisp-science (7→8)
 ### 教育行业榜 Top 50
-- 新上榜: echo-loop/Echo-Loop
-- 掉榜: rathena/rathena
-- 排名变化: brycewang-stanford/Auto-Empirical-Research-Skills (48→46)、0atman/noboilerplate (46→47)、antonio-morales/Fuzzing101 (47→48)、yhzhang0128/egos-2000 (49→50)
+- 排名变化: brycewang-stanford/Auto-Empirical-Research-Skills (46→41)、echo-loop/Echo-Loop (49→45)、MariaLetta/free-gophers-pack (44→46)、EbTech/rust-algorithms (45→47)、0atman/noboilerplate (47→49)
 ### 医学行业榜 Top 50
-- 排名变化: aipoch/open-science (12→10)、OHIF/Viewers (10→11)、danielecook/Awesome-Bioinformatics (11→12)、medplum/medplum (23→22)、MrGiovanni/UNetPlusPlus (22→23)
+- 排名变化: the-momentum/open-wearables (27→25)、sfikas/medical-imaging-datasets (25→27)、synthetic-sciences/openscience (17→16)、linhandev/dataset (16→17)、FreedomIntelligence/Awesome-AI4Med (21→20)
 ### 财经行业榜 Top 50
-- 排名变化: HKUDS/Vibe-Trading (8→7)、anoma/anoma (7→8)、AmazingAng/WTF-Solidity (26→25)、smartcontractkit/full-blockchain-solidity-course-js (25→26)
+- 排名变化: getlago/lago (33→32)、foundry-rs/foundry (32→33)、simonlin1212/a-stock-data (35→34)、akaunting/akaunting (34→35)
 ### 科技行业榜 Top 50
-- 排名变化: usestrix/strix (11→10)、commaai/openpilot (10→11)、harvard-edge/cs249r_book (36→35)、invoke-ai/InvokeAI (35→36)、smicallef/spiderfoot (44→43)
+- 排名变化: nautechsystems/nautilus_trader (31→30)、HandsOnLLM/Hands-On-Large-Language-Models (30→31)、harvard-edge/cs249r_book (35→34)、yamadashy/repomix (34→35)
