@@ -1,21 +1,21 @@
 # GitHub 行业趋势看板 AI 周报
 
-- 生成时间: 2026-10-05 03:07:09 CST
-- 观测仓库数: 676
+- 生成时间: 2026-10-12 04:02:59 CST
+- 观测仓库数: 675
 
 ## 本周摘要
-- 本周最热行业是 科技，前 10 名累计新增 4948 Star。
-- 增长最快的项目是 GyulyVGC/sniffnet，本周新增 41334 Star。
+- 本周最热行业是 科技，前 10 名累计新增 7672 Star。
+- 增长最快的项目是 dipakkr/awesome-ai-engineering，本周新增 22366 Star。
 - 本周共有 5 个近 90 天新项目进入新秀候选池，其中 5 个热度表现突出。
-- 检测到 1 个异常增长项目，说明榜单中存在明显的爆发型仓库。
+- 检测到 4 个异常增长项目，说明榜单中存在明显的爆发型仓库。
 
 ## 趋势卡片
 - 本周最热行业: 科技 (按前 10 名累计周增长计算)
-- 增长最快项目: GyulyVGC/sniffnet (周增 41334 Star)
-- 新上榜数量: 11 (统计所有榜单中的新进入项目)
-- 异常项目数: 7 (周增长明显偏离历史中枢)
+- 增长最快项目: dipakkr/awesome-ai-engineering (周增 22366 Star)
+- 新上榜数量: 8 (统计所有榜单中的新进入项目)
+- 异常项目数: 16 (周增长明显偏离历史中枢)
 - 新秀项目数: 5 (近 90 天创建且本周仍在上涨)
-- 总监控仓库数: 676 (当前周用于分析与推荐的仓库池)
+- 总监控仓库数: 675 (当前周用于分析与推荐的仓库池)
 
 ## 行业观察
 ### 教育行业榜 Top 50
@@ -37,26 +37,26 @@
 
 ## 本周变化报告
 ### 全球总榜 Top 100
-- 排名变化: DietrichGebert/ponytail (63→57)、firecrawl/firecrawl (41→36)、farion1231/cc-switch (74→71)、harry0703/MoneyPrinterTurbo (86→83)、NousResearch/hermes-agent (19→17)
+- 排名变化: DietrichGebert/ponytail (57→53)、farion1231/cc-switch (71→67)、avelino/awesome-go (40→38)、Snailclimb/JavaGuide (53→55)、langgenius/dify (54→56)
 ### 周增长榜 Top 20
-- 新上榜: GyulyVGC/sniffnet、harry0703/MoneyPrinterTurbo、HunxByts/GhostTrack、msitarzewski/agency-agents、trimstray/the-book-of-secret-knowledge
-- 掉榜: crowdsecurity/crowdsec、brootware/awesome-cyber-security-university、clash-verge-rev/clash-verge-rev、codecrafters-io/build-your-own-x、anomalyco/opencode
-- 排名变化: public-apis/public-apis (14→10)、DietrichGebert/ponytail (5→2)、firecrawl/firecrawl (10→7)、farion1231/cc-switch (6→9)、nextlevelbuilder/ui-ux-pro-max-skill (15→12)
+- 新上榜: dipakkr/awesome-ai-engineering、thedotmack/claude-mem、earthtojake/text-to-cad、LosaLosSantos/aurelio-finance、multica-ai/andrej-karpathy-skills
+- 掉榜: GyulyVGC/sniffnet、harry0703/MoneyPrinterTurbo、HunxByts/GhostTrack、yt-dlp/yt-dlp、trimstray/the-book-of-secret-knowledge
+- 排名变化: msitarzewski/agency-agents (18→9)、public-apis/public-apis (10→19)、firecrawl/firecrawl (7→14)、obra/superpowers (8→11)、nextlevelbuilder/ui-ux-pro-max-skill (12→15)
 ### 热度评分榜 Top 25
-- 新上榜: GyulyVGC/sniffnet、microsoft/markitdown、EbookFoundation/free-programming-books、microsoft/vscode、tensorflow/tensorflow
-- 掉榜: crowdsecurity/crowdsec、deepseek-ai/deepseek-harness、yt-dlp/yt-dlp、sindresorhus/awesome、brootware/awesome-cyber-security-university
-- 排名变化: openclaw/openclaw (18→7)、DietrichGebert/ponytail (10→2)、freeCodeCamp/freeCodeCamp (14→6)、anthropics/skills (23→15)、obra/superpowers (5→12)
+- 新上榜: dipakkr/awesome-ai-engineering、thedotmack/claude-mem、yt-dlp/yt-dlp、msitarzewski/agency-agents、LosaLosSantos/aurelio-finance
+- 掉榜: GyulyVGC/sniffnet、microsoft/markitdown、anthropics/skills、react/react、microsoft/vscode
+- 排名变化: EbookFoundation/free-programming-books (16→24)、obra/superpowers (12→6)、freeCodeCamp/freeCodeCamp (6→11)、openclaw/openclaw (7→12)、n8n-io/n8n (14→19)
 ### 新秀榜 Top 20
-- 新上榜: AsakiriLingo/asakiri-studio、zhuyifang/tonghuasun-codex
-- 掉榜: Simreal-AI/Xitadel-QuantBench、aipoch/open-science、synthetic-sciences/openscience、simonlin1212/Vibe-Research、xuzhougeng/wisp-science
-- 排名变化: openai/codex-security (3→2)、jundizhou/easy-stock (2→3)
+- 新上榜: LosaLosSantos/aurelio-finance、abdullaitcenter-hue/comet-trail-archives
+- 掉榜: AsakiriLingo/asakiri-studio、zhuyifang/tonghuasun-codex
+- 排名变化: jundizhou/easy-stock (3→5)、deepseek-ai/deepseek-harness (1→2)、openai/codex-security (2→3)
 ### 教育行业榜 Top 50
-- 排名变化: logisim-evolution/logisim-evolution (27→26)、linsa-io/books (26→27)、gsantner/markor (34→33)、ivmm/Student-resources (33→34)、brycewang-stanford/Auto-Empirical-Research-Skills (41→40)
+- 排名变化: gsantner/markor (33→32)、mikesprague/udacity-nanodegrees (32→33)、echo-loop/Echo-Loop (44→43)、berwin/Blog (43→44)
 ### 医学行业榜 Top 50
-- 排名变化: synthetic-sciences/openscience (16→14)、aipoch/open-science (10→9)、biopython/biopython (9→10)、seandavi/awesome-single-cell (14→15)、google/deepvariant (15→16)
+- 排名变化: maziyarpanahi/openmed (8→7)、openemr/openemr (7→8)、synthetic-sciences/openscience (14→13)、OpenHealthForAll/open-health (13→14)、openmrs/openmrs-core (39→38)
 ### 财经行业榜 Top 50
-- 排名变化: Fincept-Corporation/FinceptTerminal (10→9)、linera-io/linera-protocol (9→10)
+- 排名变化: simonlin1212/a-stock-data (34→31)、xbtlin/ai-berkshire (22→21)、diem/diem (21→22)、Chia-Network/chia-blockchain (31→32)、getlago/lago (32→33)
 ### 科技行业榜 Top 50
-- 新上榜: GyulyVGC/sniffnet
-- 掉榜: onnx/onnx
-- 排名变化: microsoft/semantic-kernel (33→36)、bee-san/Ciphey (47→50)、The-Art-of-Hacking/h4cker (29→31)、chaitin/SafeLine (42→44)、soxoj/maigret (18→19)
+- 新上榜: dipakkr/awesome-ai-engineering
+- 掉榜: bee-san/Ciphey
+- 排名变化: thedotmack/claude-mem (5→4)、hacksider/Deep-Live-Cam (4→5)、ItzCrazyKns/Vane (21→20)、ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code (20→21)、mukul975/Anthropic-Cybersecurity-Skills (24→23)
